@@ -1,0 +1,1035 @@
+1
+00:00:00,000 --> 00:00:05,839
+Eu, pessoal, tudo bem?
+
+2
+00:00:06,080 --> 00:00:11,099
+Sou professor Marco Marrafão e hoje nós vamos conversar em quatro blocos
+
+3
+00:00:11,140 --> 00:00:15,359
+sobre a teoria da nova constitucional, este grande curso que nós temos
+
+4
+00:00:15,380 --> 00:00:18,760
+que é o curso de Pós-Veduação em Direito Comuncional
+
+5
+00:00:18,800 --> 00:00:22,780
+e a D da Academia Brasileira de Direito Comuncional.
+
+6
+00:00:22,820 --> 00:00:26,219
+É um tema muito importante, é um tema que nós vamos estudar
+
+7
+00:00:26,219 --> 00:00:33,219
+as bases do direito conchonal, é importante dizer que o tamanho do edifício de vocês,
+
+8
+00:00:33,219 --> 00:00:41,219
+a gente sempre tem que lembrar isso, vai ser dependente do tamanho da base, da etapa de formação,
+
+9
+00:00:41,219 --> 00:00:47,219
+e a teoria da nama conchonal é uma matéria que ela é estruturante para o estudioso direito conchonal.
+
+10
+00:00:47,219 --> 00:00:52,219
+Se você é mais distrado, você precisa saber teoria da nama conchonal para entre os limites
+
+11
+00:00:52,219 --> 00:00:58,219
+e as possibilidades da efetividade, da eficaz social, da constituição da República.
+
+12
+00:00:58,219 --> 00:01:05,219
+Se você é um membro do Ministério Público, da Polícia, se você é um editor da receita,
+
+13
+00:01:05,219 --> 00:01:11,219
+se você é um advogado, todos essas matérias do nosso dia a dia, nossos estudos jurídicos,
+
+14
+00:01:11,219 --> 00:01:18,219
+dependem dos limites das possibilidades do campo de incidência, validade, vigência, da nama conchonal.
+
+15
+00:01:18,219 --> 00:01:24,219
+Esse tema fica cada vez mais animado, cada vez mais debatido, especialmente quando nós pensamos
+
+16
+00:01:24,219 --> 00:01:31,219
+no contexto do chamado pensamento post-positivista. Nós sabemos que, de algum tempo,
+
+17
+00:01:31,219 --> 00:01:38,219
+nós falamos sobre normatividade de princípios, nós falamos a diferença ação entre princípios e regras,
+
+18
+00:01:38,219 --> 00:01:45,219
+isso implica uma nova forma de relacionamento da constituição com as leis infra-constitonais,
+
+19
+00:01:45,219 --> 00:01:50,219
+então é muito importante que a gente possa defender e entender esse conceito no contexto
+
+20
+00:01:50,219 --> 00:01:57,219
+desse novo pensamento, do novo conchonalismo, para que a gente possa avançar na juridição
+
+21
+00:01:57,219 --> 00:02:05,219
+conchonal, ou seja, no campo de abrangência, eficácia e aplicação da constituição da República.
+
+22
+00:02:05,219 --> 00:02:12,219
+Então, esse tema da teoria da norma, ele vai nos ajudar a trazer subsídios para que a gente possa compreender.
+
+23
+00:02:13,219 --> 00:02:17,219
+E para que isso se torna de maneira mais clara, sempre tem o ditóleo, a gente,
+
+24
+00:02:17,219 --> 00:02:23,219
+é preciso entender que as grandes codificações na história do direito são jovens,
+
+25
+00:02:23,219 --> 00:02:27,219
+não tem um direito milenar. A gente fala, olha, codificações em merda e ematresenta,
+
+26
+00:02:27,219 --> 00:02:32,219
+entre 300 e pouco anos atrás, enquanto nós temos o história do direito
+
+27
+00:02:32,219 --> 00:02:39,219
+que ele é muito mais voltada a praxis, a uma tópica jurídica, a sentada do direito real,
+
+28
+00:02:39,219 --> 00:02:44,219
+o direito vivido da vida como ela é. Então, muito importante, eu vou resgatar um pouquinho
+
+29
+00:02:44,219 --> 00:02:49,219
+pra vocês os conceitos pelas quais se desenvolve a teoria da norma conchonal
+
+30
+00:02:49,219 --> 00:02:55,219
+e esse conceito passa pela compreensão, próprios sentidos e usos da palavra com a constituição.
+
+31
+00:02:55,219 --> 00:03:00,219
+Eu sei que todos aqui domínam a ideia de constituição, sabe que é a lei maior,
+
+32
+00:03:00,219 --> 00:03:05,219
+que é a lei fundamental, ela é o fundamento de validade de todos os sistemas jurídicos normativos,
+
+33
+00:03:05,219 --> 00:03:11,219
+mas é importante que também a gente possa compreender qual é o significado
+
+34
+00:03:11,219 --> 00:03:16,219
+da ideia de constituição enquanto o lei fundamental a partir de diferentes visões.
+
+35
+00:03:16,219 --> 00:03:24,219
+Uma vez que nós trabalhamos a teoria da norma constitucional, no contexto da modernidade,
+
+36
+00:03:24,219 --> 00:03:30,219
+a era das codificações, os grandes sistemas comunsionais, a era da modernidade.
+
+37
+00:03:30,219 --> 00:03:34,219
+Tudo bem? Então, o professor Canotiro, ele tem pra gente só a lei,
+
+38
+00:03:34,219 --> 00:03:39,219
+a lei acompanha comigo no slide, o professor Canotiro, ele tem uma classificação muito importante
+
+39
+00:03:39,219 --> 00:03:46,219
+pra gente poder iniciar esse debate, ele fala sobre sentidos e usos da palavra constituição.
+
+40
+00:03:46,219 --> 00:03:52,219
+E o primeiro sentido de uso que ele traz pra gente é justamente o sentido de uso descritivo,
+
+41
+00:03:52,219 --> 00:03:59,219
+ou seja, nesse conceito, nessa categoria, a gente vai defender a seguinte ideia,
+
+42
+00:03:59,219 --> 00:04:02,219
+o que significa uma construção em sentido descritivo?
+
+43
+00:04:02,219 --> 00:04:10,219
+Então, eu gostaria de convidar vocês a fazer comigo uma viagem, uma viagem, uma nave espacial.
+
+44
+00:04:10,219 --> 00:04:17,220
+Imaginemos uma tribua alienígena em Marte, e a gente tá nessa nave espacial em Marte
+
+45
+00:04:17,220 --> 00:04:21,220
+e lá a gente descobre que esses alienígenas não têm escrita.
+
+46
+00:04:21,220 --> 00:04:27,220
+Mas você percebe que eles têm uma forma de organização social pra que eles possam viver em comunidade.
+
+47
+00:04:27,220 --> 00:04:34,220
+Nessa forma de organização social, você começa a verificar que há constâncias na conduta,
+
+48
+00:04:34,220 --> 00:04:41,220
+ou seja, certas condutas são frequentes na vida real daquela sociedade organizada.
+
+49
+00:04:41,220 --> 00:04:48,220
+E a gente, a nossa nave espacial, tá olhando ao funcionamento daquela tribua de alienígenas.
+
+50
+00:04:48,220 --> 00:04:52,220
+Esses alienígenas, então, você começa a perceber, é uma sociedade diferente.
+
+51
+00:04:52,220 --> 00:04:59,220
+Eles têm lá, nasce uma criança, a criança não é ligada ao pai e a mãe tão somente.
+
+52
+00:04:59,220 --> 00:05:04,220
+Ela é da coletividade, todos cuidam da criança.
+
+53
+00:05:04,220 --> 00:05:10,220
+E você tá ali observando como observador externo, tá verificando que aquela organização funciona.
+
+54
+00:05:10,220 --> 00:05:15,220
+Effectivamente, não só os pais, mas toda a tribua de alienígenas cuidam dessa criança.
+
+55
+00:05:15,220 --> 00:05:22,220
+Você percebe que sempre quando há um conflito entre membros entre os próprios alienígenas,
+
+56
+00:05:22,220 --> 00:05:29,220
+marcianos, há sempre uma pessoa com uma pintura especial que é quem vai decidir esse conflito.
+
+57
+00:05:29,220 --> 00:05:33,220
+Seria o que nós temos como um magistrado pra aquela tribua.
+
+58
+00:05:33,220 --> 00:05:40,220
+Você percebe que há um conselho de anciãs, são as senoras mais idosas da crise alienígenas,
+
+59
+00:05:40,220 --> 00:05:47,220
+e esse conselho de anciã é que faz um julgamento supremo daquela tribua.
+
+60
+00:05:47,220 --> 00:05:54,220
+Então, pra que há de sabedoria, a prodência, o conselho de anciãs, das senoras que trazem aí
+
+61
+00:05:54,220 --> 00:06:00,220
+essa manifestação do poder feminino aliada à experiência, é que vai decidir, por exemplo, ter uma sensíveis,
+
+62
+00:06:00,220 --> 00:06:03,220
+como fazemos a guerra ou mantemos a paz entre os atribos.
+
+63
+00:06:03,220 --> 00:06:07,220
+E você percebe que essa constância sempre se verifica.
+
+64
+00:06:07,220 --> 00:06:14,220
+Então, a gente pode dizer de maneira bastante tranquila que há ali uma constituição,
+
+65
+00:06:14,220 --> 00:06:19,220
+mas não uma constituição escrita, o livrinho bonitinho, como a gente acostuma a estudar,
+
+66
+00:06:19,220 --> 00:06:25,220
+a sistema de sede organizado, há uma constituição porque existem leis fundamentais
+
+67
+00:06:25,220 --> 00:06:32,220
+que são leis costumeiras, oriundas de uma prática reiterada se tornam institucionais
+
+68
+00:06:32,220 --> 00:06:37,220
+e essas leis, essas normas são seguidas pelos membros atribos.
+
+69
+00:06:37,220 --> 00:06:43,220
+Ninguém trata o filho de maneira individualista todo mundo respeita a deção do juiz que julga os marcianos
+
+70
+00:06:43,220 --> 00:06:50,220
+e quando vai fazer guerra antes passa pela aprovação ou não da do conselho de anciãs.
+
+71
+00:06:50,220 --> 00:06:58,220
+Então, o que nós podemos dizer é que essa tribo só é organizada, só é organizada,
+
+72
+00:06:58,220 --> 00:07:01,220
+porque existem leis de organização.
+
+73
+00:07:01,220 --> 00:07:05,220
+Leis fundamentais que fazem com que essa tribo seja o que ela é.
+
+74
+00:07:05,220 --> 00:07:11,220
+E é esse o conceito mais imediato de constituição, a construção enquanto o lei fundamental,
+
+75
+00:07:11,220 --> 00:07:17,220
+é aquela lei que se você alterar, você altera o modo de organização social,
+
+76
+00:07:17,220 --> 00:07:23,220
+o modo de organização seja o ver estado, o modo de organização estatal, de uma determinada sociedade.
+
+77
+00:07:23,220 --> 00:07:25,220
+Por isso é esse sentido de fundamental.
+
+78
+00:07:25,220 --> 00:07:34,220
+E é nesse contexto que nós entendemos que há a possibilidade de se falar, existe uma construção
+
+79
+00:07:34,220 --> 00:07:39,220
+em sentido descritivo nos ensina nosso mestre de conhímbra para o seu canotírio,
+
+80
+00:07:39,220 --> 00:07:44,220
+naquele livro bastante grande, bastante volumoso sobre teoria da construção,
+
+81
+00:07:44,220 --> 00:07:50,220
+grande monumento e da jurisprudência mundial dos juristas mundiais para o seu canotírio.
+
+82
+00:07:51,220 --> 00:07:54,220
+Então, a gente pode afirmar, olha, todos os países,
+
+83
+00:07:54,220 --> 00:07:59,220
+por mais atrasados, mais de um vídeo que sejam, possuem uma construção em sentido descritivo
+
+84
+00:07:59,220 --> 00:08:02,220
+quando eles formarem uma sociedade organizada,
+
+85
+00:08:02,220 --> 00:08:07,220
+porque esse é uma sociedade organizada, isso significa que existem leis de organização.
+
+86
+00:08:07,220 --> 00:08:13,220
+Então nós, ali enignas, quando nós voltamos com aquela lupa que nós fazemos,
+
+87
+00:08:13,220 --> 00:08:18,220
+nós começamos a identificar as leis costumeiras em razão das conductas fequentes,
+
+88
+00:08:18,220 --> 00:08:25,220
+ou seja, a leis, porque as conductas dos habitantes daquela tribolia nígina
+
+89
+00:08:25,220 --> 00:08:31,220
+são perceptíveis, elas regulam as conductas, a leis que regulam essas conductas.
+
+90
+00:08:31,220 --> 00:08:38,220
+Então, em sentido descritivo, nós temos essa ideia de que todos os países possuem uma construção.
+
+91
+00:08:38,220 --> 00:08:43,220
+Isso vai fazer com que? Nós não colocamos nenhum juízo de valor,
+
+92
+00:08:43,220 --> 00:08:50,220
+nenhuma forma moral acerca do que, se essa constição descritiva, ela é boa, ela é ruim.
+
+93
+00:08:50,220 --> 00:08:54,220
+Ela é apenas a expressão de uma dada realidade.
+
+94
+00:08:54,220 --> 00:08:57,220
+Ela é o espelho dessa dada realidade.
+
+95
+00:08:57,220 --> 00:09:05,220
+A realidade, por essência, ela desespeita ao mundo do ser das coisas como ela são,
+
+96
+00:09:05,220 --> 00:09:10,220
+ela não expressa exatamente aquilo que nós gostaríamos que ela fosse.
+
+97
+00:09:10,220 --> 00:09:16,220
+Ou seja, o mundo do dever ser, para vocês gravarem meio isso, nunca se esqueçam.
+
+98
+00:09:16,220 --> 00:09:22,220
+Sempre assim, o mundo do ser nem todos são felizes.
+
+99
+00:09:22,220 --> 00:09:27,220
+O mundo do dever ser, todos deveriam ser felizes.
+
+100
+00:09:27,220 --> 00:09:31,220
+Então, ao que nós mais queremos, que as pessoas sejam felizes, que todo mundo vive em paz,
+
+101
+00:09:31,220 --> 00:09:35,220
+cada um com pessoas obrigações, no humor e a vida dos outros,
+
+102
+00:09:35,220 --> 00:09:40,220
+se a gente pálise ver nossa vida feliz, então, quando as pessoas são felizes, o mundo vai melhor.
+
+103
+00:09:40,220 --> 00:09:47,220
+Então, no mundo da realidade, nem todos são felizes. No mundo da norma, o dever ser, todos deveriam ser felizes.
+
+104
+00:09:47,220 --> 00:09:54,220
+Então, quando nós falamos em sentido descritivo, nós não colocamos nenhum juízo de valor,
+
+105
+00:09:54,220 --> 00:09:59,220
+nenhuma avaliação ética ou moral sobre essa realidade.
+
+106
+00:09:59,220 --> 00:10:06,220
+Mas, apenas aferimos que existem leis fundamentais, nesta realidade, que operam como normas funcionais,
+
+107
+00:10:06,220 --> 00:10:11,220
+aí, nossa tema percebam, estou tentando fazer para vocês a dimensão realista,
+
+108
+00:10:11,220 --> 00:10:14,220
+ou, sem te estudar, os autores mais contemporâneos,
+
+109
+00:10:14,220 --> 00:10:19,220
+quando nós falamos em feio de grande laçale, a dimensão sociológica do que é uma lei fundamental.
+
+110
+00:10:19,220 --> 00:10:22,220
+Sem te ver, para a Cauchemite, aí nós falamos o quê?
+
+111
+00:10:22,220 --> 00:10:28,220
+A dimensão política da ideia de lei fundamental, mas também, mas estão inscritas numa dimensão,
+
+112
+00:10:28,220 --> 00:10:35,220
+uma dimensão realista das coisas como a lação, daquilo que se expressa da norma constitucional,
+
+113
+00:10:35,220 --> 00:10:42,220
+expressa pela realidade, não estamos falando de normas escritas por enquanto.
+
+114
+00:10:42,220 --> 00:10:46,220
+Está certo? Então, nesse sentido, temos uma construção que é o espelho de uma realidade,
+
+115
+00:10:46,220 --> 00:10:54,220
+essa construção, então, ela apenas regula e não necessariamente a escrita, ela pode ser costumente.
+
+116
+00:10:54,220 --> 00:11:00,220
+Tudo bem? Só que nós sabemos que a mídia que a sociedade se desenvolve não dá para depender
+
+117
+00:11:00,220 --> 00:11:07,220
+só do costume. As leis precisam ganhar o certo formalismo, o costume demora muito para se alterar,
+
+118
+00:11:07,220 --> 00:11:12,220
+primeiro demora muito para se impor, um costume para se cristalizar e se tornar uma instituição,
+
+119
+00:11:12,220 --> 00:11:17,220
+ele demora um tempo. E também nós sabemos que para alterar aquela realidade,
+
+120
+00:11:17,220 --> 00:11:22,220
+muitas vezes, poderia demorar séculos quando nós estamos falando de um direito costumero
+
+121
+00:11:22,220 --> 00:11:28,220
+ou de normas constitucionais, que são normas fundamentais, oriundas da base social.
+
+122
+00:11:28,220 --> 00:11:34,220
+Então, o nosso congioneiro já trabalha com uma segunda dimensão. Qual é essa segunda dimensão?
+
+123
+00:11:34,220 --> 00:11:40,220
+É isso a mente a dimensão documental. Isso que vai dizer o nosso professor Canotilho?
+
+124
+00:11:40,220 --> 00:11:48,220
+Na dimensão documental, nós temos uma perspectiva e que nós não mais trabalhamos apenas com o costume,
+
+125
+00:11:48,220 --> 00:11:52,220
+mas a realidade sociológica, a descrição da realidade sociológica.
+
+126
+00:11:52,220 --> 00:11:59,220
+Nós já começamos a formalizar, em documentos escritos, essa dimensão através de uma carta,
+
+127
+00:11:59,220 --> 00:12:06,220
+através da procedimentalização, da criação de novas regras para aquela sociedade,
+
+128
+00:12:06,220 --> 00:12:11,220
+através da estruturação das competências, que nós chamamos, pauta mínima.
+
+129
+00:12:11,220 --> 00:12:16,220
+Então, agora, a gente volta à nossa tribo de alienígenas marcianos, a gente diria,
+
+130
+00:12:16,220 --> 00:12:23,220
+vamos então escrever, coloca aí num documento, não existe propriedade familiar dos filhos,
+
+131
+00:12:23,220 --> 00:12:28,220
+os filhos são cuidados por toda a coletividade. Eu espero.
+
+132
+00:12:28,220 --> 00:12:36,220
+O juiz tem competência para dirimir os conflitos internos.
+
+133
+00:12:36,220 --> 00:12:42,220
+O conselho de anciãs é que decide a prova a guerra ou a paz.
+
+134
+00:12:42,220 --> 00:12:48,220
+Então, você começa a documentar, a formalizar, essa é a dimensão documental.
+
+135
+00:12:48,220 --> 00:12:56,220
+Já faz uma pequena passagem do mundo do direito realístico, sociológico, do direito costumero,
+
+136
+00:12:56,220 --> 00:13:01,220
+para um direito formalizado. Então, a dimensão documental tem essa característica.
+
+137
+00:13:01,220 --> 00:13:09,220
+Só que essa passagem é muito fraca, como eu disse assim, ela ainda é muito tênua, por quê?
+
+138
+00:13:09,220 --> 00:13:12,220
+Ela apenas vai retratar, ela vai tirar uma foto espelho daquela realidade,
+
+139
+00:13:12,220 --> 00:13:17,220
+é algo como a ideia de conchonsemante, fala leves, e isso significa o quê?
+
+140
+00:13:17,220 --> 00:13:24,220
+Que ela é um espelho também, não coloca o juiz de valor, ela apenas começa a ter traços de normatividade,
+
+141
+00:13:24,220 --> 00:13:31,220
+ela apenas começa a ter traços de devercer, aliás, ainda não tem devercer, desculpe.
+
+142
+00:13:31,220 --> 00:13:35,220
+Ela apenas começa a ter traços de formalidade, de formalidade,
+
+143
+00:13:35,220 --> 00:13:40,220
+um pouco traste de devercer, desespeito a criação de novas leis, a criação de novas hegas.
+
+144
+00:13:40,220 --> 00:13:44,220
+Então, essa dimensão documental também precisa ser visto.
+
+145
+00:13:44,220 --> 00:13:51,220
+Nós já trabalhamos, vocês estudam bastante isso, nós já trabalhamos com a dimensão de uma construção normativa.
+
+146
+00:13:51,220 --> 00:13:55,220
+E quando nós salamos de construção normativa, sempre vem aquele nome, né?
+
+147
+00:13:55,220 --> 00:13:59,220
+Do Conrad Hesse, nosso grande pensador juíste alemão,
+
+148
+00:13:59,220 --> 00:14:06,220
+que vai sintetizar esses conceitos que dominaram a pauta contemporânea do conchonalismo,
+
+149
+00:14:06,220 --> 00:14:09,220
+não só o brasileiro, mas do conchonalismo mundial.
+
+150
+00:14:09,220 --> 00:14:16,220
+Então, nós vamos dizer, ainda seguindo nossa característica, nossa itiderário começa a ter que atirar,
+
+151
+00:14:16,220 --> 00:14:23,220
+que existe uma dimensão normativa, um sentido uso normativa do fenômeno constitucional.
+
+152
+00:14:23,220 --> 00:14:26,220
+Esse sentido uso normativa, ele já expressa um devercer.
+
+153
+00:14:27,220 --> 00:14:31,220
+Veja, quando nós salamos um sentido uso descritivo,
+
+154
+00:14:31,220 --> 00:14:36,220
+que é o primeiro que nós estamos falando de um direito não escrito,
+
+155
+00:14:36,220 --> 00:14:41,220
+onde você encontra uma determinada comunidade e você já é tende, já possui,
+
+156
+00:14:41,220 --> 00:14:47,220
+regras de conduta e efetivamente são cumpridas pelos cidadãos ainda aqui,
+
+157
+00:14:47,220 --> 00:14:52,220
+sejam transmissíveis pela viola ou pela via do costume, não pela via escrita.
+
+158
+00:14:53,220 --> 00:14:56,220
+Aqui nós estamos falando de dimensão de documentação,
+
+159
+00:14:56,220 --> 00:15:01,220
+mas tanto a descritiva conta documental ainda dependem,
+
+160
+00:15:01,220 --> 00:15:05,220
+não dependem da realidade, dependem da base socialógica,
+
+161
+00:15:05,220 --> 00:15:08,220
+ela não expressa um bias de transformação social.
+
+162
+00:15:08,220 --> 00:15:12,220
+Por isso que nós salamos no sentido normativo, nós salamos uma pauta
+
+163
+00:15:12,220 --> 00:15:15,220
+que inclui os ideais do conchonalismo contemporâneo.
+
+164
+00:15:15,220 --> 00:15:17,220
+Quais são esses ideais?
+
+165
+00:15:18,220 --> 00:15:21,220
+Primeiro, a ideia de uma lei superior,
+
+166
+00:15:21,220 --> 00:15:24,220
+que vai limitar o poder,
+
+167
+00:15:24,220 --> 00:15:26,220
+vai regular e vai estruturar o estado.
+
+168
+00:15:26,220 --> 00:15:32,220
+Segundo, a ideia de que essa lei superior vai tabelese a tripartição de poderes.
+
+169
+00:15:32,220 --> 00:15:36,220
+Precisa ser três? Não, portanto, é divisão de poderes.
+
+170
+00:15:36,220 --> 00:15:39,220
+Vamos imaginar que é perfeitamente possível dentro do conchonalismo
+
+171
+00:15:39,220 --> 00:15:41,220
+que há de uma divisão de poderes em cinco.
+
+172
+00:15:41,220 --> 00:15:45,220
+E terceiro, uma pauta de garantias,
+
+173
+00:15:45,220 --> 00:15:48,220
+direitos fundamentais, um conteúdo material.
+
+174
+00:15:48,220 --> 00:15:51,220
+Ter umas três grandes bandeiras do conchonalismo.
+
+175
+00:15:51,220 --> 00:15:54,220
+A ideia de uma lei escrita superior que racionaliza o poder,
+
+176
+00:15:54,220 --> 00:15:56,220
+a importância da divisão de poderes,
+
+177
+00:15:56,220 --> 00:15:58,220
+a gente estuda ele na forma tripartite,
+
+178
+00:15:58,220 --> 00:16:04,220
+e, enfim, a importância da própria direita de cigarretias fundamentais
+
+179
+00:16:04,220 --> 00:16:07,220
+é dimensão material das três principais,
+
+180
+00:16:07,220 --> 00:16:10,220
+as três maiores bandeiras do conchonalismo contemporâneo.
+
+181
+00:16:10,220 --> 00:16:11,220
+Que nós estamos dizendo?
+
+182
+00:16:11,220 --> 00:16:14,220
+Ah, agora não basta refletir a realidade.
+
+183
+00:16:14,220 --> 00:16:17,220
+Agora tem que construir um modelo que está de acordo
+
+184
+00:16:17,220 --> 00:16:21,220
+com os cânones, com os ícones do conchonalismo democrático contemporâneo.
+
+185
+00:16:21,220 --> 00:16:23,220
+Essa é a ideia fundamental.
+
+186
+00:16:23,220 --> 00:16:28,220
+É a ideia que nós precisamos avançar para construir um novo tempo.
+
+187
+00:16:28,220 --> 00:16:32,220
+Essa ideia da Constituição brasileira de 1988.
+
+188
+00:16:32,220 --> 00:16:34,220
+Vocês já imaginaram se a conchonalista 1988
+
+189
+00:16:34,220 --> 00:16:38,220
+tivesse uma amazementemente descritiva, como seria?
+
+190
+00:16:38,220 --> 00:16:40,220
+Terrible, né? Ela seria assim.
+
+191
+00:16:40,220 --> 00:16:43,220
+Não existe direita moradia, o direito da saúde não é aplicável,
+
+192
+00:16:43,220 --> 00:16:46,220
+o mínimo não é digno, você não diz isso, ela diz, olha,
+
+193
+00:16:46,220 --> 00:16:48,220
+todos têm direito da saúde.
+
+194
+00:16:48,220 --> 00:16:51,220
+Então ela empolhe um dever ser, dever ser,
+
+195
+00:16:51,220 --> 00:16:55,220
+e significa um projeto de construção de uma data sociedade.
+
+196
+00:16:55,220 --> 00:16:59,220
+E esse projeto, aí nós vamos falar um pouquinho sobre esse,
+
+197
+00:16:59,220 --> 00:17:03,220
+mas detalhado, vai depender justamente dessa dialética entre a capacidade
+
+198
+00:17:03,220 --> 00:17:05,220
+dos agentes públicos da própria sociedade,
+
+199
+00:17:05,220 --> 00:17:08,220
+em fazer a transformação a eficácia desse projeto
+
+200
+00:17:08,220 --> 00:17:12,220
+e as condicionantes da realidade fática.
+
+201
+00:17:12,220 --> 00:17:15,220
+Então a grande diferença guardem bem, é justamente isso.
+
+202
+00:17:15,220 --> 00:17:18,220
+A dimensão normativa, ela coloca um dever ser,
+
+203
+00:17:18,220 --> 00:17:22,220
+coloca algo que deve ser transformado com o olhar para o futuro.
+
+204
+00:17:22,220 --> 00:17:25,220
+Então quando nós falamos de teoria da alma constitucional,
+
+205
+00:17:25,220 --> 00:17:28,220
+no mundo contemporânea da modalidade, nós estamos falando
+
+206
+00:17:28,220 --> 00:17:33,220
+desta perspectiva de dever ser, de uma constituição normativa.
+
+207
+00:17:33,220 --> 00:17:36,220
+Tudo bem? Mas quando falamos em uma questão, em geral,
+
+208
+00:17:36,220 --> 00:17:38,220
+é possível que você me diga, olha, professor,
+
+209
+00:17:38,220 --> 00:17:43,220
+a norma constitucional pode ser realista ao invés de um texto escrito,
+
+210
+00:17:43,220 --> 00:17:48,220
+pode, dependendo do sentido e uso de construção que você está falando.
+
+211
+00:17:48,220 --> 00:17:50,220
+Então você está falando desse sentido descritivo,
+
+212
+00:17:50,220 --> 00:17:54,220
+nós vamos analisar. No Brasil, você sabe que a imp遒ção
+
+213
+00:17:54,220 --> 00:17:59,220
+constitucional impôs sobre grandes fortunas. Qual é a lei que tem a eficácia plena?
+
+214
+00:17:59,220 --> 00:18:01,220
+A próprio, o texto da construção,
+
+215
+00:18:01,220 --> 00:18:05,220
+ou a base sociológica política que nunca concretiza esse mandamento?
+
+216
+00:18:05,220 --> 00:18:10,220
+Então há uma base, uma normatividade constitucional realista,
+
+217
+00:18:10,220 --> 00:18:14,220
+lógico que no direito constitucional nós damos o direito constitucional formal.
+
+218
+00:18:14,220 --> 00:18:17,220
+Mas é importante dizer que a normatividade constitucional,
+
+219
+00:18:17,220 --> 00:18:20,220
+as verdadeiras normas, constitucional direão la sale,
+
+220
+00:18:20,220 --> 00:18:23,220
+numa dimensão descritiva sociológica ou ainda política,
+
+221
+00:18:23,220 --> 00:18:28,220
+poderia estar na realidade. Nosso estudo se foca nas normas jurídico-formais.
+
+222
+00:18:28,220 --> 00:18:31,220
+Mas é importante dizer essa dimensão para que nós possamos
+
+223
+00:18:31,220 --> 00:18:34,220
+melhor compreender esse nome. Tá certo?
+
+224
+00:18:34,220 --> 00:18:38,220
+Então vamos lá, uso descritivo, uso documental, uso normativo.
+
+225
+00:18:38,220 --> 00:18:42,220
+A partir daí nós conseguimos estabelecer uma boa leitura
+
+226
+00:18:42,220 --> 00:18:46,220
+do fenômeno da normatividade constional para que nós possamos
+
+227
+00:18:46,220 --> 00:18:49,220
+avançar e entender a força da modernidade,
+
+228
+00:18:49,220 --> 00:18:52,220
+já que o movimento constionalista, isso é a maior força,
+
+229
+00:18:52,220 --> 00:18:56,220
+sua maior presença, ele é tipicamente moderto.
+
+230
+00:18:56,220 --> 00:19:00,220
+Tá bem? Ele é tipicamente moderno. Nós vamos encontrar traços
+
+231
+00:19:00,220 --> 00:19:03,220
+de constionalismo na antiga agressa,
+
+232
+00:19:03,220 --> 00:19:06,220
+quando se fala na ideia de lei, separação de poderes,
+
+233
+00:19:06,220 --> 00:19:09,220
+ali por castas sociais, a aristocracia, a monarquia
+
+234
+00:19:09,220 --> 00:19:14,220
+e a democracia, a parte do povo, e vamos encontrar traços
+
+235
+00:19:14,220 --> 00:19:19,220
+de constionalismo no período mais antigo, mesmo na República Romano.
+
+236
+00:19:19,220 --> 00:19:22,220
+Mas o constionalismo seria o compromisso da lei,
+
+237
+00:19:22,220 --> 00:19:25,220
+superior da lei que estrutura de vídeo de poder,
+
+238
+00:19:25,220 --> 00:19:27,220
+direitos fundamentais, apenas na modernidade.
+
+239
+00:19:27,220 --> 00:19:30,220
+Para a gente encerrar, então, nunca se esqueçam.
+
+240
+00:19:30,220 --> 00:19:33,220
+Estados direitos trabalham com controle e previsibilidade
+
+241
+00:19:33,220 --> 00:19:35,220
+da intervenção do estatal. Correto?
+
+242
+00:19:35,220 --> 00:19:39,220
+Se nós temos isso, nós precisamos então fazer uma limitação jurídica
+
+243
+00:19:39,220 --> 00:19:42,220
+do poder daí por que a ideia de imperio da lei,
+
+244
+00:19:42,220 --> 00:19:46,220
+a lei é superior à vontade, o que exige controles de constionalidade,
+
+245
+00:19:46,220 --> 00:19:50,220
+daí por que o princípio da legalidade,
+
+246
+00:19:50,220 --> 00:19:53,220
+daí por que a separação dos poderes,
+
+247
+00:19:53,220 --> 00:19:55,220
+daí por que os direitos fundamentais,
+
+248
+00:19:55,220 --> 00:19:58,220
+e tudo isso, como nós estamos em princípio da legalidade,
+
+249
+00:19:58,220 --> 00:20:01,220
+essa parção de poderes e proteção dos direitos fundamentais,
+
+250
+00:20:01,220 --> 00:20:04,220
+vai estar com substanciado, no primeiro momento,
+
+251
+00:20:04,220 --> 00:20:07,220
+no chamado consto-sonalismo liberal,
+
+252
+00:20:07,220 --> 00:20:10,220
+que é as construções de uma pauta mínima de temas
+
+253
+00:20:10,220 --> 00:20:14,220
+que vai levar a chamada emergência das grandes codificações
+
+254
+00:20:14,220 --> 00:20:17,220
+e exigência de sistematização do direito.
+
+255
+00:20:17,220 --> 00:20:20,220
+Tudo bem? Então, no próximo bloco, a gente começa a falar
+
+256
+00:20:20,220 --> 00:20:22,220
+sobre este tema, lembrando que isso é o bloco 1
+
+257
+00:20:22,220 --> 00:20:26,220
+do nosso curso de direito constional da poja doação
+
+258
+00:20:26,220 --> 00:20:29,220
+e direito constional da academia brasileira e direito constional
+
+259
+00:20:29,220 --> 00:20:32,220
+versando sobre teoria da norma constrissional.

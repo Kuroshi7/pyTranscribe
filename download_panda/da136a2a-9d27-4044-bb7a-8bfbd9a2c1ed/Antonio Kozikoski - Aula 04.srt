@@ -1,0 +1,1215 @@
+1
+00:00:00,000 --> 00:00:07,759
+E aí, pessoal, tudo bem? Este é o nosso último bloco.
+
+2
+00:00:07,759 --> 00:00:10,839
+Falaremos sobre a complementação das ideias que já foram
+
+3
+00:00:10,839 --> 00:00:13,679
+entramalhados contigo nos três blocos anteriores.
+
+4
+00:00:13,679 --> 00:00:18,120
+E lá no último, eu falei sobre o princípio da igualdade.
+
+5
+00:00:18,120 --> 00:00:21,760
+Eu relembrei, na verdade, que entrece com o conceito de república,
+
+6
+00:00:21,760 --> 00:00:26,719
+está o conceito de igualdade, estava lá no seu próprio conceito,
+
+7
+00:00:26,719 --> 00:00:30,519
+seja, entendeu. Só que aí, a gente tem que tentar investigar um pouco
+
+8
+00:00:30,519 --> 00:00:34,560
+desse princípio da igualdade. Eu sei, obviamente, que numa pós-graduação completa,
+
+9
+00:00:34,560 --> 00:00:40,759
+como aqui você está tendo na BDCONST, haverá abordagens mil a respeito da igualdade.
+
+10
+00:00:40,759 --> 00:00:44,840
+Mas eu não posso deixar de destacar algo como você vê aí na tela,
+
+11
+00:00:44,840 --> 00:00:49,920
+a regra geral da igualdade e justificativa constitucional da desigualdade.
+
+12
+00:00:49,920 --> 00:00:54,759
+E aí, eu começo falando sobre aquilo que, se já ouviu falar, se conhece,
+
+13
+00:00:54,759 --> 00:00:59,079
+você sabe que a igualdade tem, no mínimo, duas acepções distintas,
+
+14
+00:00:59,079 --> 00:01:04,439
+e a gente pode falar em igualdade formal, ou então, em igualdade material,
+
+15
+00:01:04,439 --> 00:01:07,959
+veja comigo na tela. Primeiramente, a igualdade formal,
+
+16
+00:01:07,959 --> 00:01:12,560
+é aquela igualdade perante, a lei, ou igualdade jurídica.
+
+17
+00:01:12,560 --> 00:01:17,359
+Aquela que decorre do texto constitucional, aquela que está escrita,
+
+18
+00:01:17,359 --> 00:01:23,359
+está lá, você abre a constituição, e vê todos são iguais perante a lei,
+
+19
+00:01:23,480 --> 00:01:27,159
+garantindo se aos brasileiros, e aos estrangeiros residentes do país,
+
+20
+00:01:27,159 --> 00:01:30,000
+a inviolabilidade do direito à vida e da igualdade.
+
+21
+00:01:30,000 --> 00:01:33,920
+Então, veja que interessante, no próprio Artein quinto, capote,
+
+22
+00:01:33,920 --> 00:01:37,560
+você traz, você vê duas mensões à igualdade,
+
+23
+00:01:37,560 --> 00:01:40,920
+todos são iguais perante a lei, a abertura,
+
+24
+00:01:40,920 --> 00:01:43,519
+e a garantida, todos os direitos da igualdade.
+
+25
+00:01:43,519 --> 00:01:46,719
+E aí, depois você já vê ali no primeiro inciso,
+
+26
+00:01:46,719 --> 00:01:49,960
+está escrito que homens e mulheres são iguais em direito
+
+27
+00:01:49,960 --> 00:01:52,239
+e obrigações nos termos da constituição.
+
+28
+00:01:52,239 --> 00:01:55,000
+Só que, veja só que interessante,
+
+29
+00:01:55,000 --> 00:01:59,799
+esta previsão formal fria de igualdade,
+
+30
+00:01:59,799 --> 00:02:04,439
+ela não tem a connotação de transformar as desigualdades de um país gigante,
+
+31
+00:02:04,439 --> 00:02:06,560
+continental como é o Brasil.
+
+32
+00:02:06,560 --> 00:02:09,639
+O Brasil tem vários climas, o Brasil tem vários sótaxes,
+
+33
+00:02:09,639 --> 00:02:15,199
+o Brasil tem várias religiões, o Brasil tem várias pessoas com classes sociais,
+
+34
+00:02:15,199 --> 00:02:19,280
+distintas, e diante de uma diversidade como esta,
+
+35
+00:02:19,280 --> 00:02:22,759
+não poderíamos chegar aqui simplesmente e imbradar
+
+36
+00:02:22,759 --> 00:02:27,360
+todo o sangue, a esperante a lei, porque não somos, não somos concordas.
+
+37
+00:02:27,360 --> 00:02:32,439
+Inclusive, essa igualdade formal, na história monar que a brasileira,
+
+38
+00:02:32,439 --> 00:02:38,599
+ela, enfim, não tinha uma vocação para nenhuma transformação,
+
+39
+00:02:38,599 --> 00:02:42,879
+porque a Constituição de 1824, foi a primeira feita no Brasil,
+
+40
+00:02:42,879 --> 00:02:46,080
+quando Dom Pedro I do Solvê, o Assembleia Nacional Constituente,
+
+41
+00:02:46,080 --> 00:02:50,200
+ela tinha uma grande vocação para a liberdade,
+
+42
+00:02:50,200 --> 00:02:52,520
+era uma Constituição muito liberal,
+
+43
+00:02:52,520 --> 00:02:55,880
+mas ela flertava como toda a Constituição com a igualdade,
+
+44
+00:02:55,880 --> 00:02:59,480
+ela falava que todos são iguais, perante a lei,
+
+45
+00:02:59,480 --> 00:03:04,960
+mas todos quem, porque havia escravos naquele sistema,
+
+46
+00:03:04,960 --> 00:03:08,920
+mulheres não votavam, então, da onde que a gente vai sustentar,
+
+47
+00:03:08,920 --> 00:03:12,920
+aí, uma igualdade material, concorda comigo?
+
+48
+00:03:12,959 --> 00:03:17,119
+Agora, voltando para o nosso contexto atual, a corção brasileira,
+
+49
+00:03:17,119 --> 00:03:21,959
+a gente entendeu que esta ameaira previsão não tem o condão de transformar coisa a o luma,
+
+50
+00:03:21,959 --> 00:03:25,879
+por isso, a gente vai trabalhar a igualdade numa perspectiva diferente,
+
+51
+00:03:25,879 --> 00:03:28,560
+a gente também vai falar em igualdade material,
+
+52
+00:03:28,560 --> 00:03:32,079
+você pode ver aí na sua tela, a igualdade material,
+
+53
+00:03:32,079 --> 00:03:37,839
+que é a igualdade na lei, ou então, a igualdade substancial concorda,
+
+54
+00:03:37,839 --> 00:03:42,719
+é aquela igualdade que, de fato, sai do papel e transforma a sociedade,
+
+55
+00:03:42,719 --> 00:03:47,319
+é aquela igualdade que o Aristóteles já tinha trabalhado nas suas obras,
+
+56
+00:03:47,319 --> 00:03:52,520
+o Aristóteles falava que a igualdade consistia em tratar os iguais de formigual
+
+57
+00:03:52,520 --> 00:03:56,680
+e os desiguais de forma desigual na medida de suas desigualdades,
+
+58
+00:03:56,680 --> 00:03:59,280
+essa ideia foi reinterada pelo Rui Barbosa,
+
+59
+00:03:59,280 --> 00:04:03,039
+e hoje, nortei uma série de políticas públicas no Brasil,
+
+60
+00:04:03,039 --> 00:04:08,360
+as cotas, talvez o exemplo mais gritante desta aplicação de uma igualdade
+
+61
+00:04:08,360 --> 00:04:11,120
+em sentido material concorda,
+
+62
+00:04:11,120 --> 00:04:15,719
+mas tudo bem, tudo bem, já sei que há essa diferença,
+
+63
+00:04:15,719 --> 00:04:19,519
+já sei que a República se volta a promover a igualdade,
+
+64
+00:04:19,519 --> 00:04:23,240
+mas no dia a dia das relações interpeçoais,
+
+65
+00:04:23,240 --> 00:04:27,319
+você de fato estabelecer o que vai parar um e o que vai parar outro,
+
+66
+00:04:27,319 --> 00:04:29,639
+é complicado, é difícil,
+
+67
+00:04:29,639 --> 00:04:34,319
+e essa é uma dificuldade que não atormenta apenas o direito consenual brasileiro,
+
+68
+00:04:34,319 --> 00:04:36,920
+atormenta o direito consenual como um todo,
+
+69
+00:04:36,920 --> 00:04:39,000
+supera nacionalmente falando,
+
+70
+00:04:39,040 --> 00:04:42,120
+todos os países têm uma certa inquietação com isso,
+
+71
+00:04:42,120 --> 00:04:45,720
+inclusive, vários autores de renome ao redor do mundo
+
+72
+00:04:45,720 --> 00:04:48,120
+já se voltaram para estudar a igualdade,
+
+73
+00:04:48,120 --> 00:04:52,519
+e eu trago aqui pelo menos três, que é o Duorkin e o John Hawes
+
+74
+00:04:52,519 --> 00:04:54,639
+e depois o Amartia 100.
+
+75
+00:04:54,639 --> 00:04:59,519
+Agora, o Duorkin, veja só, você tem aí na tela uma explicação.
+
+76
+00:04:59,519 --> 00:05:05,240
+O autor, ele trata de duas teorias de igualdade, igualdade distributiva,
+
+77
+00:05:05,240 --> 00:05:09,560
+então, assim, na hora de entregar a cada um que é seu,
+
+78
+00:05:09,560 --> 00:05:11,439
+quais são os critérios que a gente usa,
+
+79
+00:05:11,439 --> 00:05:14,160
+como é que a gente vai fazer de fato essa distribuição?
+
+80
+00:05:14,160 --> 00:05:16,680
+E olha, pessoal, eu quero que vocês entendam,
+
+81
+00:05:16,680 --> 00:05:19,240
+não tenham eu numa aula de república,
+
+82
+00:05:19,240 --> 00:05:21,639
+a menor pretensão dos gotares se assunto,
+
+83
+00:05:21,639 --> 00:05:23,480
+eu apenas gostaria de destacar,
+
+84
+00:05:23,480 --> 00:05:26,840
+de apontar alguns autores que vão investigar,
+
+85
+00:05:26,840 --> 00:05:28,400
+aprofundar esse conceito,
+
+86
+00:05:28,400 --> 00:05:31,199
+para que você na sua liberdade vá,
+
+87
+00:05:31,199 --> 00:05:33,720
+estude, entenda e procure, tá?
+
+88
+00:05:33,720 --> 00:05:38,760
+Agora, veja só, o Duorkin, ele fala em igualdade e de bem estar,
+
+89
+00:05:38,760 --> 00:05:41,520
+e de igualdade em recurso.
+
+90
+00:05:41,520 --> 00:05:44,640
+A igualdade de bem estar, em primeiro lugar,
+
+91
+00:05:44,640 --> 00:05:47,640
+o esquema distributivo trata as pessoas como iguais,
+
+92
+00:05:47,640 --> 00:05:50,840
+quando distribui outras ferias recursos entre elas,
+
+93
+00:05:50,840 --> 00:05:54,320
+até que nenhuma transferência adicional possa deixá-la
+
+94
+00:05:54,320 --> 00:05:56,360
+mais iguais em bem estar.
+
+95
+00:05:56,360 --> 00:05:59,960
+Ela difere, mínimamente, né, da igualdade em recurso,
+
+96
+00:05:59,960 --> 00:06:02,120
+porque essa vai tratar como iguais,
+
+97
+00:06:02,240 --> 00:06:06,199
+quando distribui o transfere de modo que nenhuma transferência adicional
+
+98
+00:06:06,199 --> 00:06:10,920
+possa deixar mais iguais suas parcelas do total de recursos.
+
+99
+00:06:10,920 --> 00:06:13,720
+Tony, parece ser a mesma coisa? Não, não é.
+
+100
+00:06:13,720 --> 00:06:16,199
+Então, segundo Duorkin, a gente vai ter que fazer ali
+
+101
+00:06:16,199 --> 00:06:20,879
+um teste de egoísmo, né? Um teste de inveja.
+
+102
+00:06:20,879 --> 00:06:27,000
+A gente vai ter que, numa divisão, olhar para o que está com o outro.
+
+103
+00:06:27,000 --> 00:06:31,000
+E quando a gente se sentir confortável com o que está comigo
+
+104
+00:06:31,000 --> 00:06:35,120
+e com o que está com o outro, a gente atingiu aí uma igualdade plena.
+
+105
+00:06:35,120 --> 00:06:38,120
+Só que ele vai separar esta igualdade distributiva
+
+106
+00:06:38,120 --> 00:06:42,879
+e ele vai colocar hora a igualdade com uma connotação
+
+107
+00:06:42,879 --> 00:06:47,720
+mais atrelada ao recurso, hora mais atrelada ao bem estar.
+
+108
+00:06:47,720 --> 00:06:51,600
+Então, por exemplo, eu trago um exemplo mais mundano agora.
+
+109
+00:06:51,600 --> 00:06:58,000
+Imagine o pai de uma família que tem um filho portador de necessidades especial
+
+110
+00:06:58,000 --> 00:07:01,040
+e um filho não portador de necessidades especial.
+
+111
+00:07:01,040 --> 00:07:05,120
+Ele tem um patrimônio para dividir, já quero fazer a divisão em vida,
+
+112
+00:07:05,120 --> 00:07:10,319
+está, enfim, indo desta para melhor e fala, já vou resolver tudo isso agora.
+
+113
+00:07:10,319 --> 00:07:14,680
+Bom, se você for pautar a distribuição de recurso
+
+114
+00:07:14,680 --> 00:07:17,800
+com base na lógica de baixo, né?
+
+115
+00:07:17,800 --> 00:07:21,480
+Cada um e a receber uma mesma quata parte, concorda?
+
+116
+00:07:21,480 --> 00:07:24,879
+Compõe comigo aí de novo na tela, a igualdade em recurso.
+
+117
+00:07:24,879 --> 00:07:32,319
+Então, nessa distribuição, nenhum vai ficar com mais recurso que o outro.
+
+118
+00:07:32,319 --> 00:07:37,120
+Só que, se a gente for pensar numa pessoa portadora de necessidades especial,
+
+119
+00:07:37,120 --> 00:07:39,839
+a depender da necessidade especial que ela possua,
+
+120
+00:07:39,839 --> 00:07:43,480
+pode ser que ela demande um cuidado diferente,
+
+121
+00:07:43,480 --> 00:07:49,399
+um cuidado mais intensivo, algum tipo de material, uma próte, um acompanhamento.
+
+122
+00:07:49,439 --> 00:07:55,359
+Então, talvez nesse jogo, o melhor seja entregar as coisas
+
+123
+00:07:55,359 --> 00:08:02,000
+de parcelas desiguais, de recurso, mas que vão proporcionar ambos interessados,
+
+124
+00:08:02,000 --> 00:08:03,599
+um bem estar.
+
+125
+00:08:03,599 --> 00:08:09,239
+Só que aí alguém poderia falar António, mas espera lá aquele que não é o portador
+
+126
+00:08:09,239 --> 00:08:10,839
+de necessidades especial.
+
+127
+00:08:10,839 --> 00:08:18,039
+Ele tem um gosto refinado por charutos cubanos ou por champanhas caras.
+
+128
+00:08:18,040 --> 00:08:21,160
+Então, o bem estar dele vai ficar prejudicado.
+
+129
+00:08:21,160 --> 00:08:26,760
+Veja como é difícil, então encontrar aí uma adequada medida.
+
+130
+00:08:26,760 --> 00:08:30,000
+Quando a gente fala, e eu trouxe aquele exemplo de largada,
+
+131
+00:08:30,000 --> 00:08:34,080
+tratar igual de forma igual, desigual, na medida de desigualdade, beleza.
+
+132
+00:08:34,080 --> 00:08:38,680
+Quando a gente está discutindo aqui numa aula mais dispositiva, tá?
+
+133
+00:08:38,680 --> 00:08:44,600
+Funciona, mas na hora de dar a cada um que é seu é complicado, é complicado.
+
+134
+00:08:44,639 --> 00:08:49,240
+É verdade que o Dorkin vai até fazer algumas análises desse bem estar
+
+135
+00:08:49,240 --> 00:08:54,720
+e vai falar num bem estar político, num bem estar em pessoal, num bem estar pessoal.
+
+136
+00:08:54,720 --> 00:08:59,360
+Mas antes de abordar essa diferença, eu gostaria de então enfatizar a diferença
+
+137
+00:08:59,360 --> 00:09:04,560
+no caso concreto de distribuir a cada um que é seu e gostaria de dizer que
+
+138
+00:09:04,560 --> 00:09:09,920
+embora o Dorkin fale em bem estar, ele não é utilitarista, não, tá bom?
+
+139
+00:09:09,920 --> 00:09:13,240
+Então, o Jeremy Bentham, por exemplo, ele era um utilitarista.
+
+140
+00:09:13,279 --> 00:09:18,960
+Mas não é o caso do Dorkin, porque como você está vendo aí na tela, o Dorkin,
+
+141
+00:09:18,960 --> 00:09:23,799
+ele vai buscar conformar o bem estar de forma moral.
+
+142
+00:09:23,799 --> 00:09:28,600
+Então, ele não vai simplesmente se palitar pelo simples bem estar.
+
+143
+00:09:28,600 --> 00:09:32,680
+Ele vai tentar encontrar uma justificativa moral para este bem estar.
+
+144
+00:09:32,680 --> 00:09:38,759
+E aí, como eu disse, ao analisar o bem estar, ele vai na sua doutrina separar
+
+145
+00:09:38,759 --> 00:09:42,159
+as coisas da seguinte maneira. Veja lá, há um bem estar,
+
+146
+00:09:42,279 --> 00:09:46,679
+há uma preferência política, é preferência em pessoal, e saiu ali um pouquinho,
+
+147
+00:09:46,679 --> 00:09:51,679
+escada uma preferência pessoal. Nessa preferência política, a gente vai fazer uma distribuição
+
+148
+00:09:51,679 --> 00:09:54,519
+conforme os recursos e as oportunidades de uma comunidade.
+
+149
+00:09:54,519 --> 00:09:59,480
+Então, a gente vai pensar no todo e a partir de uma lógica dessa preferência política,
+
+150
+00:09:59,480 --> 00:10:06,559
+a gente pode estabelecer políticas públicas na hora de desigualar as coisas.
+
+151
+00:10:06,599 --> 00:10:13,719
+Eu vou instalar uma cresce, uma escola, um aonde, talvez numa zona mais urbanizada,
+
+152
+00:10:13,719 --> 00:10:17,679
+numa zona menos urbanizada. Então, aqui a gente vai trabalhar a preferência política
+
+153
+00:10:17,679 --> 00:10:22,959
+e tem um para mim que ninguém seria a iguista ponto D. Exigir uma escola, um bairro,
+
+154
+00:10:22,959 --> 00:10:29,359
+que é de classe alta. Vamos primeiro priorizar a que as baixos de classe talvez não tão alta assim.
+
+155
+00:10:29,359 --> 00:10:34,799
+Agora, ele já vai também trabalhar uma diferença entre preferência em pessoal e preferência pessoal,
+
+156
+00:10:34,799 --> 00:10:40,319
+tem algumas preferências em pessoais que flertam com coisas que não são minhas.
+
+157
+00:10:40,319 --> 00:10:46,359
+Por exemplo, eu admiro muito progresso científico, eu adoro ler, adoro estudar as coisas
+
+158
+00:10:46,359 --> 00:10:50,519
+a respeito das viagens do homem e a lua, mas eu não contribu nada, eu não estou fazendo nada
+
+159
+00:10:50,519 --> 00:10:55,839
+para que isso aconteça, estou apenas me contentando em ler.
+
+160
+00:10:55,839 --> 00:10:59,519
+É uma preferência em pessoal, e aí tem uma preferência pessoal que é esta pauta
+
+161
+00:10:59,519 --> 00:11:03,919
+se por uma lógica mais egoística. Talvez não, eu quero, de fato, a escola aqui,
+
+162
+00:11:03,919 --> 00:11:09,360
+na frente da minha casa, mesmo que o meu filho, o minha filha, vão estudar aí numa escola particular.
+
+163
+00:11:09,360 --> 00:11:14,719
+Tá bom? Bom, o John Rouse, ele também vai trabalhar um pouquinho dessa igualdade,
+
+164
+00:11:14,719 --> 00:11:20,079
+ele sim com moda com a igualdade e na sua busca por uma teoria de justiça,
+
+165
+00:11:20,079 --> 00:11:26,360
+ele aborda algo como você vê aí na sua tela, as diguadadas sociais econômicas devem ser
+
+166
+00:11:26,360 --> 00:11:31,919
+loiridenadas e tal modo que sejam ao mesmo tempo considerados como vantajosas para todos
+
+167
+00:11:32,079 --> 00:11:37,959
+dentro dos limites do razoável, o princípio da diferença, e vinculadas a posições e cargos
+
+168
+00:11:37,959 --> 00:11:42,079
+acessíveis a todos, o princípio de igualdade de oportunidades.
+
+169
+00:11:42,079 --> 00:11:46,719
+E também então se volta aí ao estudo dessa igualdade.
+
+170
+00:11:46,719 --> 00:11:52,279
+Mas um autor que hoje dia está assumindo o certo protagonismo nessa discussão toda,
+
+171
+00:11:52,279 --> 00:11:57,439
+ela amarte assim, porque ele tem uma vocação liberal, sim,
+
+172
+00:11:57,600 --> 00:12:01,760
+mas ele trata a igualdade numa premissa que nenhum tratou até então,
+
+173
+00:12:01,760 --> 00:12:06,880
+veja que interessante o oposicionamento dele, o Amartia, sem ele falar que a igualdade
+
+174
+00:12:06,880 --> 00:12:11,480
+pauta-se naquilo que as pessoas são capazes de realizar e na remoção de obstáculos
+
+175
+00:12:11,480 --> 00:12:16,240
+que empessam o desfruto e de uma vida que elas considerem valiosas.
+
+176
+00:12:16,240 --> 00:12:21,280
+Então hoje em dia no Brasil, e eu não estou dizendo que isso está errado.
+
+177
+00:12:21,280 --> 00:12:26,680
+Talvez a gente tenha que repensar as coisas, eu acho que foi a decisão certa para o momento.
+
+178
+00:12:26,839 --> 00:12:34,039
+Mas a gente sempre pautou-se no discurso da igualdade pensando naquele que não tem condições.
+
+179
+00:12:34,039 --> 00:12:41,079
+Então as bolsas, eu vou conceder a bolsa, a família, a bolsa moradia, enfim,
+
+180
+00:12:41,079 --> 00:12:46,479
+qualquer bolsa econômica, olha os possos naquele que não tem condições.
+
+181
+00:12:46,479 --> 00:12:51,039
+Isso que o Amartia é assim, ele fala não, espera lá, a gente tem que trabalhar as coisas
+
+182
+00:12:51,039 --> 00:12:55,079
+para promover uma igualdade pensando na capacidade.
+
+183
+00:12:55,080 --> 00:13:01,560
+Então vamos entregar recursos para que as pessoas por conta promovam atos necessários
+
+184
+00:13:01,560 --> 00:13:05,200
+a melhoria da sua vida e equilibrem essas coisas.
+
+185
+00:13:05,200 --> 00:13:13,879
+É a tradução, talvez a forma mais difícil de dizer aquilo que há muito tempo, muita gente fala,
+
+186
+00:13:13,879 --> 00:13:17,480
+que é o entregar a varo de pescar ao invés de dar o peixe.
+
+187
+00:13:17,480 --> 00:13:22,120
+Mas como eu falei a pouco, repito, não tem a pretensão aqui de esvaziar essas teorias
+
+188
+00:13:22,120 --> 00:13:23,920
+muito pelo contrário.
+
+189
+00:13:23,919 --> 00:13:29,319
+Gostaria apenas deixar claro que a igualdade está em tríncica, está lá no conceito da
+
+190
+00:13:29,319 --> 00:13:30,319
+república.
+
+191
+00:13:30,319 --> 00:13:36,679
+E é uma preocupação em entender como vamos distribuir os bens nessa república, a fim de cada
+
+192
+00:13:36,679 --> 00:13:43,360
+um, usufrua uma parte deles e saia, obviamente, com o sentimento de felicidade.
+
+193
+00:13:43,360 --> 00:13:44,360
+Tá bom?
+
+194
+00:13:44,360 --> 00:13:45,360
+Interessante.
+
+195
+00:13:45,360 --> 00:13:53,559
+Agora, vejam só, muito da república, muito dessa forma de governo passa pela evolução
+
+196
+00:13:53,559 --> 00:13:55,919
+histórica dos partidos políticos.
+
+197
+00:13:55,919 --> 00:14:00,919
+Você vê aí na tela o tema que a gente vai trabalhar agora nos minutos finais desse nosso
+
+198
+00:14:00,919 --> 00:14:01,919
+último encontro.
+
+199
+00:14:01,919 --> 00:14:04,559
+Evolução histórica dos partidos políticos.
+
+200
+00:14:04,559 --> 00:14:11,799
+Vejam só, os partidos políticos são agrimiações que se voltam a promover ideologias, reunir
+
+201
+00:14:11,799 --> 00:14:16,799
+pessoas ligados por uma ideologia tal ou qual, a fim de que as pessoas conquistem vagas
+
+202
+00:14:16,799 --> 00:14:23,119
+no serviço público eletivo, vou colocar de essa maneira legislativo no executivo.
+
+203
+00:14:23,120 --> 00:14:28,440
+E aí eu trago para vocês que os partidos políticos surgem, concominentemente, a afirmação
+
+204
+00:14:28,440 --> 00:14:30,039
+do sistema representativo.
+
+205
+00:14:30,039 --> 00:14:38,360
+Sim, porque, num momento em que todos votavam no sistema não representativo, de exercício
+
+206
+00:14:38,360 --> 00:14:42,799
+de uma democracia direta, na água, na praça, não sabe de partido político.
+
+207
+00:14:42,799 --> 00:14:47,759
+Eu ia lá e a pessoa, papapá, me opiniou essa e você também e todos nós juntos construímos
+
+208
+00:14:47,759 --> 00:14:48,759
+algo.
+
+209
+00:14:48,759 --> 00:14:53,319
+Então me dimentem que a gente começou a se palitar pela lógica representativa, aí a coisa
+
+210
+00:14:53,319 --> 00:14:54,319
+mudou de cena.
+
+211
+00:14:54,319 --> 00:15:03,480
+Aí, se necessário, a reunião de pessoas ligadas conectados por uma ideologia tal ou
+
+212
+00:15:03,480 --> 00:15:08,919
+qual, que, enfim, promover seus atos necessários a ocupação desses cargos.
+
+213
+00:15:08,919 --> 00:15:09,919
+Tá bom?
+
+214
+00:15:09,919 --> 00:15:14,399
+Também, você vê aí no seu quadro, eu fiz uma menção a fideira-listas e republicanos,
+
+215
+00:15:14,399 --> 00:15:18,559
+os Estados Unidos após a independência, já combinos e gira ordinos lá no levanto
+
+216
+00:15:18,559 --> 00:15:23,159
+revolucionário fornecesse, isso para demonstrar que a história também do partido político,
+
+217
+00:15:23,159 --> 00:15:29,279
+ela vai um pouquinho, enfim, também gravitando em torno da lógica da representatividade.
+
+218
+00:15:29,279 --> 00:15:33,839
+Quando a gente começou a falar de representatividade, eles começaram a se afirmar.
+
+219
+00:15:33,839 --> 00:15:34,839
+Tá bom?
+
+220
+00:15:34,839 --> 00:15:42,439
+No Brasil, os partidos políticos já foram enforcados, hoje estão aí um tanto quanto solto,
+
+221
+00:15:42,439 --> 00:15:47,519
+a diversos partidos políticos, e há uma facilidade incrível na construção do partido
+
+222
+00:15:47,519 --> 00:15:48,519
+político.
+
+223
+00:15:48,519 --> 00:15:53,679
+Já vou lhe dizer que é mais fácil, é mais fácil você criar um partido político,
+
+224
+00:15:53,679 --> 00:15:58,279
+que é provar uma lei por iniciativa popular, é um certo disparate.
+
+225
+00:15:58,279 --> 00:16:03,720
+Agora, toda a tutela, e eu não tenho tempo para falar sobre isso, mas você pode dar uma
+
+226
+00:16:03,720 --> 00:16:09,039
+olhada aí, toda a tutela dos partidos políticos estão ali no artigo 17 da Constituição,
+
+227
+00:16:09,039 --> 00:16:14,600
+que vai falar sobre a criação, fusão, incorporação deles, resguardados, os seguintes
+
+228
+00:16:14,600 --> 00:16:20,200
+presseidos, o cara internacional, o partido político, algum tem a aspecto regional,
+
+229
+00:16:20,200 --> 00:16:24,480
+proeição do Recimento de Recurso Finaster, o Dente da Dio, o Governo Estrangeiro, tudo
+
+230
+00:16:24,480 --> 00:16:30,240
+mais tá lá no artigo 17, não é esse o foco aqui da nossa conversa.
+
+231
+00:16:30,240 --> 00:16:36,080
+Agora, também para a gente finalizar, há uma última observação que eu gostaria de
+
+232
+00:16:36,080 --> 00:16:41,320
+fazer, veja aí na tela, leis de iniciativa popular.
+
+233
+00:16:41,320 --> 00:16:47,840
+Porque dentro desse jogo republicano, naturalmente é dado ao eleitor, ao povo, embora nos confundam
+
+234
+00:16:47,840 --> 00:16:53,120
+os conceitos, o direito de apresentar projetos de lei, sim, porque ninguém mais interessado
+
+235
+00:16:53,120 --> 00:16:57,320
+do que ele, e ninguém mais legitimado do que ele, o titular do poder para apresentar projetos
+
+236
+00:16:57,320 --> 00:17:02,520
+de lei, obviamente a lógica representativa não exclui a lógica de exercício de uma
+
+237
+00:17:02,520 --> 00:17:05,000
+democracia direta.
+
+238
+00:17:05,000 --> 00:17:10,000
+A iniciativa popular no Brasil, ela é exercida no plano federal, no plano estadual, e também
+
+239
+00:17:10,000 --> 00:17:11,839
+no plano municipal.
+
+240
+00:17:11,839 --> 00:17:17,640
+No plano federal, a gente precisa de 1% dos eleitores distribuídos em cinco estados, de modo
+
+241
+00:17:17,640 --> 00:17:22,240
+que nenhum deles tenha menos do que 3, 10% das assinaturas necessárias.
+
+242
+00:17:22,240 --> 00:17:26,599
+Essa dinâmica, você encontra lá no artigo 61, parágrafo segundo.
+
+243
+00:17:26,599 --> 00:17:32,920
+Agora, para criar uma lei iniciativa popular no plano municipal, basta a assinatura de 5%
+
+244
+00:17:32,920 --> 00:17:33,920
+dos eleitores.
+
+245
+00:17:33,920 --> 00:17:39,279
+O número aqui é maior, termos proporcionais, porque o número de eleitores é menor.
+
+246
+00:17:39,279 --> 00:17:45,319
+Então, vejam só, num município de mil eleitores e tem vários no Brasil, que se número, fosse
+
+247
+00:17:45,319 --> 00:17:50,799
+1% com o plano federal, a gente teria um projeto apresentado por 10 eleitores.
+
+248
+00:17:50,799 --> 00:17:54,279
+Então, vamos dificultar, vamos qualificar um pouquinho e exigir um percentual um pouco
+
+249
+00:17:54,279 --> 00:17:55,279
+maior.
+
+250
+00:17:55,279 --> 00:18:00,319
+No ano todo o estado cabe a lei estadual definir o segundo artigo 27 da Constituição.
+
+251
+00:18:00,319 --> 00:18:05,039
+Mas veja que é interessante, para criar uma lei iniciativa popular no Brasil, no plano
+
+252
+00:18:05,039 --> 00:18:08,720
+federal, a gente precisa de 1% dos eleitores.
+
+253
+00:18:08,720 --> 00:18:09,720
+É muita gente.
+
+254
+00:18:09,720 --> 00:18:15,400
+No Brasil, a gente tem aproximadamente, um pouquinho menos, mas aproximadamente 150 milhões
+
+255
+00:18:15,400 --> 00:18:23,519
+de eleitores, aí você faz as contas e chega a 1 milhão e meio de eleitores como o número,
+
+256
+00:18:23,519 --> 00:18:26,759
+o necessário para apresentação de projeto de lei iniciativa popular.
+
+257
+00:18:26,759 --> 00:18:32,279
+E aí, eu te digo que é muito mais fácil reunir as sinaturas para criar um partido político.
+
+258
+00:18:32,279 --> 00:18:37,079
+Sim, dá das regulamentações que rege a criação de partidos políticos, que hoje exigem
+
+259
+00:18:37,079 --> 00:18:39,079
+cerca de 400 mil sinaturas.
+
+260
+00:18:39,079 --> 00:18:42,759
+É mais fácil criar um partido político, fazer uma campanha eleitoral e botar alguém
+
+261
+00:18:42,759 --> 00:18:48,839
+lá para fins de a todo instante apresentar projetos de lei conforme as suas ideologias e pretensões,
+
+262
+00:18:48,839 --> 00:18:54,759
+do que criar você um partido político, sai você como a planilha na rua para fins de caçar
+
+263
+00:18:54,759 --> 00:18:56,159
+1 milhão e meio de sinaturas.
+
+264
+00:18:56,159 --> 00:18:57,159
+É um horror, né?
+
+265
+00:18:57,159 --> 00:19:02,720
+É verdade que hoje em dia a tecnologia vem ao nosso socorro, estabelecendo plataformas
+
+266
+00:19:02,720 --> 00:19:10,400
+nas quais é possível a construção dessa iniciativa, mas também há daí um outro problema,
+
+267
+00:19:10,400 --> 00:19:16,079
+que é um problema de conferência das assinaturas, é um causa, é um horror.
+
+268
+00:19:16,079 --> 00:19:19,920
+E isso vai conduzir, pessoal, há uma realidade em um tanto quanto triste.
+
+269
+00:19:19,920 --> 00:19:26,120
+A gente tem no Brasil quatro leis, frutos de iniciativa popular, quatro.
+
+270
+00:19:26,120 --> 00:19:31,240
+Só que curioso, eu até fiz uma observação abaixo no slide, se já vai ver, formalmente
+
+271
+00:19:31,240 --> 00:19:33,960
+nenhum med iniciativa popular, como assim?
+
+272
+00:19:33,960 --> 00:19:35,240
+Veja aí comigo na tela.
+
+273
+00:19:35,240 --> 00:19:42,720
+A mais famosa, talvez porque seja mais recente, é a lei complementar 135 de 2010, a lei da
+
+274
+00:19:42,720 --> 00:19:44,519
+ficha limpa, né?
+
+275
+00:19:44,519 --> 00:19:50,079
+Aquela lei que regulamentou o artigo 14 parágrafo no ano da constituição, estabelecendo
+
+276
+00:19:50,079 --> 00:19:55,359
+que pessoas com condenações colegiadas em crimes específicos não podem concorrer.
+
+277
+00:19:55,359 --> 00:20:01,119
+Embora, tenhamos conseguido número mínimo de assinaturas, formalmente, quando você vai
+
+278
+00:20:01,119 --> 00:20:06,079
+lá no site da Câmara, você vê que ela é uma lei fruto de iniciativa do poder executivo,
+
+279
+00:20:06,079 --> 00:20:10,719
+sim, está escrito aí do presidente da República, interessante, né?
+
+280
+00:20:10,719 --> 00:20:17,479
+Talvez tenha sido uma bordagem mais prática, olha, beleza.
+
+281
+00:20:17,479 --> 00:20:21,599
+Eu sei que tem um milhão e meio de assinaturas aí, mas para a gente não ficar fazendo conferência
+
+282
+00:20:21,599 --> 00:20:26,480
+de assinatura por assinatura, vamos nós aí, presidente, ou qualquer deputado fazer a
+
+283
+00:20:26,480 --> 00:20:28,319
+apresentação disso e pronto.
+
+284
+00:20:28,319 --> 00:20:33,279
+Agora, olhando aí no seu slide, já acabando a aula, a gente tem também a lei 11.124
+
+285
+00:20:33,279 --> 00:20:38,919
+de 2005, que criou aí o fundo nacional de habitação de interesse social, formalmente,
+
+286
+00:20:38,919 --> 00:20:43,279
+também não é uma lei de iniciativa popular, sim, lei de iniciativa do poder legislativo,
+
+287
+00:20:43,279 --> 00:20:48,000
+o deputado que apresentou foi esse, Nihumário Miranda, em 92, né?
+
+288
+00:20:48,000 --> 00:20:54,119
+A minha ignorância não me faz aqui lembrar se ele está hoje, não mandado ainda, não está,
+
+289
+00:20:54,119 --> 00:20:55,119
+não está vivo, não.
+
+290
+00:20:55,119 --> 00:21:04,200
+E aí a gente tem, para finalizar, a lei veja aí comigo, a lei 9.940 de 99, que combateu
+
+291
+00:21:04,200 --> 00:21:12,319
+a compra de votos e a lei 8.930 de 94, que foi aquela da Daniela Pérez, né?
+
+292
+00:21:12,319 --> 00:21:19,639
+Eu vi um assassinato lá de uma artista, de uma atriz da Globo, de uma situação bem complexa
+
+293
+00:21:19,639 --> 00:21:25,919
+e a sociedade se como-vel, reuniram-se as assinaturas, mas formalmente quem apresentou
+
+294
+00:21:25,919 --> 00:21:27,879
+o projeto foram outros.
+
+295
+00:21:27,879 --> 00:21:32,319
+Pessoal, foram algumas provocações a respeito do princípio republicano.
+
+296
+00:21:32,319 --> 00:21:37,240
+E se eu cheguei ao final da aula, despertando e você o interesse por pesquisar um pouquinho
+
+297
+00:21:37,240 --> 00:21:42,000
+mais, compreender as diferenças entre este princípio, princípio democrático, eu dou
+
+298
+00:21:42,000 --> 00:21:43,000
+um e por satisfeito.
+
+299
+00:21:43,000 --> 00:21:47,680
+Não deixe esse tema de lado, ele não é o patinho feio do direito corcional, lembrando
+
+300
+00:21:47,680 --> 00:21:52,759
+que a primeira palavra, que aparece no texto corciall, a República federativa do Brasil,
+
+301
+00:21:52,759 --> 00:21:55,160
+a importância dela é extrema.
+
+302
+00:21:55,160 --> 00:22:01,559
+Eu agradeço muito a sua participação, aí a sua atenção e desejo para você excelentes
+
+303
+00:22:01,559 --> 00:22:04,759
+estudos aqui na Academia Brasileira de Direito Corcional.
+
+304
+00:22:04,759 --> 00:22:06,240
+Um grande abraço, até qualquer dia.

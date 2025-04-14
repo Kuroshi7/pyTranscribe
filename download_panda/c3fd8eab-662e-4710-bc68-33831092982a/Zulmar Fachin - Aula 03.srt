@@ -1,0 +1,1235 @@
+1
+00:00:00,000 --> 00:00:12,880
+Então vamos dar início a nossa terceira aula, o último módulo sobre poder constituinte.
+
+2
+00:00:12,880 --> 00:00:17,879
+Na primeira parte, nós estudamos o poder constitui-te originário,
+
+3
+00:00:17,879 --> 00:00:20,760
+aquele que faz uma construção por inteiro.
+
+4
+00:00:20,760 --> 00:00:27,879
+Na segunda parte, analisamos os vários aspectos relativos ao poder de reforma nacional,
+
+5
+00:00:27,879 --> 00:00:32,439
+ou seja, aquele poder que apenas altera a costissão.
+
+6
+00:00:32,439 --> 00:00:44,399
+E nesta terceira e última parte, eu pretendo abordar alguns aspectos extremamente importantes
+
+7
+00:00:44,399 --> 00:00:50,039
+pontos assim um pouco autónomos, porém vinculados a teoria do poder constituinte.
+
+8
+00:00:50,039 --> 00:00:55,359
+Quer dizer também que tudo o que estou vendo nessas três aulas é um capítulo do meu
+
+9
+00:00:55,359 --> 00:01:01,000
+livro Curso do Direito Nacional, que está indo agora para oitava edição, e que abrange
+
+10
+00:01:01,000 --> 00:01:06,799
+todo o direito nacional, principalmente os aspectos teóricos da nossa disciplina.
+
+11
+00:01:06,799 --> 00:01:12,719
+É muito comum, portanto, os autores trabalharam em poder originário e poder reformador.
+
+12
+00:01:12,719 --> 00:01:18,640
+Em verdade, existem cinco dimensões do poder constituinte.
+
+13
+00:01:18,640 --> 00:01:25,840
+Eu irei definir-las assim de modo bem objetivo para que você possa ter a noção de cada
+
+14
+00:01:25,840 --> 00:01:29,640
+uma dessas cinco dimensões do poder constituinte.
+
+15
+00:01:29,640 --> 00:01:31,319
+Duas dimensões nós vimos.
+
+16
+00:01:31,319 --> 00:01:36,840
+A primeira, o poder originário, ou seja, aquele que faz uma construção por inteiro, que
+
+17
+00:01:36,840 --> 00:01:46,920
+refunde a ordem jurídica, que vai dar o corpo normativo básico do estado e da sociedade,
+
+18
+00:01:46,920 --> 00:01:49,519
+que é a construção.
+
+19
+00:01:49,519 --> 00:01:55,240
+A segunda dimensão é o poder reformador, que nós também vimos na aula passada, é
+
+20
+00:01:55,240 --> 00:02:02,719
+o poder encarregado de fazer as alterações da construção, portanto, ele vai atuar no
+
+21
+00:02:02,719 --> 00:02:10,360
+plano normativo superior, ele vai modificar naquilo que ele for permitido, o que o originário
+
+22
+00:02:10,360 --> 00:02:15,400
+estabeleceu, ou seja, ele vai modificar a construção federal.
+
+23
+00:02:15,400 --> 00:02:20,240
+Mas ao lado disso, de poder originário e poder reformador, existem mais três noções
+
+24
+00:02:20,240 --> 00:02:22,960
+distintas de poder constituinte.
+
+25
+00:02:22,960 --> 00:02:25,319
+Então vamos a terceira.
+
+26
+00:02:25,319 --> 00:02:28,960
+É poder constituinte decorrente.
+
+27
+00:02:28,960 --> 00:02:31,560
+O que é o poder constituinte decorrente?
+
+28
+00:02:31,560 --> 00:02:41,159
+É aquele que nos Estados federais, portanto, não nos Estados Unitários, é aquele que nos
+
+29
+00:02:41,159 --> 00:02:49,280
+Estados federais se atribui aos Estados membros para elaborarem suas respectivas costas
+
+30
+00:02:49,280 --> 00:02:50,280
+e sois.
+
+31
+00:02:50,280 --> 00:02:55,479
+Tentando exemplificar uma ideia que certamente você já estudou.
+
+32
+00:02:55,479 --> 00:03:00,319
+Quando um estado tem uma dimensão territorial pequena, é possível governar a partir do
+
+33
+00:03:00,319 --> 00:03:02,079
+mesmo núcleo de poder.
+
+34
+00:03:02,079 --> 00:03:03,479
+É o estado unitário.
+
+35
+00:03:03,479 --> 00:03:10,120
+Por exemplo, Chile, Portugal, Uruguai, tem territórios pequenos, portanto, pode ser
+
+36
+00:03:10,120 --> 00:03:16,640
+governado a partir de um núcleo de poder apenas exaí a noção básica do estado unitário.
+
+37
+00:03:16,640 --> 00:03:23,200
+Porém, quando um estado tem uma dimensão territorial mais ampla, não é possível
+
+38
+00:03:23,200 --> 00:03:27,040
+governar a partir de um núcleo apenas de poder.
+
+39
+00:03:27,040 --> 00:03:36,360
+É preciso subdividir em regiões e atribuir a cada uma delas um núcleo de poder para
+
+40
+00:03:36,360 --> 00:03:37,840
+poder governar.
+
+41
+00:03:37,840 --> 00:03:42,520
+Portanto, cada região vai fazer sua própria construção.
+
+42
+00:03:42,520 --> 00:03:49,120
+Exemplos, Brasil, Estados Unidos, Canadá, Australia, África do Sul, Alemanha, etc.
+
+43
+00:03:49,120 --> 00:03:56,360
+É esse o poder chamado decorrente, o poder que o estado membro leia.
+
+44
+00:03:56,360 --> 00:04:02,800
+O estado membro da federação tem de elaborar sua própria construção.
+
+45
+00:04:02,800 --> 00:04:08,719
+Esse poder decorrente está em dois lugares na Constituição brasileira.
+
+46
+00:04:08,719 --> 00:04:16,639
+Está no artigo 25, quando a Constituição disse que o estado membro pode fazer sua construção.
+
+47
+00:04:16,639 --> 00:04:23,400
+E está também no artigo 11 das exposições transitórias que fixou um prazo dentro do
+
+48
+00:04:23,400 --> 00:04:30,920
+qual a partir de 5 de outubro de 88 deveria se elaborar a construção.
+
+49
+00:04:30,920 --> 00:04:37,400
+Se você for ler o artigo 25 da Constituição, da li vai extrair as duas características do poder
+
+50
+00:04:37,400 --> 00:04:38,400
+decorrente.
+
+51
+00:04:38,400 --> 00:04:43,480
+Primeira delas é um poder limitado.
+
+52
+00:04:43,480 --> 00:04:46,200
+Limitado.
+
+53
+00:04:46,200 --> 00:04:54,120
+Ele está limitado, obviamente, pela obra do origenário, ou seja, pela Constituição Federal.
+
+54
+00:04:54,120 --> 00:05:03,480
+Essas limitações impedem que o poder constituinte do estado membro estabeleça a organização
+
+55
+00:05:03,480 --> 00:05:07,600
+do poder de modo oposto ao que é em nível federal.
+
+56
+00:05:07,600 --> 00:05:14,480
+Por exemplo, se a Constituição do país estabelece, o presidencialismo do estado membro
+
+57
+00:05:14,480 --> 00:05:17,600
+não pode instituir o parlamentarismo.
+
+58
+00:05:17,600 --> 00:05:24,040
+Seisendo de outro modo, analisando a questão por outro aspecto, o poder de corrente precisa
+
+59
+00:05:24,040 --> 00:05:32,320
+reproduzir, digamos assim, a espinha dorsal, a estrutura da Constituição Federal.
+
+60
+00:05:32,320 --> 00:05:38,360
+Está vinculado, portanto, ao princípio da simetria, simetria, semelhança.
+
+61
+00:05:38,360 --> 00:05:43,960
+A Constituição do estado membro produzida pelo poder reformador, perdão, produzida
+
+62
+00:05:43,959 --> 00:05:50,479
+pelo poder de corrente, precisa estar de acordo com a Constituição Federal.
+
+63
+00:05:50,479 --> 00:05:56,879
+Mas, este mesmo artigo 25 estabeleceu a outra característica do poder de corrente,
+
+64
+00:05:56,879 --> 00:05:59,439
+diz que é autônomo.
+
+65
+00:05:59,439 --> 00:06:06,039
+Quando disse assim, no artigo 25, que cada estado pode fazer sua própria Constituição,
+
+66
+00:06:06,039 --> 00:06:10,240
+estabeleceu autonomia aquela região.
+
+67
+00:06:10,240 --> 00:06:17,400
+Portanto, o poder de corrente que existe nos Estados federais, no federalismo, na
+
+68
+00:06:17,400 --> 00:06:25,040
+federação, e labora a Constituição de uma região, de um estado.
+
+69
+00:06:25,040 --> 00:06:28,840
+Portanto, temos a Constituição do estado para nada, o estado da Bahia, o estado de São Paulo,
+
+70
+00:06:28,840 --> 00:06:32,920
+o Rio Grande do Sul, o CERGIP e assim por diante.
+
+71
+00:06:32,920 --> 00:06:35,840
+Terceira dimensão do poder constituinte.
+
+72
+00:06:35,839 --> 00:06:45,079
+É o poder constituinte transnacional, transnacional, ou seja, transcende os limites do estado na
+
+73
+00:06:45,079 --> 00:06:52,039
+ção, transcende, vai além dos limites do estado nação.
+
+74
+00:06:52,039 --> 00:06:57,519
+Porque quase tudo que nós vimos até agora sobre poder constituinte nas duas aulas anteriores,
+
+75
+00:06:57,519 --> 00:07:02,359
+nós tratamos de um poder constituinte no âmbito do estado nação.
+
+76
+00:07:02,360 --> 00:07:08,120
+Aqui, realidade das últimas décadas, nós temos uma outra noção.
+
+77
+00:07:08,120 --> 00:07:11,360
+Exemplo, União Europeia.
+
+78
+00:07:11,360 --> 00:07:18,759
+Há um núcleo de poder produzindo uma Constituição que valerá para toda Europa.
+
+79
+00:07:18,759 --> 00:07:25,240
+Portanto, as Constituições dos países, Portugal, Espanha, Itália, Alemanha, de Namarca, etc.,
+
+80
+00:07:25,240 --> 00:07:31,639
+haverão de estar subordinadas à Constituição da União Europeia.
+
+81
+00:07:31,639 --> 00:07:37,319
+Ora, se existe um núcleo de poder que está produzido uma Constituição que valer para
+
+82
+00:07:37,319 --> 00:07:44,879
+uma pluralidade de países, de nações, de estados, então temos aí o poder constituinte
+
+83
+00:07:44,879 --> 00:07:51,800
+transnacional, porque ele transcende os limites do estado nação.
+
+84
+00:07:51,800 --> 00:07:54,839
+Quinta noção de poder constituinte.
+
+85
+00:07:54,839 --> 00:07:59,599
+É o poder constituinte de fuso.
+
+86
+00:07:59,600 --> 00:08:04,600
+A primeira observação que tem que fazer aqui é a seguinte.
+
+87
+00:08:04,600 --> 00:08:15,600
+A maioria dos autores negam a existência de um poder constituinte de fuso.
+
+88
+00:08:15,600 --> 00:08:19,600
+Há uma pluralidade de autores negando a sua existência.
+
+89
+00:08:19,600 --> 00:08:27,600
+No entanto, autores que admitem, eu pessoalmente acredito que é possível falar-se em poder
+
+90
+00:08:27,600 --> 00:08:34,600
+constituinte de fuso, então, eu irai tratar objetivamente alguns segundos desse poder.
+
+91
+00:08:34,600 --> 00:08:49,240
+Nas últimas décadas, deixou-se de discutir de ter dúvida se o juiz é também criador de
+
+92
+00:08:49,240 --> 00:08:51,600
+norma jurídica.
+
+93
+00:08:51,600 --> 00:08:56,600
+Os juízes e outras palavras, o juiz é apenas aplicador da norma jurídica existente,
+
+94
+00:08:56,600 --> 00:09:00,000
+ou ainda também cria a norma jurídica.
+
+95
+00:09:00,000 --> 00:09:05,000
+Esse é um debate que atravessou todo o século 19, quase todo o século 20.
+
+96
+00:09:05,000 --> 00:09:12,840
+Hoje, provavelmente ninguém mais dúvida que o juiz, além de aplicar a norma jurídica
+
+97
+00:09:12,840 --> 00:09:18,600
+existente às vezes, excepcionalmente, cria norma jurídica.
+
+98
+00:09:18,600 --> 00:09:25,560
+Ora, então, se nós estamos partindo desta premissa, ou seja, o juiz também cria norma
+
+99
+00:09:25,560 --> 00:09:26,560
+jurídica.
+
+100
+00:09:26,560 --> 00:09:34,399
+Quando ele criar uma norma jurídica de natureza constitucional, que poder está exercendo,
+
+101
+00:09:34,399 --> 00:09:42,600
+poder constituinte, porque só poder constituinte cria norma constitucional.
+
+102
+00:09:42,600 --> 00:09:47,200
+Claro que é diferente do modo em que vimos até agora, porque há uma solididade na criação
+
+103
+00:09:47,200 --> 00:09:49,200
+de normas corcionais.
+
+104
+00:09:49,200 --> 00:09:54,640
+Primeiro, a Assembleia Nacional Constituinte está abenessendo uma constissão, depois o poder
+
+105
+00:09:54,640 --> 00:10:02,080
+de reforma corcional alterando a constissão, portanto uma solididade aqui, nesse aspecto
+
+106
+00:10:02,080 --> 00:10:08,200
+sobre esta ótica, admitindo-se a existência de um poder constituinte de fuso, nós precisamos
+
+107
+00:10:08,200 --> 00:10:14,960
+compreender também que é o poder que atua de modo diferente, como o próprio nome sugeri
+
+108
+00:10:14,960 --> 00:10:21,120
+que, funzamente, onde ele está, então, simbólicamente falando assim, na caneta dos juízes,
+
+109
+00:10:21,120 --> 00:10:28,519
+desembargadores, ministros, ministros, detribunais superiores do Supremo Tribunal Federal.
+
+110
+00:10:28,519 --> 00:10:34,800
+Eles estariam também, em determinadas circunstâncias, a criar normas jurídicas.
+
+111
+00:10:34,800 --> 00:10:40,440
+E se há o criar uma norma jurídica, esta tenda a turesa corcional, portanto, é uma
+
+112
+00:10:40,440 --> 00:10:46,560
+norma constitucional e quem criou a norma corcional exerceu poder constituinte.
+
+113
+00:10:46,560 --> 00:10:48,440
+Podar o exemplo sobre isso.
+
+114
+00:10:48,440 --> 00:11:01,040
+Em 1986, editou-se um decreto que zerou tudo no Brasil, inflaçou, reajustes, preços,
+
+115
+00:11:01,040 --> 00:11:03,720
+interferiu fundamente na economia.
+
+116
+00:11:03,720 --> 00:11:11,600
+Em tantos tempos, isso teve problema, a inflação voltou e houve um desequilíbrio muito grande.
+
+117
+00:11:11,600 --> 00:11:16,840
+Milhares de pessoas perderam suas pequenas propriedades, seu apartamento, seu carro, seus
+
+118
+00:11:16,840 --> 00:11:22,519
+bens, engolidos que foram pelo sistema financeiro.
+
+119
+00:11:22,519 --> 00:11:29,240
+Então começaram as discussões, os processos judiciais, executando, avaliando, desigrando
+
+120
+00:11:29,240 --> 00:11:32,080
+praça, rematando os bens, as pessoas.
+
+121
+00:11:32,080 --> 00:11:39,279
+E alguns juízes, especialmente do Rio Grande do Sul, passaram a adotar a seguinte posição,
+
+122
+00:11:39,279 --> 00:11:44,560
+isso mais ou menos em 1987, 88.
+
+123
+00:11:44,560 --> 00:11:52,759
+Quando alguém requeria, designação de praça ou de leilão, os juízes dizia assim,
+
+124
+00:11:52,759 --> 00:12:00,319
+indefiro ou pedido, indefiro, porque esse é o único bem que a pessoa tem, por exemplo,
+
+125
+00:12:00,319 --> 00:12:08,240
+o apartamento, a casa, e ela precisa destiver para estar com sua família.
+
+126
+00:12:08,240 --> 00:12:15,159
+O que que nasceu com esse tipo de decisão nasceu o bem de família do artigo 5 em
+
+127
+00:12:15,159 --> 00:12:18,360
+6, 26 da Constituição Federal.
+
+128
+00:12:18,360 --> 00:12:22,480
+Não é aquele bem de família tradicional do código que se viu, digamos assim, é o bem
+
+129
+00:12:22,480 --> 00:12:24,759
+de família constitucional.
+
+130
+00:12:24,759 --> 00:12:31,120
+A Assembleia Nacional Constituinte estava aberta, 87, estava trabalhando, inseriu na Constituição.
+
+131
+00:12:31,120 --> 00:12:36,720
+Mas vejo, não foi a Assembleia Nacional Constituinte que criou essa norma, quem criou essa
+
+132
+00:12:36,720 --> 00:12:43,480
+norma foi, simbólicamente falando, caneta de juízes, assim difusamente um outro mais
+
+133
+00:12:43,480 --> 00:12:46,360
+um mais outro, e de repente isso virou norma.
+
+134
+00:12:46,360 --> 00:12:54,159
+Qual a norma se a pessoa tem um bem somente, ela não pode ser destituída dele para o pagamento
+
+135
+00:12:54,159 --> 00:12:57,560
+de dívidas, criou o bem de família.
+
+136
+00:12:57,560 --> 00:13:07,639
+Bom, com esse exemplo é possível mostrar que o poder constituinte de fuso existe.
+
+137
+00:13:07,639 --> 00:13:13,759
+Então é aquela solenidade, repito, da Assembleia Constituinte ou da imenda corcional que
+
+138
+00:13:13,759 --> 00:13:19,120
+tem que preencher vários requisitos, mas é um outro tipo de manifestação de poder
+
+139
+00:13:19,120 --> 00:13:20,120
+constituinte.
+
+140
+00:13:20,120 --> 00:13:25,840
+Quero finalizar esse ponto dizendo que há cinco dimensões do poder constituinte, poder
+
+141
+00:13:25,840 --> 00:13:32,559
+constituinte originário, poder constituinte reformador, poder constituinte decorrente, poder
+
+142
+00:13:32,559 --> 00:13:38,079
+constituinte transnacional e poder constituinte de fuso.
+
+143
+00:13:38,079 --> 00:13:45,479
+Feito isso, vou passar a analisar alguns problemas específicos que se colocam em relação
+
+144
+00:13:45,479 --> 00:13:47,479
+ao poder constituinte.
+
+145
+00:13:47,479 --> 00:13:57,879
+Em primeiro, talvez não seria demais relebrar que há o poder constituinte e os poderes
+
+146
+00:13:57,879 --> 00:14:00,039
+constituídos.
+
+147
+00:14:00,039 --> 00:14:07,120
+O poder constituinte criou o plano superior do ordenamento jurídico, leia-se a Constituição
+
+148
+00:14:07,120 --> 00:14:16,399
+e os poderes constituídos criam o restante, as leis em geral, e o poder constituído
+
+149
+00:14:16,399 --> 00:14:22,200
+não pode contrariar a obra do poder constituíble, do poder constituinte.
+
+150
+00:14:22,200 --> 00:14:25,919
+Isso será, obviamente, uma inconstitucionalidade.
+
+151
+00:14:25,919 --> 00:14:33,759
+Mas tem um aspecto muito importante que cabe analisar aqui.
+
+152
+00:14:33,759 --> 00:14:45,360
+É possível haver uma emenda constitucional inconstitucional, ou se quiser nos colocar
+
+153
+00:14:45,360 --> 00:14:55,039
+o tema de outro modo, falarem emenda constitucional e controle de consulidade.
+
+154
+00:14:55,039 --> 00:15:05,559
+Poderíamos ter, em caminhar isso, com uma hidrigação, é possível uma norma consonal
+
+155
+00:15:05,559 --> 00:15:10,639
+ser declarada e inconstional por violar uma norma consonal.
+
+156
+00:15:10,639 --> 00:15:13,919
+É isso que esse ponto pretende resolver.
+
+157
+00:15:13,919 --> 00:15:17,599
+Vamos colocar a ideia de pirâmide.
+
+158
+00:15:17,599 --> 00:15:24,599
+Aqui está a obra do constituinte, tanto do originário quanto do reformador.
+
+159
+00:15:25,080 --> 00:15:33,279
+É alimentar compreender que uma obra do poder constituído não pode contrariar a obra
+
+160
+00:15:33,279 --> 00:15:37,360
+do poder constituído, porque isso é inconstitucional.
+
+161
+00:15:37,360 --> 00:15:43,159
+Portanto, a inconstitucionalidade se dá no plano vertical.
+
+162
+00:15:43,159 --> 00:15:47,720
+A melhor definição da inconstitucionalidade que vi até hoje, sim, gela, mas de estudo,
+
+163
+00:15:47,720 --> 00:15:50,160
+é de Jorge Miranda da Universidade de Lisboa.
+
+164
+00:15:51,120 --> 00:15:59,159
+A inconstitucionalidade é a incompatibilidade, a desconformidade entre duas normas jurídicas
+
+165
+00:15:59,159 --> 00:16:01,600
+sendo uma da constitção.
+
+166
+00:16:01,600 --> 00:16:08,120
+Claro, é a incompatibilidade entre esta e esta norma jurídica contra a norma jurídica
+
+167
+00:16:08,120 --> 00:16:10,879
+que é da constitção.
+
+168
+00:16:10,879 --> 00:16:14,079
+Mas a questão que nós estamos colocando agora é outra.
+
+169
+00:16:14,080 --> 00:16:21,360
+Se esta norma da constitção for contrariada por outra norma da constitção, e qual a solução
+
+170
+00:16:21,360 --> 00:16:31,800
+que se dá, a norma constitucional produzida por imenda constitional, contrariou uma norma
+
+171
+00:16:31,800 --> 00:16:34,840
+da constitção feita pelo poder originário.
+
+172
+00:16:34,840 --> 00:16:36,240
+Isso é o que?
+
+173
+00:16:36,240 --> 00:16:41,000
+É revogação da norma do originário ou é inconstitucionalidade promovida pelo poder
+
+174
+00:16:41,000 --> 00:16:42,000
+reformador?
+
+175
+00:16:42,279 --> 00:16:46,080
+Vou colocar aqui sucientamente a nossa imagem de antes.
+
+176
+00:16:46,080 --> 00:16:52,519
+Isso aqui é o campo da constitão, o poder de reforma não pode tocar na forma federativa
+
+177
+00:16:52,519 --> 00:16:58,440
+de Estado, não pode no voto direto secreto-peròite universal, não pode tocar na tripartição
+
+178
+00:16:58,440 --> 00:17:02,480
+de poderes e nos direitos e garantias individuais.
+
+179
+00:17:02,480 --> 00:17:08,559
+Então, o poder de reforma não pode fazer isso, no restante ele pode atuar.
+
+180
+00:17:09,119 --> 00:17:17,440
+O problema que nós temos para resolver agora consiste em responder se uma norma localizada
+
+181
+00:17:17,440 --> 00:17:24,399
+na constitão pode gerar em consolidade de outra norma personal.
+
+182
+00:17:24,399 --> 00:17:29,200
+Lembrem-se que o poder constituinte atua no plano superior da constitão, tanto
+
+183
+00:17:29,200 --> 00:17:31,359
+origenário quanto reformador.
+
+184
+00:17:31,359 --> 00:17:34,879
+Aqui temos uma norma produzida pelo poder originário.
+
+185
+00:17:35,680 --> 00:17:39,680
+Venha uma emenda concional e contraria esta norma jurídica.
+
+186
+00:17:39,680 --> 00:17:40,720
+Isso é o que?
+
+187
+00:17:40,720 --> 00:17:45,920
+É em consolidade ou isto leva a anulação da primeira norma concional?
+
+188
+00:17:49,000 --> 00:17:52,840
+Nós temos um lugar específico onde isso pode ser resolvido.
+
+189
+00:17:53,840 --> 00:18:03,920
+Se a emenda concional atuar aqui no corpo da constitão, ela vai revogar a norma do poder
+
+190
+00:18:03,920 --> 00:18:04,920
+originário.
+
+191
+00:18:04,920 --> 00:18:11,360
+Com tudo, se a emenda concional atuar, por exemplo, aqui, no campo das cláuslas
+
+192
+00:18:11,360 --> 00:18:16,800
+pétras, a norma produzida por emenda concional será emconcional.
+
+193
+00:18:16,800 --> 00:18:24,039
+Portanto, nós temos uma hipótese em que a norma constitucional, por contraria a outra
+
+194
+00:18:24,039 --> 00:18:31,759
+norma concional, gera inconsistito sonoidade, tentando resumir e dizendo de outro modo.
+
+195
+00:18:32,079 --> 00:18:38,319
+Quando a norma concional for produzida por emenda concional e violar uma cláuslas
+
+196
+00:18:38,319 --> 00:18:40,680
+pétria, aí está em consolaridade.
+
+197
+00:18:40,680 --> 00:18:46,079
+Porque estão em planos normativos distintos, não, estão no mesmo plano normativo.
+
+198
+00:18:46,079 --> 00:18:53,519
+O corre que, quando isso se verificar, nós teremos o poder reformador contraeria
+
+199
+00:18:53,519 --> 00:18:59,920
+e, quando o poder originário, naquilo que o originário lhe proibiu de fazer.
+
+200
+00:18:59,920 --> 00:19:07,599
+Então, é possível, em pelo menos uma hipótese, haver uma norma constitucional e inconstucional.
+
+201
+00:19:07,599 --> 00:19:12,799
+Há um outro ponto, e muito importante, em que o Brasil passou a ter que estudar nos últimos
+
+202
+00:19:12,799 --> 00:19:21,039
+anos, e que nós podemos tratá-lo com o nome de mutação constitucional, mutação
+
+203
+00:19:21,039 --> 00:19:22,039
+constitucional.
+
+204
+00:19:22,039 --> 00:19:27,359
+Erei primeiro, definir o que é isso, e depois exemplificar.
+
+205
+00:19:27,359 --> 00:19:38,839
+A mutação constitucional ocorre, quando muda-se o sentido da norma sem mudar o texto.
+
+206
+00:19:38,839 --> 00:19:49,119
+Percebem, muda-se o sentido da norma constitucional sem, no entanto, mudar o texto constitucional.
+
+207
+00:19:49,119 --> 00:19:55,199
+Cano-tilho é cirúrgico, diz assim, pela mutação emocional, diz ele, muda-se o sentido
+
+208
+00:19:55,199 --> 00:19:57,439
+permanece o texto.
+
+209
+00:19:57,439 --> 00:20:01,359
+Muda-se o sentido permanece o texto.
+
+210
+00:20:01,359 --> 00:20:08,239
+Então, vai ocorrer mutação ocorcional, quando, por exemplo, da interpretação
+
+211
+00:20:08,239 --> 00:20:13,759
+ocorcional, se mudar o sentido que antes se atribuía a uma norma ocorcional.
+
+212
+00:20:13,759 --> 00:20:20,960
+Exemplo, embora nem todos concordem com isso, mas me parece ser exemplo de mutação
+
+213
+00:20:20,960 --> 00:20:27,839
+ocorcional, quando o supremo mudou o seu entendimento a proposta do mandado de junção.
+
+214
+00:20:27,839 --> 00:20:37,480
+Você se lembram que o constituinte de 88 colocou dois instrumentos para atacar a omissão,
+
+215
+00:20:37,480 --> 00:20:44,599
+a incorsoidade por omissão no sistema concentrado e o mandado de junção no sistema de fuso
+
+216
+00:20:44,599 --> 00:20:45,599
+incidental.
+
+217
+00:20:45,599 --> 00:20:47,400
+Assim concebeu o constituinte.
+
+218
+00:20:47,400 --> 00:20:53,079
+Embora, nós sabemos, o supremo acabou mudando isso porque deu algumas decisões
+
+219
+00:20:53,079 --> 00:20:59,160
+proferidas no mandado de injução, ele deu efeito geral, valendo para todos.
+
+220
+00:20:59,160 --> 00:21:05,440
+Ou seja, é como se tivesse declarado uma incorsoidade no sistema concentrado.
+
+221
+00:21:05,440 --> 00:21:11,360
+O mandado de junção veio para garantir que a pessoa possa usufruir de um direito previsto
+
+222
+00:21:11,360 --> 00:21:13,160
+na norma ocorcional.
+
+223
+00:21:13,160 --> 00:21:20,920
+E durante cerca de 18, 19 anos, o Supremo Tribunal Federal disse, não.
+
+224
+00:21:20,920 --> 00:21:28,200
+Ele dizia que não podia julgar procedente o mandado de injução porque estaria legislando
+
+225
+00:21:28,200 --> 00:21:33,279
+e isso seria usurupar função do poder legislativo.
+
+226
+00:21:33,279 --> 00:21:40,599
+O que é terminado o momento em dois mandados de junção o Supremo passou a dizer assim,
+
+227
+00:21:40,599 --> 00:21:46,440
+eu posso julgar o mandado de injução, inclusive nesse caso, julgo procedente para determinar
+
+228
+00:21:46,440 --> 00:21:48,440
+isso, isso, isso.
+
+229
+00:21:48,440 --> 00:21:50,720
+O que eu quero tratar aqui?
+
+230
+00:21:50,720 --> 00:21:52,759
+É a mutação constonal.
+
+231
+00:21:52,759 --> 00:21:59,839
+Antes, a norma constonal do mandado de junção tinha este sentido.
+
+232
+00:21:59,839 --> 00:22:02,399
+Não houve mudança de texto.
+
+233
+00:22:02,400 --> 00:22:07,080
+A interpretação era sempre nesse sentido e o texto era nesse sentido.
+
+234
+00:22:07,080 --> 00:22:12,320
+A partir de um determinado momento, o Supremo Tribunal Federal passou a dizer, não,
+
+235
+00:22:12,320 --> 00:22:14,920
+o mandado de junção tem este sentido.
+
+236
+00:22:14,920 --> 00:22:18,160
+Não mudou o texto, continua dizendo a mesma coisa.
+
+237
+00:22:18,160 --> 00:22:23,960
+Porém, a interpretação que se atribuiu ao mandado de junção fez com que ele passasse
+
+238
+00:22:23,960 --> 00:22:25,600
+a ter outro sentido.
+
+239
+00:22:25,599 --> 00:22:32,119
+O Supremo fez isso no mandado de junção que cede o direito greve ao servidor público
+
+240
+00:22:32,119 --> 00:22:36,319
+e que estabeleceu a fidelidade partidária.
+
+241
+00:22:36,319 --> 00:22:41,480
+Parece seria esses exemplos, embora alguns autores dizem que isso não seja propriamente
+
+242
+00:22:41,480 --> 00:22:47,679
+exemplo de mutação constonal, mas não a dúvida e nisso os autores concordam que nós
+
+243
+00:22:47,679 --> 00:22:52,639
+estamos vivenciando no Brasil de uns 8 ou 10 anos para cá.
+
+244
+00:22:52,640 --> 00:23:00,140
+Algumas hipóteses de mutação constonal, ou seja, há uma mudança no sentido da norma
+
+245
+00:23:00,140 --> 00:23:08,280
+constonal sem mudar o texto, ou seja, sem que haja emenda constononal.
+
+246
+00:23:08,280 --> 00:23:14,880
+Há um outro tema importante que também veio para o Brasil de alguns anos para cá, principalmente
+
+247
+00:23:14,880 --> 00:23:23,400
+pelo pensamento de Marcelo Neves, que é o transconstitucionalismo.
+
+248
+00:23:23,400 --> 00:23:28,800
+O que é transconstitucionalismo?
+
+249
+00:23:28,800 --> 00:23:37,680
+Existem normas produzidas que elas transcendem, perpaçam, mais de um ordenamento jurídico.
+
+250
+00:23:37,680 --> 00:23:46,320
+Por exemplo, uma norma produzida pela Assembleia Geral da ONU sobre direitos humanos, ela vai
+
+251
+00:23:46,320 --> 00:23:53,000
+valer para o direito internacional, que é um ordenamento jurídico, vai valer para o direito
+
+252
+00:23:53,000 --> 00:23:58,279
+comunitário União Europeia, por exemplo, que é um ordenamento jurídico, e vai valer
+
+253
+00:23:58,279 --> 00:24:01,840
+também para o ordenamento jurídico dos países.
+
+254
+00:24:01,839 --> 00:24:11,759
+É isso que permite dizer que o transconstitucionalismo se localiza entre o direito internacional,
+
+255
+00:24:11,759 --> 00:24:16,399
+o direito comunitário e o direito costucional.
+
+256
+00:24:16,399 --> 00:24:22,839
+Há sucessivos exemplos disso em matéria de economia, na Organização Mundial do Comércio,
+
+257
+00:24:22,839 --> 00:24:28,759
+em matérias ambientais, em matérias de direitos humanos.
+
+258
+00:24:28,759 --> 00:24:34,640
+Então parece ter sentido falarmos no transconstitucionalismo.
+
+259
+00:24:34,640 --> 00:24:41,359
+Feito isso, toda essa abordagem teórica da primeira, segunda e da terceira aula, eu quero
+
+260
+00:24:41,359 --> 00:24:49,440
+deixar alguns questionamentos, uns pontos para que você possa, com tempo, com os livros,
+
+261
+00:24:49,440 --> 00:24:53,440
+com a constituição, buscar a solução para isso.
+
+262
+00:24:53,440 --> 00:25:03,299
+Por exemplo, você pode resolver a antinomia existente entre o artigo quinto em 668 e a
+
+263
+00:25:03,299 --> 00:25:07,759
+norma dos 142 para a água segundo.
+
+264
+00:25:07,759 --> 00:25:13,279
+O quinto em 668, você sabe, a norma que previu o abeas copos.
+
+265
+00:25:13,279 --> 00:25:18,279
+Sempre que alguém achar ser, então, a situação terá direito a abeas copos.
+
+266
+00:25:18,279 --> 00:25:19,879
+Alguém, quem?
+
+267
+00:25:19,879 --> 00:25:26,399
+Qualquer pessoa, todas, cada uma das 205 milhões de pessoas que o Brasil tem.
+
+268
+00:25:26,399 --> 00:25:35,639
+Porém, no 142 para a água segundo, a constituição proibiu o abeas copos para questões de disciplina
+
+269
+00:25:35,639 --> 00:25:39,119
+no âmbito militar.
+
+270
+00:25:39,119 --> 00:25:42,279
+Agora, concede a todos e diz esse segmento não pode.
+
+271
+00:25:42,279 --> 00:25:46,599
+Isso é incorcional ou é preciso conciliar as novas.
+
+272
+00:25:46,599 --> 00:25:51,240
+Vou passar outras questões, mas essa já deixarei respondida.
+
+273
+00:25:51,240 --> 00:25:53,639
+Por que ambas são constitucionais?
+
+274
+00:25:53,639 --> 00:25:58,799
+A norma que disse que o abeas copos vale para todos e também a norma que diz que
+
+275
+00:25:58,799 --> 00:26:02,879
+nas questões de disciplina os militares não têm direito a abeas copos.
+
+276
+00:26:02,879 --> 00:26:04,839
+Por que ambas podem?
+
+277
+00:26:04,839 --> 00:26:11,719
+Porque ambas foram produzidas pelo poder constituir interisinaio.
+
+278
+00:26:11,720 --> 00:26:18,279
+O que permite dizer que o poder constituinte originário mesmo quando estiver em jogo
+
+279
+00:26:18,279 --> 00:26:26,519
+uma clauz lapétria, ele pode estabelecer desigualdade de tratamento entre pessoas e isso.
+
+280
+00:26:26,519 --> 00:26:30,480
+Porém, somente ele é que pode.
+
+281
+00:26:30,480 --> 00:26:36,360
+Estando em jogo uma clauz lapétria, somente o poder constituinte originaio é que pode
+
+282
+00:26:36,360 --> 00:26:38,720
+tratar diferente.
+
+283
+00:26:38,720 --> 00:26:47,039
+Ou seja, o poder constituinte originaio cria a clauz lapétria e depois, no outro momento,
+
+284
+00:26:47,039 --> 00:26:55,000
+ele nega ou ele restringe ou ele abre uma brecha na clauz lapétria.
+
+285
+00:26:55,000 --> 00:26:59,759
+Mas ele pode fazer isso porque é ele que cria as clauz lapétrias.
+
+286
+00:26:59,759 --> 00:27:05,279
+O poder originaio poderia não ter colocado nenhuma clauz lapétria na consteção.
+
+287
+00:27:05,279 --> 00:27:09,960
+Ele poderia legitimizar para fazer isso.
+
+288
+00:27:09,960 --> 00:27:14,200
+A outra questão também importante é que se poderia resolver depois.
+
+289
+00:27:14,200 --> 00:27:18,680
+Artigo 12 parágrafos segundo e terceiro.
+
+290
+00:27:18,680 --> 00:27:20,319
+É algo semelhante.
+
+291
+00:27:20,319 --> 00:27:26,039
+O poder originaio proíbe que se faça distinção entre brasileiros natos e naturalizados.
+
+292
+00:27:26,039 --> 00:27:32,759
+E depois, no parágrafo seguinte, ele próprio faz uma distinção.
+
+293
+00:27:32,759 --> 00:27:43,240
+O quinto em Sisu 11, artigo quinto em Sisu 12, tem exemplos importantes para compreender
+
+294
+00:27:43,240 --> 00:27:45,000
+o poder constituinte.
+
+295
+00:27:45,000 --> 00:27:52,079
+Aliás, há uma pluralidade de questões da consteção federal onde o tratamento é
+
+296
+00:27:52,079 --> 00:27:53,079
+desigual.
+
+297
+00:27:53,079 --> 00:28:01,400
+E mais ainda, às vezes, o tratamento desigual coloque em jogo uma clauz lapétria, como
+
+298
+00:28:01,400 --> 00:28:04,840
+essa do abescopos que acabei de mencionar.
+
+299
+00:28:04,840 --> 00:28:12,080
+Ora, isso somente é possível porque o poder constitui interisinaio que isso fazê.
+
+300
+00:28:12,080 --> 00:28:17,320
+Ele não é livre para escrever na consteção os valores que desejar?
+
+301
+00:28:17,320 --> 00:28:22,720
+Então, no momento em que ele irá refundar a ordem jurídica, irá produzir uma consteção
+
+302
+00:28:22,720 --> 00:28:29,960
+por inteiro, ele pode estabelecer diferenças de direitos e deveres entre pessoas e isso.
+
+303
+00:28:29,960 --> 00:28:37,480
+Farei assim, então, para quem acompanhou as três aulas na primeira tratamos do poder
+
+304
+00:28:37,480 --> 00:28:43,480
+constituinte origenário, a ilaboração de uma consteção, o fundamento devalidade e
+
+305
+00:28:43,480 --> 00:28:49,079
+dor danamento jurídico de um país, na segunda parte, as pecos teóricos da reforma
+
+306
+00:28:49,079 --> 00:28:56,640
+costional e, nessa terceira, uma noção mais abrangente de poder constituinte e os temas
+
+307
+00:28:56,640 --> 00:29:03,880
+específicos como mutação costional, transconstitucionalismo e a possibilidade de haver
+
+308
+00:29:03,880 --> 00:29:05,880
+norma costional e incursional.
+
+309
+00:29:05,880 --> 00:29:08,280
+Muito obrigado.

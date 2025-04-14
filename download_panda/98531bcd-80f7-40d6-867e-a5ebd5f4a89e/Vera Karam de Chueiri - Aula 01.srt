@@ -1,0 +1,995 @@
+1
+00:00:00,000 --> 00:00:04,500
+O Número do Carente Chuele
+
+2
+00:00:04,500 --> 00:00:07,500
+Olá, meu nome é Vera Carente Chuele.
+
+3
+00:00:07,500 --> 00:00:18,000
+Vou trabalhar com vocês uma parte do programa de Direito Nacional, História Constitucional
+
+4
+00:00:18,000 --> 00:00:21,000
+e Teoria Constitucional.
+
+5
+00:00:21,500 --> 00:00:32,500
+O início da nossa conversa diz respeito a as noções de Constituição e Constitucionalismo.
+
+6
+00:00:32,500 --> 00:00:41,000
+Antes de mais nada é preciso dizer que a Constituição é um documento da era moderna,
+
+7
+00:00:41,000 --> 00:00:49,500
+resulta dos movimentos constitucionalistas próprios da modernidade política.
+
+8
+00:00:50,000 --> 00:00:59,000
+O Constitucionalismo em específico diz respeito a uma forma particular de compreender a Constituição.
+
+9
+00:00:59,000 --> 00:01:06,500
+Não é um conceito estático, não é um conceito que surge abstratamente,
+
+10
+00:01:06,500 --> 00:01:19,000
+mas sobre todo ele decorre das disputas políticas a vidas na modernidade com o surgimento do Estado liberal.
+
+11
+00:01:19,000 --> 00:01:28,500
+O Constitucionalismo, portanto ao dizer respeito a uma forma específica de se compreender a Constituição,
+
+12
+00:01:28,500 --> 00:01:35,500
+nos fornece uma noção diferente de Constituição.
+
+13
+00:01:35,500 --> 00:01:43,500
+Diferente da ideia antiga de Constituição, onde ela era apenas uma forma de compreender as magistraturas,
+
+14
+00:01:44,000 --> 00:01:50,000
+a Constituição do Constitucionalismo tem uma função precisa,
+
+15
+00:01:50,000 --> 00:01:55,000
+ou seja, de limitar o poder político,
+
+16
+00:01:55,000 --> 00:02:06,500
+a de colocar, portanto, algumas contensões, alguns diques de contenção no exercício do poder político.
+
+17
+00:02:06,500 --> 00:02:14,000
+E com isso, obviamente, proteger o indivíduo em seus direitos fundamentais.
+
+18
+00:02:14,000 --> 00:02:24,500
+Por isso que o Constitucionalismo coincide com a ideia moderna de Estado de Direito,
+
+19
+00:02:24,500 --> 00:02:28,500
+que mais do que um Estado jurídico,
+
+20
+00:02:28,500 --> 00:02:39,500
+se trata da representação moderna e acabada do ideal que conduz a positivação dos direitos naturais,
+
+21
+00:02:39,500 --> 00:02:47,500
+que tinha sido firmados pelo pensamento contratualista do século XVIII.
+
+22
+00:02:47,500 --> 00:02:53,500
+Por falar em pensamento contratualista do século XVIII,
+
+23
+00:02:53,500 --> 00:03:00,500
+é imperioso que nós olhemos para os movimentos concionalistas
+
+24
+00:03:00,500 --> 00:03:09,000
+e em suas bases teóricas, valedizer os autores que forneceram os fundamentos teóricos
+
+25
+00:03:09,000 --> 00:03:17,000
+para que esses movimentos fossem levados a cá.
+
+26
+00:03:17,000 --> 00:03:24,000
+Eu me refiro a três principais movimentos,
+
+27
+00:03:24,000 --> 00:03:34,500
+avidos no velho mundo e no novo mundo, na Europa e nas Américas.
+
+28
+00:03:34,500 --> 00:03:44,000
+Especialmente, a Revolução Gloriosa, ocorrida na Inglaterra em 1688, 1689,
+
+29
+00:03:44,000 --> 00:03:52,000
+a Revolução Americana e a sua declaração de independência de 1776,
+
+30
+00:03:52,000 --> 00:04:02,500
+e a Revolução Francesa de 1789 e a declaração dos direitos do homem e do cidadão que dela decorre.
+
+31
+00:04:02,500 --> 00:04:08,500
+Isso consolida a ideia moderna de Constitucionalismo,
+
+32
+00:04:09,000 --> 00:04:14,500
+o que está, portanto, desde o início posto nessa ideia de Constitucionalismo,
+
+33
+00:04:14,500 --> 00:04:19,500
+é o ideal antigo do governo das leis.
+
+34
+00:04:19,500 --> 00:04:24,500
+Entretanto, a pergunta que desde a antigoidade se faz
+
+35
+00:04:24,500 --> 00:04:30,500
+e que é retomada na modernidade, é o que é melhor?
+
+36
+00:04:31,000 --> 00:04:37,500
+Um governo em que o governo decide, segundo a sua vontade,
+
+37
+00:04:37,500 --> 00:04:43,500
+de maneira ilimitada sem quaisquer contenções,
+
+38
+00:04:43,500 --> 00:04:49,500
+ou um governo em que o governante é sujeito da lei,
+
+39
+00:04:49,500 --> 00:04:53,500
+sujeito num sentido duplo,
+
+40
+00:04:53,500 --> 00:05:01,500
+ele está no polo ativo quanto passivo da lei,
+
+41
+00:05:01,500 --> 00:05:06,500
+ou seja, o sujeito é um servo da lei e não o seu patrão.
+
+42
+00:05:06,500 --> 00:05:11,500
+Portanto, o que é melhor? Essa pergunta que desde a antigoidade é feita
+
+43
+00:05:11,500 --> 00:05:19,500
+e retomada pelos modernos e pelo movimento concernar lista
+
+44
+00:05:19,500 --> 00:05:23,500
+de experiências das revoluções liberais, como eu mencionei,
+
+45
+00:05:23,500 --> 00:05:27,500
+a Revolução Inglesa, a Revolução North Americana,
+
+46
+00:05:27,500 --> 00:05:31,500
+ou o Estado Unidense e a Revolução Francesa.
+
+47
+00:05:31,500 --> 00:05:35,500
+Portanto, compreender o concernalismo,
+
+48
+00:05:35,500 --> 00:05:42,500
+desrespeito a resgatar esses processos históricos e políticos
+
+49
+00:05:42,500 --> 00:05:46,500
+e suas reivindicações e suas demandas
+
+50
+00:05:46,500 --> 00:05:51,500
+foram centrais para a definição da ideia moderna de constituição.
+
+51
+00:05:51,500 --> 00:05:55,500
+Nesse sentido, eu destaquei essas experiências em Iglesia,
+
+52
+00:05:55,500 --> 00:05:58,500
+o Estado Unidense e Francesa,
+
+53
+00:05:58,500 --> 00:06:06,500
+porque foram experiências que coincide com três momentos
+
+54
+00:06:06,500 --> 00:06:12,500
+deitos revolucionários, obviamente, desde uma perspectiva liberal.
+
+55
+00:06:12,500 --> 00:06:17,500
+Elas marcam uma nova definição de comunidade política
+
+56
+00:06:17,500 --> 00:06:23,500
+sobretudo do mundo ocidental e tornam também possível o desenvolvimento
+
+57
+00:06:23,500 --> 00:06:27,500
+de uma crítica do mundo político.
+
+58
+00:06:27,500 --> 00:06:34,500
+Então, o pensamento liberal do ponto de vista político,
+
+59
+00:06:34,500 --> 00:06:38,500
+ele é revolucionário neste sentido.
+
+60
+00:06:38,500 --> 00:06:44,500
+Então, eu gostaria de sublinhar para vocês
+
+61
+00:06:44,500 --> 00:06:52,500
+que a ideia moderna de constituição é uma conquista.
+
+62
+00:06:52,500 --> 00:06:57,500
+No sentido próprio de que lutas foram empreendidas,
+
+63
+00:06:57,500 --> 00:07:02,500
+de que ideais estavam incomflitos,
+
+64
+00:07:02,500 --> 00:07:07,500
+portanto, decorre de um processo de disputas,
+
+65
+00:07:07,500 --> 00:07:14,500
+sim, de sentidos e disputas concretas de conflitos,
+
+66
+00:07:14,500 --> 00:07:18,500
+armados, inclusive,
+
+67
+00:07:18,500 --> 00:07:25,500
+e que estão presentes nestes movimentos,
+
+68
+00:07:25,500 --> 00:07:29,500
+o revolucionários, nas chamadas revoluções liberais burguesas
+
+69
+00:07:29,500 --> 00:07:33,500
+que marcam o surgimento do Estado de Direito
+
+70
+00:07:33,500 --> 00:07:40,500
+como uma demanda fundamental para limitação do poder político.
+
+71
+00:07:40,500 --> 00:07:46,500
+Diz-se também para resultar um novo processo de definição do direito,
+
+72
+00:07:46,500 --> 00:07:49,500
+de positivação do direito.
+
+73
+00:07:49,500 --> 00:08:02,500
+Então, se nós pudéssemos de maneira resumida
+
+74
+00:08:02,500 --> 00:08:08,500
+apresentar, do que eu disse até agora,
+
+75
+00:08:08,500 --> 00:08:12,500
+uma espécie de consolidação, eu diria o seguinte,
+
+76
+00:08:12,500 --> 00:08:17,500
+das revoluções liberais surge a forma concional
+
+77
+00:08:17,500 --> 00:08:22,500
+e a afirmação do Estado Supremo da Constituição,
+
+78
+00:08:22,500 --> 00:08:29,500
+a afirmação da Constituição como uma,
+
+79
+00:08:29,500 --> 00:08:32,500
+como algo que gosa de uma suprimacia,
+
+80
+00:08:32,500 --> 00:08:37,500
+de uma superioridade em face das outras leis,
+
+81
+00:08:37,500 --> 00:08:42,500
+é lidar uma condição especial,
+
+82
+00:08:42,500 --> 00:08:45,500
+decorre desse processo,
+
+83
+00:08:45,500 --> 00:08:50,500
+e vai ser determinante para o que mais tarde vai,
+
+84
+00:08:50,500 --> 00:08:55,500
+se chamar de revisão judicial das leis,
+
+85
+00:08:55,500 --> 00:08:58,500
+ou numa grauática mais contemporânea,
+
+86
+00:08:58,500 --> 00:09:01,500
+controle de consonalidade das leis,
+
+87
+00:09:01,500 --> 00:09:03,500
+por meio do pal,
+
+88
+00:09:03,500 --> 00:09:08,500
+se faz a defesa da integridade da Constituição,
+
+89
+00:09:08,500 --> 00:09:13,500
+e por isso a Constituição é soberana,
+
+90
+00:09:13,500 --> 00:09:18,500
+é suprema, gosa, portanto, de um status diferenciado.
+
+91
+00:09:18,500 --> 00:09:24,500
+Eu não vou entrar no mérito,
+
+92
+00:09:24,500 --> 00:09:28,500
+ou num campo da teoria do direito,
+
+93
+00:09:28,500 --> 00:09:37,500
+em que noções de Constituição enquanto
+
+94
+00:09:37,500 --> 00:09:42,500
+uma norma básica,
+
+95
+00:09:42,500 --> 00:09:46,500
+ou conjunto de normas primárias e secundárias,
+
+96
+00:09:46,500 --> 00:09:50,500
+ou seja lá o que está em disputa,
+
+97
+00:09:50,500 --> 00:09:52,500
+eu não vou entrar no campo da teoria do direito,
+
+98
+00:09:52,500 --> 00:09:55,500
+mas o fato é que dizer que a Constituição gosa
+
+99
+00:09:55,500 --> 00:09:58,500
+de uma superioridade não decorre
+
+100
+00:09:58,500 --> 00:10:01,500
+dos seus status estritamente jurídico,
+
+101
+00:10:01,500 --> 00:10:04,500
+mas decorre dessa condição que ela adquire,
+
+102
+00:10:04,500 --> 00:10:07,500
+a partir dos movimentos constitucionalistas,
+
+103
+00:10:07,500 --> 00:10:15,500
+a partir do surgimento do estado liberal moderno,
+
+104
+00:10:15,500 --> 00:10:20,500
+e a partir do momento que ela vai impor contensões,
+
+105
+00:10:20,500 --> 00:10:21,500
+limitações,
+
+106
+00:10:21,500 --> 00:10:27,500
+na formação da comunidade política para o exercício do poder político.
+
+107
+00:10:27,500 --> 00:10:32,500
+Pois bem, eu disse a pouco que o eixo do
+
+108
+00:10:32,500 --> 00:10:37,500
+Concionalismo Moderno está no contratualismo,
+
+109
+00:10:37,500 --> 00:10:40,500
+ou nas ideias contratualistas,
+
+110
+00:10:40,500 --> 00:10:44,500
+que de diferentes maneiras foram defendidas
+
+111
+00:10:44,500 --> 00:10:48,500
+pelos teóricos liberais como Hobbes,
+
+112
+00:10:48,500 --> 00:10:52,500
+Locke, Rousseau, Montesquê e Kant,
+
+113
+00:10:52,500 --> 00:10:54,500
+do ponto de vista,
+
+114
+00:10:54,500 --> 00:11:01,500
+e deles eu vou extrair o que os aproxima,
+
+115
+00:11:01,500 --> 00:11:05,500
+o que os torna convergentes,
+
+116
+00:11:05,500 --> 00:11:09,500
+que diz respeito ao papel do indivíduo
+
+117
+00:11:09,500 --> 00:11:15,500
+para a determinação da comunidade política
+
+118
+00:11:15,500 --> 00:11:19,500
+para a determinação do que mais tarde
+
+119
+00:11:19,500 --> 00:11:24,500
+se vai chamar de estado de direito.
+
+120
+00:11:24,500 --> 00:11:30,500
+Pois bem, do ponto de vista dos liberais,
+
+121
+00:11:30,500 --> 00:11:35,500
+o indivíduo ocupa um papel importante na relação política.
+
+122
+00:11:35,500 --> 00:11:41,500
+Isto é a relação política se estrutura a partir do indivíduo
+
+123
+00:11:41,500 --> 00:11:51,500
+e obviamente a partir dos seus direitos naturais.
+
+124
+00:11:51,500 --> 00:11:58,500
+Daí a noção de um governo limitado em face dos indivíduos,
+
+125
+00:11:58,500 --> 00:12:04,500
+um governo cuja as leis não podem atentar contra o indivíduo.
+
+126
+00:12:04,500 --> 00:12:10,500
+Isto é, não podem atentar contra a autonomia individual
+
+127
+00:12:10,500 --> 00:12:15,500
+que se traduz na gramática dos direitos indivíduos.
+
+128
+00:12:15,500 --> 00:12:22,500
+Valeu dizer, ao estado liberal se estrutura sobre a ideia de autonomia,
+
+129
+00:12:22,500 --> 00:12:28,500
+de maneira que qualquer intervenção no âmbito da autonomia
+
+130
+00:12:28,500 --> 00:12:33,500
+seria extremamente daninha.
+
+131
+00:12:33,500 --> 00:12:36,500
+As liberdades são nesse sentido.
+
+132
+00:12:36,500 --> 00:12:41,500
+Os liberdades negativas vale dizer o direito de liberdade
+
+133
+00:12:41,500 --> 00:12:45,500
+opera neste sentido negativo, ou seja,
+
+134
+00:12:45,500 --> 00:12:48,500
+o danão interferência do governo
+
+135
+00:12:48,500 --> 00:12:53,500
+e, obviamente, a não interferência do poder político
+
+136
+00:12:53,500 --> 00:12:55,500
+na esfera individual.
+
+137
+00:12:55,500 --> 00:13:00,500
+O princípio da não intervenção aparece explicitamente,
+
+138
+00:13:00,500 --> 00:13:05,500
+explicitamente, tanto na declaração francesa
+
+139
+00:13:05,500 --> 00:13:09,500
+quanto na Constituição americana
+
+140
+00:13:09,500 --> 00:13:15,500
+e nas suas posteriores emendas mais conhecidas como The Beof Rights.
+
+141
+00:13:15,500 --> 00:13:20,500
+Em síntese, o movimento constitucionalista
+
+142
+00:13:20,500 --> 00:13:25,500
+sublinha que a Constituição deve conter
+
+143
+00:13:25,500 --> 00:13:28,500
+um sistema de garantias da liberdade,
+
+144
+00:13:28,500 --> 00:13:33,500
+a Constituição deve conter o princípio da divisão
+
+145
+00:13:33,500 --> 00:13:40,500
+dos poderes e a Constituição deve ser escrita.
+
+146
+00:13:40,500 --> 00:13:44,500
+Esta ideia constitucional, obviamente,
+
+147
+00:13:44,500 --> 00:13:49,500
+significa, portanto, a criação de instituições
+
+148
+00:13:49,500 --> 00:13:54,500
+que venham a limitar e controlar o poder político
+
+149
+00:13:54,500 --> 00:13:59,500
+vinculando as suas normas tanto aos detentores
+
+150
+00:13:59,500 --> 00:14:04,500
+do poder quanto, obviamente, aos cidadãos.
+
+151
+00:14:04,500 --> 00:14:09,500
+Há outras perspectivas das quais nós podemos falar
+
+152
+00:14:09,500 --> 00:14:11,500
+de Constituição.
+
+153
+00:14:11,500 --> 00:14:15,500
+E eu vou me restringir a esse cenário liberal
+
+154
+00:14:15,500 --> 00:14:20,500
+em que a ideia de Constituição surge com muita força.
+
+155
+00:14:21,500 --> 00:14:25,500
+Apenas a título exemplificativo
+
+156
+00:14:25,500 --> 00:14:29,500
+e para provocar uma certa curiosidade em vocês,
+
+157
+00:14:29,500 --> 00:14:34,500
+eu diria que no século XIX, mais especificamente,
+
+158
+00:14:34,500 --> 00:14:38,500
+por conta dos movimentos também revolucionários
+
+159
+00:14:38,500 --> 00:14:44,500
+lá à vidros, mas como a connotação completamente distinta
+
+160
+00:14:44,500 --> 00:14:49,500
+da liberal surgem novas ideias
+
+161
+00:14:49,500 --> 00:14:51,500
+acerca da revolução.
+
+162
+00:14:51,500 --> 00:14:58,500
+E se estou aqui uma ideia conhecida
+
+163
+00:14:58,500 --> 00:15:03,500
+pelos Constitucionalistas e sempre trazida
+
+164
+00:15:03,500 --> 00:15:05,500
+nos manuais e direito-concional,
+
+165
+00:15:05,500 --> 00:15:11,500
+que, de respeito à noção de Constituição,
+
+166
+00:15:11,500 --> 00:15:14,500
+oferecida pelo Prussiano Ferginan Laçali,
+
+167
+00:15:14,500 --> 00:15:18,500
+que foi contemporâneo de Marx,
+
+168
+00:15:18,500 --> 00:15:25,500
+viveu o momento revolucionário de 1848
+
+169
+00:15:25,500 --> 00:15:28,500
+e nesse sentido ele vai dizer,
+
+170
+00:15:28,500 --> 00:15:31,500
+a Constituição não é exatamente esse modelo
+
+171
+00:15:31,500 --> 00:15:33,500
+que os liberais oferecem.
+
+172
+00:15:33,500 --> 00:15:36,500
+A Constituição não é exatamente
+
+173
+00:15:36,500 --> 00:15:41,500
+essa forma escrita e com esses conteúdos
+
+174
+00:15:41,500 --> 00:15:45,500
+que os liberais sugerem.
+
+175
+00:15:45,500 --> 00:15:49,500
+A Constituição de respeito aos fatores reais e poder,
+
+176
+00:15:49,500 --> 00:15:53,500
+a Constituição de respeito aos embates
+
+177
+00:15:53,500 --> 00:15:56,500
+que estão acontecendo na sociedade,
+
+178
+00:15:56,500 --> 00:16:00,500
+ou seja, para laçá-les só a forma
+
+179
+00:16:00,500 --> 00:16:05,500
+a Constituição escrita e aquele conteúdo
+
+180
+00:16:05,500 --> 00:16:10,500
+que limita poderes guardam hold
+
+181
+00:16:10,500 --> 00:16:14,500
+direitos fundamentais individuais
+
+182
+00:16:14,500 --> 00:16:16,500
+e garante a separação de poderes,
+
+183
+00:16:16,500 --> 00:16:18,500
+isso é pouca coisa.
+
+184
+00:16:18,500 --> 00:16:20,500
+Ele diz a Constituição,
+
+185
+00:16:20,500 --> 00:16:23,500
+tem que refletir os fatores reais de poder
+
+186
+00:16:23,500 --> 00:16:28,500
+e esta é a essência da Constituição.
+
+187
+00:16:28,500 --> 00:16:32,500
+Essa manução distinta que parte
+
+188
+00:16:32,500 --> 00:16:35,500
+de premissas distintas que diz respeito
+
+189
+00:16:35,500 --> 00:16:39,500
+ao momento em que a Europa
+
+190
+00:16:39,500 --> 00:16:46,500
+justamente vive o ápice da Revolução Industrial
+
+191
+00:16:46,500 --> 00:16:51,500
+e percebe que as promessas liberais
+
+192
+00:16:51,500 --> 00:16:57,500
+não se realizaram da maneira como se imaginava
+
+193
+00:16:57,500 --> 00:17:01,500
+e, portanto, não mais um individo,
+
+194
+00:17:01,500 --> 00:17:04,500
+mais o conjunto de individos,
+
+195
+00:17:04,500 --> 00:17:07,500
+a coletividade de individos
+
+196
+00:17:07,500 --> 00:17:10,500
+passa a ser central.
+
+197
+00:17:10,500 --> 00:17:14,500
+As ideias socialistas passam a ganhar corpo
+
+198
+00:17:14,500 --> 00:17:19,500
+e isso, obviamente, vai refletir no conceito de Constituição.
+
+199
+00:17:19,500 --> 00:17:24,500
+Pois bem, a Constituição pode ser classificada também.
+
+200
+00:17:24,500 --> 00:17:30,500
+A dogmática concional oferece uma classificação
+
+201
+00:17:30,500 --> 00:17:34,500
+da Constituição que, em si mesma,
+
+202
+00:17:34,500 --> 00:17:36,500
+não diz muita coisa.
+
+203
+00:17:36,500 --> 00:17:39,500
+A diretora da Constituição é que, até que ela é tola,
+
+204
+00:17:39,500 --> 00:17:42,500
+se for pensada,
+
+205
+00:17:42,500 --> 00:17:46,500
+apenas como uma receita
+
+206
+00:17:46,500 --> 00:17:54,500
+em que você busca
+
+207
+00:17:54,500 --> 00:17:59,500
+aditivos para classificar e qualificar uma Constituição.
+
+208
+00:17:59,500 --> 00:18:01,500
+Não é isso.
+
+209
+00:18:01,500 --> 00:18:05,500
+A gente oferece uma classificação da Constituição
+
+210
+00:18:05,500 --> 00:18:11,500
+que deve ser pensada na dinâmica da sua vivência
+
+211
+00:18:11,500 --> 00:18:14,500
+e, portanto, da sua aplicação.
+
+212
+00:18:14,500 --> 00:18:17,500
+Por isso que dizer que, enquanto a forma
+
+213
+00:18:17,500 --> 00:18:19,500
+a Constituição pode ser escrita e não escrita,
+
+214
+00:18:19,500 --> 00:18:21,500
+significa muito pouco.
+
+215
+00:18:21,500 --> 00:18:24,500
+Eu quero entender o sentido da Constituição escrita
+
+216
+00:18:24,500 --> 00:18:28,500
+de uma Constituição escrita ou de uma Constituição não escrita.
+
+217
+00:18:28,500 --> 00:18:35,500
+Dizer que a Constituição, no seu modo de elaboração,
+
+218
+00:18:35,500 --> 00:18:39,500
+pode decorrer de um processo formal,
+
+219
+00:18:39,500 --> 00:18:42,500
+um processo, portanto, Constituit,
+
+220
+00:18:42,500 --> 00:18:46,500
+onde houve um evento específico para sua elaboração.
+
+221
+00:18:46,500 --> 00:18:48,500
+Ou ela pode decorrer simplesmente
+
+222
+00:18:48,500 --> 00:18:50,500
+no processo histórico, não diz muita coisa.
+
+223
+00:18:50,500 --> 00:18:55,500
+É preciso que se compreenda o real sentido
+
+224
+00:18:55,500 --> 00:19:00,500
+desse processo constituinte, específico, com regras próprias.
+
+225
+00:19:00,500 --> 00:19:05,500
+E a diferença de uma Constituição que não decorre de um tal processo.
+
+226
+00:19:05,500 --> 00:19:12,500
+Dizer que, quanto a sua origem, as Constituições podem ser promulgadas
+
+227
+00:19:12,500 --> 00:19:15,500
+ou ortorgadas, não diz muita coisa.
+
+228
+00:19:15,500 --> 00:19:20,500
+É preciso compreender de novo o sentido do que é uma Constituição promulgada
+
+229
+00:19:20,500 --> 00:19:23,500
+que, desrespeita o que eu disse a pouco,
+
+230
+00:19:23,500 --> 00:19:29,500
+decorre de um processo com legitimidade, com apoio popular,
+
+231
+00:19:29,500 --> 00:19:34,500
+com uma qualidade democrática,
+
+232
+00:19:34,500 --> 00:19:37,500
+ao contrário das Constituições autorradas.
+
+233
+00:19:37,500 --> 00:19:41,500
+O mesmo vale para a questão da estabilidade das Constituições.
+
+234
+00:19:41,500 --> 00:19:46,500
+Dizer que uma Constituição é rígida, sem irrígida,
+
+235
+00:19:46,500 --> 00:19:54,500
+não faz qualquer sentido que não compreendermos que uma Constituição rígida
+
+236
+00:19:54,500 --> 00:20:02,500
+se faz muito mais segura para a comunidade política ou não,
+
+237
+00:20:02,500 --> 00:20:06,500
+porque vai depender justamente do contexto,
+
+238
+00:20:06,500 --> 00:20:09,500
+no qual essa Constituição se aplica.
+
+239
+00:20:09,500 --> 00:20:14,500
+E, por fim, dizer que uma Constituição é analítica
+
+240
+00:20:14,500 --> 00:20:17,180
+que é o sintética também porco.
+
+241
+00:20:17,180 --> 00:20:28,920
+Significa, se nós não interdêmos, não compreendermos a extensão de se ter um documento
+
+242
+00:20:28,920 --> 00:20:36,480
+que seja detalhado, que seja extremamente analítico em relação a um documento que é mais
+
+243
+00:20:36,480 --> 00:20:42,359
+enxuto, que é mais conciso e é que obviamente você está, como exemplo, de um lado a Constituição
+
+244
+00:20:42,359 --> 00:20:49,879
+brasileira de 1988, como uma Constituição mais detalhada, como uma Constituição mais
+
+245
+00:20:49,879 --> 00:20:58,639
+extensiva, em relação a Constituição estadounidense, que é uma Constituição enxuta, uma Constituição
+
+246
+00:20:58,639 --> 00:21:01,159
+de poucos artigos, de poucas emendas.
+
+247
+00:21:01,159 --> 00:21:12,219
+Pois bem, eu finalizo por aqui e retomo essa parte final com o que eu vou falar na
+
+248
+00:21:12,220 --> 00:21:16,220
+sequência, que são os princípios e soltorantes do Estado e do Direito.
+
+249
+00:21:16,220 --> 00:21:17,220
+Muito obrigada.

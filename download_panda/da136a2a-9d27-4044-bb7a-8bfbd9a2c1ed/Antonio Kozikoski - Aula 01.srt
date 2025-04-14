@@ -1,0 +1,1531 @@
+1
+00:00:00,000 --> 00:00:05,960
+O Lá pessoal tudo bem?
+
+2
+00:00:05,960 --> 00:00:09,720
+Meu nome é António Cosicós, que sou professor de direito constitucional e de direitos
+
+3
+00:00:09,720 --> 00:00:10,720
+humanos.
+
+4
+00:00:10,720 --> 00:00:13,160
+É uma satisfação estar contigo aqui na ABD Constitucional.
+
+5
+00:00:13,160 --> 00:00:19,480
+O tema que eu vou tratar na esta aula é muito importante para o direito constitucional.
+
+6
+00:00:19,480 --> 00:00:24,920
+Eu tema a república, você vê aí no slide, o tema dessa aula.
+
+7
+00:00:24,920 --> 00:00:31,440
+Muitos me perguntam por que o direito constitucional não dispensa tanta atenção para o assunto,
+
+8
+00:00:31,440 --> 00:00:33,240
+porque você já deve ter notado.
+
+9
+00:00:33,240 --> 00:00:37,480
+A gente sempre fala em república, a todo instante a gente faz referência ao princípio
+
+10
+00:00:37,480 --> 00:00:42,600
+republicano, a jurisprudência do Supremo Tribunal Federal é farta de mensões a esse
+
+11
+00:00:42,600 --> 00:00:43,600
+princípio.
+
+12
+00:00:43,600 --> 00:00:48,240
+No próprio texto constitucional a gente encontra em mais de 100 passagens a expressão
+
+13
+00:00:48,240 --> 00:00:49,240
+república.
+
+14
+00:00:49,240 --> 00:00:54,640
+Mas o estudo da república é um tanto quanto limitado no direito constitucional os autores
+
+15
+00:00:54,640 --> 00:01:00,240
+se voltam mais a estudar direitos fundamentais, a parte de poderes, a parte de controle de
+
+16
+00:01:00,240 --> 00:01:06,560
+constitucionalidade, mas esta importante forma de governo fica de fora dos temas de predileção
+
+17
+00:01:06,560 --> 00:01:08,359
+dos autores de direito constitucional.
+
+18
+00:01:08,359 --> 00:01:14,439
+No entanto, é um tema extremamente importante e já trago para você algumas dúvidas,
+
+19
+00:01:14,439 --> 00:01:19,799
+de início dúvidas que venceremos ao longo desses encontros dessas aulas que teremos.
+
+20
+00:01:19,799 --> 00:01:23,640
+Primeira dúvida é a diferença entre república e democracia.
+
+21
+00:01:23,640 --> 00:01:27,000
+O que é uma coisa e o que é outra coisa?
+
+22
+00:01:27,000 --> 00:01:29,200
+Será que são realidades diferentes?
+
+23
+00:01:29,200 --> 00:01:34,120
+É a obvio que são, mas a gente vai tentar de limitar exatamente onde está a diferença
+
+24
+00:01:34,120 --> 00:01:39,280
+entre um assunto e outros, são coisas parecidas, mas não são sinólimas, obviamente.
+
+25
+00:01:39,280 --> 00:01:44,159
+Também a gente vai falar um pouco sobre o princípio da igualdade que está na base,
+
+26
+00:01:44,159 --> 00:01:47,319
+na base, na essência do conceito republicano.
+
+27
+00:01:47,359 --> 00:01:52,479
+A gente vai primeiro de limitar um conceito satisfatório adequado de república para daí
+
+28
+00:01:52,479 --> 00:01:58,519
+falar em igualdade e trabalharemos algumas concepções da expressão.
+
+29
+00:01:58,519 --> 00:02:03,079
+Igualdade, falaremos um pouco sobre Dworkin, falaremos um pouco sobre John Hoss,
+
+30
+00:02:03,079 --> 00:02:09,879
+falaremos um pouco também sobre a Martia 100 autores que se debruçaram aí ao estúlio da igualdade.
+
+31
+00:02:09,879 --> 00:02:11,280
+É bem interessante.
+
+32
+00:02:11,280 --> 00:02:14,879
+Obviamente, também a gente vai falar um pouco sobre a própria democracia,
+
+33
+00:02:14,879 --> 00:02:19,359
+na perspectiva direta e indireta, falaremos um pouco sobre os partidos políticos,
+
+34
+00:02:19,359 --> 00:02:23,759
+porque eles têm uma vocação para fazer esta participação popular,
+
+35
+00:02:23,759 --> 00:02:28,280
+que é algo intrínseco à república, falaremos inclusive, lá no finalzinho,
+
+36
+00:02:28,280 --> 00:02:31,280
+sobre leis de iniciativa popular.
+
+37
+00:02:31,280 --> 00:02:34,000
+Elas têm tudo a ver com esse tema de estudos.
+
+38
+00:02:34,000 --> 00:02:40,079
+Mas, de novo, eu coloco para você aí uma questão para refletir.
+
+39
+00:02:40,080 --> 00:02:44,400
+A república embora muito importante, ela é poucos plorada aí no direito
+
+40
+00:02:44,400 --> 00:02:46,600
+constrional brasileiro.
+
+41
+00:02:46,600 --> 00:02:50,680
+Agora, a gente vai começar fazendo abordagem da república,
+
+42
+00:02:50,680 --> 00:02:56,360
+trabalhando com as características, o princípio republicano,
+
+43
+00:02:56,360 --> 00:02:59,880
+falaremos um pouco sobre o conteúdo desse princípio,
+
+44
+00:02:59,880 --> 00:03:03,960
+o que quer dizer a república, a quais são as suas características,
+
+45
+00:03:03,960 --> 00:03:07,200
+o que está dentro desse conteúdo.
+
+46
+00:03:07,199 --> 00:03:12,919
+Então, veja comigo na tela, o princípio republicano e suas características.
+
+47
+00:03:12,919 --> 00:03:18,000
+Vejam só, de largada, eu trago para você uma primeira ideia,
+
+48
+00:03:18,000 --> 00:03:20,919
+que é uma ideia bem simples, praticamente todos os livros,
+
+49
+00:03:20,919 --> 00:03:23,399
+todos os manuais de direito constrional a bordo,
+
+50
+00:03:23,399 --> 00:03:28,560
+que é o conceito, um conceito minimamente adequado de república.
+
+51
+00:03:28,560 --> 00:03:32,959
+Você pode ver aí na tela, que república é uma forma de governo,
+
+52
+00:03:32,960 --> 00:03:38,680
+é uma forma de governo contraposta a monarquia fundada na igualdade entre as pessoas,
+
+53
+00:03:38,680 --> 00:03:42,879
+na qual os detentores do poder político exércino em caráter elitivo,
+
+54
+00:03:42,879 --> 00:03:46,920
+representativo, transitório e com responsabilidade.
+
+55
+00:03:46,920 --> 00:03:50,840
+Então, a gente vai debater cada um desses elementos que está em tríncipe
+
+56
+00:03:50,840 --> 00:03:52,600
+ao conceito de república.
+
+57
+00:03:52,600 --> 00:03:55,920
+De largada, eu falo para você tomar cuidado,
+
+58
+00:03:55,920 --> 00:04:00,120
+porque uma coisa é forma de Estado, outra coisa é forma de governo.
+
+59
+00:04:00,120 --> 00:04:03,360
+A forma de Estado, ela se volta a estudar,
+
+60
+00:04:03,360 --> 00:04:07,280
+como cidadia de visão espacial do poder no determinado território.
+
+61
+00:04:07,280 --> 00:04:13,439
+E aí, a doutrina se volta a analisar o Estado Unitário, a Federação e a Confederação.
+
+62
+00:04:13,439 --> 00:04:19,399
+A gente sabe que o mundo hoje é repleto de Estados Unitários e de Federações.
+
+63
+00:04:19,399 --> 00:04:22,439
+Confederações hoje não há mais,
+
+64
+00:04:22,439 --> 00:04:27,680
+muito embora alguns autores, insistam em trazer alguma aproximação de blocos econômicos,
+
+65
+00:04:27,680 --> 00:04:29,399
+a ideia de Confederação.
+
+66
+00:04:29,439 --> 00:04:31,959
+Mas também não é nem esse objeto da nossa aula.
+
+67
+00:04:31,959 --> 00:04:34,199
+A gente vai falar sobre república.
+
+68
+00:04:34,199 --> 00:04:38,519
+Agora, a forma de governo, aí sim, é o que nos interessa.
+
+69
+00:04:38,519 --> 00:04:43,799
+A forma de governo diz respeito ao modo de exercício do poder numa determinada sociedade.
+
+70
+00:04:43,799 --> 00:04:47,319
+Como é que se exerce o poder numa determinada sociedade?
+
+71
+00:04:47,319 --> 00:04:51,679
+Essa é uma pergunta importante, ela passa pela história do consucionalismo,
+
+72
+00:04:51,679 --> 00:04:56,519
+passa pela história da própria afirmação do poder político na sociedade.
+
+73
+00:04:56,519 --> 00:04:58,199
+Concorda comigo?
+
+74
+00:04:58,240 --> 00:05:02,360
+Vejam só, as formas de governo, tradicionalmente, são duas.
+
+75
+00:05:02,360 --> 00:05:07,599
+Hoje em dia, a gente tem as repúblicas de um lado e as monarquias de outro lado.
+
+76
+00:05:07,599 --> 00:05:12,839
+Mas é verdade que alguns autores, e autores bastante antigos, inclusive,
+
+77
+00:05:12,839 --> 00:05:16,519
+se dedicaram já ao estudo das formas de governo.
+
+78
+00:05:16,519 --> 00:05:23,199
+O Aristóteles, por exemplo, há muito tempo atrás, ele já trouxe uma abordagem sobre as formas de governo
+
+79
+00:05:23,240 --> 00:05:28,399
+e ele se referia a formas de governo puras e formas de governo impuras.
+
+80
+00:05:28,399 --> 00:05:37,120
+As formas de governo puras diziam respeito a lógicas de exercício do poder numa determinada sociedade.
+
+81
+00:05:37,120 --> 00:05:40,039
+Sempre no interesse do bem comum.
+
+82
+00:05:40,039 --> 00:05:46,240
+E aí, a gente começa a falar em monarquia, por exemplo, a gente começa a falar em Aristocracia
+
+83
+00:05:46,240 --> 00:05:48,839
+e a gente começa a falar em democracia.
+
+84
+00:05:48,879 --> 00:05:54,000
+A monarquia é uma forma de governo na qual o poder é exercido por um só.
+
+85
+00:05:54,000 --> 00:05:58,599
+Aristocracia, por poucos, qualificados, vocacionados para isso.
+
+86
+00:05:58,599 --> 00:06:07,399
+E a democracia é uma análise de autor, seria uma forma de governo na qual todos governariam em pró de todos.
+
+87
+00:06:07,399 --> 00:06:11,359
+Só que o Aristóteles, ele traz uma ideia bem interessante.
+
+88
+00:06:11,359 --> 00:06:17,439
+Ele fala que em determinado momento, essas formas puras de governo podem se deturpar.
+
+89
+00:06:17,480 --> 00:06:25,399
+Ela se deturpa quando os detentores do poder passam a exercê-lo, não no interesse, da comunidade do todo.
+
+90
+00:06:25,399 --> 00:06:28,160
+Mas sim, nos seus próprios interesses.
+
+91
+00:06:28,160 --> 00:06:33,800
+Aí, ocorra uma deturpação das formas puras que viram formas impuras.
+
+92
+00:06:33,800 --> 00:06:38,519
+Na ótica do autor, a monarquia vai se transformar em uma tirania,
+
+93
+00:06:38,519 --> 00:06:43,120
+é uma forma deturpada de exercício desse poder por um só.
+
+94
+00:06:43,120 --> 00:06:48,319
+De outro lado, aquela Aristocracia vai se deturpar numa oligarquia.
+
+95
+00:06:48,319 --> 00:06:53,240
+E a democracia, finalmente, vai se deturpar numa demagogia.
+
+96
+00:06:53,240 --> 00:06:57,079
+É óbvio essa classificação parece com grande abrangência,
+
+97
+00:06:57,079 --> 00:07:01,399
+na dutrina, nos livros, e ela pode ser interessante para você.
+
+98
+00:07:01,399 --> 00:07:04,519
+Mas é verdade que hoje em dia, numa perspectiva mais prática.
+
+99
+00:07:04,519 --> 00:07:10,240
+A gente se limita a analisar aquelas que são osuais a república e a monarquia.
+
+100
+00:07:10,240 --> 00:07:14,680
+Inclusive, a gente vai falar daqui a pouco sobre o panorama mundial
+
+101
+00:07:14,680 --> 00:07:18,360
+e a gente vai perceber que, preponderantemente, há repúblicas.
+
+102
+00:07:18,360 --> 00:07:24,400
+Mas há monarquias, sim, algumas constacionais e outras monarquias ainda absolutistas.
+
+103
+00:07:24,400 --> 00:07:28,720
+Mas vejam só, voltando aqui ao nosso conceito, você pode ir para a tela comigo.
+
+104
+00:07:28,720 --> 00:07:33,199
+Você tem que a república, é uma forma de governo,
+
+105
+00:07:33,199 --> 00:07:36,120
+contraposta a monarquia.
+
+106
+00:07:36,160 --> 00:07:40,639
+Eu vou mostrar para você daqui a pouco o porquê dessa contracosição
+
+107
+00:07:40,639 --> 00:07:42,759
+são realidades bastante diferentes.
+
+108
+00:07:42,759 --> 00:07:45,920
+É importante, inclusive, a gente conhecer primeiro a monarquia
+
+109
+00:07:45,920 --> 00:07:48,040
+para depois voltar a república.
+
+110
+00:07:48,040 --> 00:07:54,639
+Mas essa forma de governo contraposta a monarquia, mais uma vez o conceito,
+
+111
+00:07:54,639 --> 00:07:57,959
+ela é fundada na igualdade entre as pessoas.
+
+112
+00:07:57,959 --> 00:08:00,240
+Eu coloquei em destaque essa palavra igualdade,
+
+113
+00:08:00,280 --> 00:08:06,680
+porque me parece que ela é a alma mater da forma de governo republicana,
+
+114
+00:08:06,680 --> 00:08:08,720
+igualdade entre as pessoas.
+
+115
+00:08:08,720 --> 00:08:11,199
+E, como é disso no início da aula, a gente vai entender,
+
+116
+00:08:11,199 --> 00:08:14,800
+ou vai buscar entender como essa igualdade é trabalhada,
+
+117
+00:08:14,800 --> 00:08:17,800
+ou de que igualdade estamos falando.
+
+118
+00:08:17,800 --> 00:08:19,560
+Agora que a gente tem um conceito,
+
+119
+00:08:19,560 --> 00:08:22,000
+agora que a gente entendeu, de fato,
+
+120
+00:08:22,000 --> 00:08:26,079
+que a república é uma forma de governo e não uma forma de Estado,
+
+121
+00:08:26,079 --> 00:08:28,120
+contraposta a monarquia,
+
+122
+00:08:28,240 --> 00:08:33,600
+a gente pode começar a abordar as características desta forma de governo específica,
+
+123
+00:08:33,600 --> 00:08:35,120
+que é a monarquia.
+
+124
+00:08:35,120 --> 00:08:37,679
+E aí, o peço que você me acompanha na tela
+
+125
+00:08:37,679 --> 00:08:42,399
+são três características muito simples das monarquias.
+
+126
+00:08:42,399 --> 00:08:46,720
+As monarquias são marcadas, atualmente, pela vitaliciedade,
+
+127
+00:08:46,720 --> 00:08:50,519
+pela hereditariedade e pela irresponsabilidade política,
+
+128
+00:08:50,519 --> 00:08:52,519
+sendo que essa irresponsabilidade política
+
+129
+00:08:52,519 --> 00:08:56,519
+assumirá uma connotação diferente nas monarquias absolutistas
+
+130
+00:08:56,519 --> 00:08:58,600
+e nas monarquias constitucionais.
+
+131
+00:08:58,600 --> 00:09:01,559
+Mas eu começo falando sobre o primeiro,
+
+132
+00:09:01,559 --> 00:09:03,919
+o princípio que é o princípio da vitaliciedade,
+
+133
+00:09:03,919 --> 00:09:08,759
+obviamente, nas monarquias, o monarca, o rei, a rainha,
+
+134
+00:09:08,759 --> 00:09:11,319
+vai exercer o poder por toda a vida.
+
+135
+00:09:11,319 --> 00:09:14,960
+Então, não há um mandato, evidente que não há um mandato este rei,
+
+136
+00:09:14,960 --> 00:09:16,600
+este monarca, rei, rainha,
+
+137
+00:09:16,600 --> 00:09:19,199
+vai exercer o governo enquanto viver,
+
+138
+00:09:19,199 --> 00:09:23,319
+ou até renunciar, porque é muito comum no curso das monarquias,
+
+139
+00:09:23,319 --> 00:09:25,639
+que alguns não suportem o peço da coroa
+
+140
+00:09:25,639 --> 00:09:30,199
+e renunciem para o próximo naquela sucessão hereditária.
+
+141
+00:09:30,199 --> 00:09:33,559
+A própria história da Inglaterra recente,
+
+142
+00:09:33,559 --> 00:09:37,840
+ela traz uma renúncia, porque a rainha Elizabeth II,
+
+143
+00:09:37,840 --> 00:09:40,360
+que atualmente é a monarca da Inglaterra,
+
+144
+00:09:40,360 --> 00:09:45,159
+ela assumiu o poder, porque o anterior acabou renunciando.
+
+145
+00:09:45,159 --> 00:09:49,360
+Tá certo, seu tio renunciou e a coroa colbe ela
+
+146
+00:09:49,360 --> 00:09:51,360
+naquela sucessão hereditária.
+
+147
+00:09:51,360 --> 00:09:55,080
+E, obviamente, algumas pessoas também me perguntam,
+
+148
+00:09:55,080 --> 00:09:59,120
+isso entônio, mas como é que funciona o critério da sucessão,
+
+149
+00:09:59,120 --> 00:10:00,520
+onde está escrito?
+
+150
+00:10:00,520 --> 00:10:04,120
+Bom, como é uma regras de organização do próprio Estado?
+
+151
+00:10:04,120 --> 00:10:10,759
+É natural que as constituições já tragam as dinâmicas específicas da sucessão.
+
+152
+00:10:10,759 --> 00:10:13,160
+A Espanha, por exemplo, que é uma monarquia,
+
+153
+00:10:13,160 --> 00:10:14,920
+tem lá no seu texto conditional,
+
+154
+00:10:14,920 --> 00:10:17,520
+uma parte dedicada ao estudo da sucessão,
+
+155
+00:10:17,520 --> 00:10:21,759
+a análise da sucessão no trono.
+
+156
+00:10:21,759 --> 00:10:24,360
+É verdade que ela vai falar que cabirá
+
+157
+00:10:24,480 --> 00:10:29,080
+a uma lei de espor sobre a renúncia, quem poderá entrar,
+
+158
+00:10:29,080 --> 00:10:34,440
+mas a parte mais genérica dela está disposta lá na Constituição.
+
+159
+00:10:34,440 --> 00:10:38,440
+Mas, de qualquer forma, trata a cesta de uma característica muito simples.
+
+160
+00:10:38,440 --> 00:10:43,440
+A vitaliciedade, o rei, a rainha, vai governar por toda a vida,
+
+161
+00:10:43,440 --> 00:10:45,399
+ou até renunciar.
+
+162
+00:10:45,399 --> 00:10:49,720
+Agora, a segunda característica é muito importante.
+
+163
+00:10:49,720 --> 00:10:56,600
+Pige um só, eu adoraria ser rei, ser príncipe na Inglaterra,
+
+164
+00:10:56,600 --> 00:11:00,440
+mas não posso, porque eu estou fora da linha sucessória,
+
+165
+00:11:00,440 --> 00:11:05,080
+eu não faço parte dessa linha de sucessão.
+
+166
+00:11:05,080 --> 00:11:09,960
+A gente vai lembrar que nas monarquias, além da vitaliciedade,
+
+167
+00:11:09,960 --> 00:11:15,120
+existe uma outra característica que é a característica da hereditariedade.
+
+168
+00:11:15,159 --> 00:11:18,360
+Sim, a hereditariedade, você pode acompanhar aí na tela,
+
+169
+00:11:18,360 --> 00:11:22,360
+também está escrito ali no segundo tópico a hereditariedade.
+
+170
+00:11:22,360 --> 00:11:28,919
+Então, isso significa que lá nas monarquias não haverá uma lógica,
+
+171
+00:11:28,919 --> 00:11:33,960
+como a nossa brasileira, discolha por voto popular,
+
+172
+00:11:33,960 --> 00:11:36,799
+não, vai assumir o trono.
+
+173
+00:11:36,799 --> 00:11:38,720
+Vai assumir o trono, gostemos ou não,
+
+174
+00:11:38,720 --> 00:11:41,799
+aquele que está na linha de hereditariedade.
+
+175
+00:11:41,799 --> 00:11:44,000
+Então, temos ali uma certa dinastia,
+
+176
+00:11:44,000 --> 00:11:50,159
+temos ali uma certa linagem real e o próximo acaba assumindo o lugar.
+
+177
+00:11:50,159 --> 00:11:51,559
+É interessante, né?
+
+178
+00:11:51,559 --> 00:11:56,000
+O Brasil é um país de tradição republicana desde 1889.
+
+179
+00:11:56,000 --> 00:12:01,120
+E para a gente hoje, é um pouco difícil entender o porquê
+
+180
+00:12:01,120 --> 00:12:05,080
+dessas pessoas se curvarem ao rei a uma rainha.
+
+181
+00:12:05,080 --> 00:12:09,879
+Com o papel dessa pessoa, a gente vai falar um pouco sobre isso adiante.
+
+182
+00:12:09,879 --> 00:12:12,320
+Mas agora, estou muito cuidado.
+
+183
+00:12:12,440 --> 00:12:16,000
+A terceira característica, mais importante das monarquias,
+
+184
+00:12:16,000 --> 00:12:18,640
+é aí responsabilidade política,
+
+185
+00:12:18,640 --> 00:12:21,640
+você pode ver aí na sua tela novamente,
+
+186
+00:12:21,640 --> 00:12:24,160
+e responsabilidade política.
+
+187
+00:12:24,160 --> 00:12:26,920
+Vejam só, isso significa que o rei,
+
+188
+00:12:26,920 --> 00:12:31,600
+ele é absolutamente irresponsável no âmbito do Estado,
+
+189
+00:12:31,600 --> 00:12:34,120
+que o rei na qual ele reina.
+
+190
+00:12:34,120 --> 00:12:36,840
+E responsável no sentido de não incidirá para ele
+
+191
+00:12:36,840 --> 00:12:39,960
+alguma responsabilização política, obviamente,
+
+192
+00:12:39,960 --> 00:12:42,400
+essa economia do país vai mal,
+
+193
+00:12:42,400 --> 00:12:44,400
+não vamos nos queixar a ele,
+
+194
+00:12:44,400 --> 00:12:47,440
+porque não é a atribuição dele via de regra.
+
+195
+00:12:47,440 --> 00:12:52,320
+E eu falo pela média, naturalmente, nas 37 monarquias constacionais
+
+196
+00:12:52,320 --> 00:12:53,759
+que ao redor do mundo hoje,
+
+197
+00:12:53,759 --> 00:12:56,720
+uma outra pode ter uma particularidade, um tanto quanto diversa,
+
+198
+00:12:56,720 --> 00:12:58,720
+mas a regra é justamente essa,
+
+199
+00:12:58,720 --> 00:13:01,600
+aí responsabilidade política.
+
+200
+00:13:01,600 --> 00:13:04,360
+Mas como eu te disse, essa irresponsabilidade política
+
+201
+00:13:04,360 --> 00:13:08,240
+assume uma connotação diferente nas monarquias absolutistas
+
+202
+00:13:08,240 --> 00:13:10,240
+e nas monarquias constacionais.
+
+203
+00:13:10,240 --> 00:13:18,399
+Sim, nas monarquias absolutistas que vigoraram até o século 18, 17, virada,
+
+204
+00:13:18,399 --> 00:13:22,440
+aí, claro, que havia a máxima da irresponsabilidade política,
+
+205
+00:13:22,440 --> 00:13:26,639
+até porque a figura do monarca se confundia com a figura do próprio Estado,
+
+206
+00:13:26,639 --> 00:13:31,840
+então, não haveria como responsabilizar aquele que, por disposição de direito natural,
+
+207
+00:13:31,840 --> 00:13:36,360
+ou de qualquer outra fundamentação ocasional,
+
+208
+00:13:36,360 --> 00:13:40,159
+se confundia com legislativo, com executivo e conjuciário.
+
+209
+00:13:40,159 --> 00:13:44,159
+Como é que eu vou responsabilizar aquele que julga, aquele que criei a lei,
+
+210
+00:13:44,159 --> 00:13:47,800
+aquele que executa? Não havia, obviamente, a menor possibilidade.
+
+211
+00:13:47,800 --> 00:13:50,759
+Você vai ali por contexto da revolução francesa,
+
+212
+00:13:50,759 --> 00:13:56,080
+nota a toda a lógica monárquica que antecedeu
+
+213
+00:13:56,080 --> 00:14:00,480
+e percebe que ali falarem responsabilidade política para o monarca
+
+214
+00:14:00,480 --> 00:14:03,159
+era motivo de guilhotina no mínimo.
+
+215
+00:14:03,159 --> 00:14:08,360
+Agora, obviamente, nós não temos hoje, ao menos no ocidente,
+
+216
+00:14:08,360 --> 00:14:12,959
+monarquias absolutistas têm ainda seis, cinco para ser mais exato,
+
+217
+00:14:12,959 --> 00:14:16,360
+no Oriente, que trabalham com uma lógica absolutista,
+
+218
+00:14:16,360 --> 00:14:20,559
+mas as que estão mais vocacionadas aí para o direito conscional,
+
+219
+00:14:20,559 --> 00:14:23,559
+são monarquias via de regra parlamentaristas,
+
+220
+00:14:23,559 --> 00:14:27,759
+nas quais, por disposição do próprio sistema de governo parlamentarista,
+
+221
+00:14:27,759 --> 00:14:31,759
+não cabe nenhuma responsabilização política para o monarca.
+
+222
+00:14:31,759 --> 00:14:34,559
+Claro que não, obviamente, no sistema monárquico,
+
+223
+00:14:34,559 --> 00:14:38,960
+e aqui eu peço a sua atenção, vamos pensar no modelo inglês
+
+224
+00:14:38,960 --> 00:14:42,960
+no qual convive uma rainha que é chefe de Estado
+
+225
+00:14:42,960 --> 00:14:45,559
+e um primeiro ministro que é chefe de governo,
+
+226
+00:14:45,559 --> 00:14:48,759
+os assutos da política interna, cabe em a este,
+
+227
+00:14:48,759 --> 00:14:51,159
+ao primeiro ministro, ao chefe de governo.
+
+228
+00:14:51,159 --> 00:14:55,360
+A rainha vai ter uma mera função, e me perdoe o mera
+
+229
+00:14:55,360 --> 00:14:57,559
+de representação do Estado.
+
+230
+00:14:57,559 --> 00:15:01,360
+Ela vai conferir a unidade, as pessoas enxergam a rainha
+
+231
+00:15:01,360 --> 00:15:02,759
+e enxergam a nação.
+
+232
+00:15:02,759 --> 00:15:04,759
+A patria enxergam o todo.
+
+233
+00:15:04,759 --> 00:15:07,759
+O elo que conecta todas as instituições,
+
+234
+00:15:07,759 --> 00:15:09,759
+por isso a diferença é ela.
+
+235
+00:15:09,759 --> 00:15:11,960
+Claro, mais uma vez para a gente, no Brasil,
+
+236
+00:15:11,960 --> 00:15:14,560
+tradição republicana de mais um século,
+
+237
+00:15:14,560 --> 00:15:16,360
+é difícil materializar isso,
+
+238
+00:15:16,360 --> 00:15:21,360
+assim como é difícil para quem vive no sistema monárquico de longa data,
+
+239
+00:15:21,360 --> 00:15:24,759
+entender onde entra um presidente,
+
+240
+00:15:24,759 --> 00:15:27,759
+qual é a lógica de um presidente.
+
+241
+00:15:27,759 --> 00:15:29,960
+Mas então, em ambas as monarquias,
+
+242
+00:15:29,960 --> 00:15:34,559
+naquelas absolutistas e nessas mais vocacionadas por conticionalismo,
+
+243
+00:15:34,559 --> 00:15:37,960
+vigem a máxima da irresponsabilidade política.
+
+244
+00:15:37,960 --> 00:15:38,960
+Mas obviamente,
+
+245
+00:15:38,960 --> 00:15:44,960
+estas algumas diferenças entre essa irresponsabilidade política.
+
+246
+00:15:44,960 --> 00:15:49,360
+Tem a ver com a própria origem ou a própria lógica da monarquia.
+
+247
+00:15:49,360 --> 00:15:50,159
+Tá bom?
+
+248
+00:15:50,159 --> 00:15:53,159
+Agora que a gente entendeu um pouco das características
+
+249
+00:15:53,159 --> 00:15:55,159
+que conformam a monarquia,
+
+250
+00:15:55,159 --> 00:15:57,159
+a gente pode falar sobre aquelas características
+
+251
+00:15:57,159 --> 00:15:58,759
+que conformam a república.
+
+252
+00:15:58,759 --> 00:16:01,559
+E você vai se lembrar que há pouco tempo,
+
+253
+00:16:01,559 --> 00:16:03,360
+a traça, no começo da aula,
+
+254
+00:16:03,360 --> 00:16:05,959
+eu falei para vocês que a república é uma forma de governo
+
+255
+00:16:05,959 --> 00:16:07,559
+contraposta a monarquia.
+
+256
+00:16:07,559 --> 00:16:10,959
+E essa contraposição fica muito evidente nessa tela
+
+257
+00:16:10,959 --> 00:16:12,159
+que você tem aí agora,
+
+258
+00:16:12,159 --> 00:16:13,559
+diante dos seus olhos,
+
+259
+00:16:13,559 --> 00:16:14,559
+acompanhe comigo.
+
+260
+00:16:14,559 --> 00:16:16,559
+Se lá na monarquia,
+
+261
+00:16:16,559 --> 00:16:18,759
+a gente falava em vitaliciedade,
+
+262
+00:16:18,759 --> 00:16:20,360
+aqui não mais falaremos.
+
+263
+00:16:20,360 --> 00:16:24,559
+Na república falaremos em temporariedade do mandato.
+
+264
+00:16:24,959 --> 00:16:26,759
+Então é óbvio, nas repúblicas,
+
+265
+00:16:26,759 --> 00:16:28,959
+há uma alternância,
+
+266
+00:16:28,959 --> 00:16:34,759
+há uma dinâmica de todos poderem exercer um cargo
+
+267
+00:16:34,759 --> 00:16:36,159
+e esse mandato,
+
+268
+00:16:36,159 --> 00:16:38,359
+ele, a sua doutrina vai dizer,
+
+269
+00:16:38,359 --> 00:16:40,759
+tem que ser um mandato com um tempo adequado.
+
+270
+00:16:40,759 --> 00:16:44,359
+Não tão curto que enviabilize um plano de governo real
+
+271
+00:16:44,359 --> 00:16:47,359
+e nem tão longo a ponto de transformar
+
+272
+00:16:47,359 --> 00:16:48,159
+aquela república
+
+273
+00:16:48,159 --> 00:16:50,159
+numa monarquia travestida.
+
+274
+00:16:50,159 --> 00:16:52,359
+Eu trago, como exemplo,
+
+275
+00:16:52,359 --> 00:16:54,159
+o mandato presidencial brasileiro,
+
+276
+00:16:54,159 --> 00:16:57,759
+que inclusive é objeto de algumas inquietações.
+
+277
+00:16:57,759 --> 00:16:59,360
+Porque a nossa construção,
+
+278
+00:16:59,360 --> 00:17:00,759
+é uma construção nova,
+
+279
+00:17:00,759 --> 00:17:03,360
+considerando panorama
+
+280
+00:17:03,360 --> 00:17:05,359
+das construções brasileiras,
+
+281
+00:17:05,359 --> 00:17:07,159
+das que estão aí também ao redor do mundo,
+
+282
+00:17:07,159 --> 00:17:09,159
+dá pra falar ainda que é uma construção nova.
+
+283
+00:17:09,159 --> 00:17:10,159
+Não tão nova, né?
+
+284
+00:17:10,159 --> 00:17:12,359
+Ele é de 88, mas vamos lá.
+
+285
+00:17:12,359 --> 00:17:15,159
+Desde que criada a Constituição Brasileira,
+
+286
+00:17:15,159 --> 00:17:18,159
+o mandato presidencial passou por diversas mudanças.
+
+287
+00:17:18,159 --> 00:17:20,559
+Quando foi criada a Constituição Brasileira,
+
+288
+00:17:20,559 --> 00:17:21,759
+você vai se recordar,
+
+289
+00:17:21,759 --> 00:17:24,359
+o mandato presidencial era de cinco anos,
+
+290
+00:17:24,359 --> 00:17:25,559
+cinco anos.
+
+291
+00:17:25,559 --> 00:17:29,160
+Isso aqui, houve uma revisão constitucional em 93
+
+292
+00:17:29,160 --> 00:17:31,759
+e decidiram mudar para quatro anos,
+
+293
+00:17:31,759 --> 00:17:33,160
+acharam que era mais prudente,
+
+294
+00:17:33,160 --> 00:17:34,160
+que era mais adequado,
+
+295
+00:17:34,160 --> 00:17:36,960
+que era mais compatível com o princípio republicano
+
+296
+00:17:36,960 --> 00:17:38,759
+que a gente está investigando nessa aula.
+
+297
+00:17:38,759 --> 00:17:40,960
+Só que anos mais tarde,
+
+298
+00:17:40,960 --> 00:17:44,960
+e poucos anos mais tarde, 97, 98, tal vez,
+
+299
+00:17:44,960 --> 00:17:47,160
+houve uma mudança,
+
+300
+00:17:47,160 --> 00:17:48,559
+houve uma reforma
+
+301
+00:17:48,559 --> 00:17:50,559
+e colocaram a reeleição
+
+302
+00:17:50,559 --> 00:17:52,759
+e é uma reforma que até hoje dura.
+
+303
+00:17:52,759 --> 00:17:55,759
+Você sabe que no executivo federal estadual,
+
+304
+00:17:55,759 --> 00:17:57,559
+destritar o municipal,
+
+305
+00:17:57,559 --> 00:18:00,559
+os chefe podem ter o mandato de quatro anos
+
+306
+00:18:00,559 --> 00:18:03,559
+admitida uma única reconoção.
+
+307
+00:18:03,559 --> 00:18:04,559
+Só que agora,
+
+308
+00:18:04,559 --> 00:18:06,559
+pra surpresa,
+
+309
+00:18:06,559 --> 00:18:07,559
+está se discutindo,
+
+310
+00:18:07,559 --> 00:18:09,559
+novamente, no âmbito do Congresso,
+
+311
+00:18:09,559 --> 00:18:10,960
+uma modificação.
+
+312
+00:18:10,960 --> 00:18:14,159
+Agora, querem tirar a reeleição
+
+313
+00:18:14,159 --> 00:18:16,159
+e voltar para cinco anos.
+
+314
+00:18:16,159 --> 00:18:19,159
+É uma política um tanto complexa,
+
+315
+00:18:19,160 --> 00:18:21,160
+na verdade, a gente tem que acreditar.
+
+316
+00:18:21,160 --> 00:18:22,360
+A Constituição, você sabe,
+
+317
+00:18:22,360 --> 00:18:24,560
+ela não foi feita para durar para sempre,
+
+318
+00:18:24,560 --> 00:18:26,960
+mas ela foi feita para durar o máximo que puder.
+
+319
+00:18:26,960 --> 00:18:28,160
+Agora, para aquela aposta,
+
+320
+00:18:28,160 --> 00:18:29,360
+durar o máximo que puder,
+
+321
+00:18:29,360 --> 00:18:31,560
+a gente tem que confiar nas instituições
+
+322
+00:18:31,560 --> 00:18:34,960
+e não ficar mudando a casa, concorda comigo.
+
+323
+00:18:34,960 --> 00:18:37,160
+Mas, dá desta característica,
+
+324
+00:18:37,160 --> 00:18:37,759
+então,
+
+325
+00:18:37,759 --> 00:18:40,560
+contraposta a vitalicidade das monarquias,
+
+326
+00:18:40,560 --> 00:18:41,759
+eu vou para a próxima,
+
+327
+00:18:41,759 --> 00:18:43,160
+veja comigo aí na tela.
+
+328
+00:18:43,160 --> 00:18:46,560
+Se as monarquias são hereditárias,
+
+329
+00:18:46,560 --> 00:18:48,560
+lá nas repúblicas,
+
+330
+00:18:48,559 --> 00:18:51,159
+a gente fala em elitividade.
+
+331
+00:18:51,159 --> 00:18:53,759
+Sim, porque agora vai ao poder,
+
+332
+00:18:53,759 --> 00:18:56,159
+aquele que conquista o voto popular.
+
+333
+00:18:56,159 --> 00:18:57,359
+Concorda comigo,
+
+334
+00:18:57,359 --> 00:18:59,359
+agora, aqui é uma dinâmica diferente,
+
+335
+00:18:59,359 --> 00:19:00,960
+é elitividade,
+
+336
+00:19:00,960 --> 00:19:02,759
+não mais hereditariedade.
+
+337
+00:19:02,759 --> 00:19:03,359
+Também,
+
+338
+00:19:03,359 --> 00:19:06,159
+notos que são alguns elementos no tanto quanto ou.
+
+339
+00:19:06,159 --> 00:19:07,159
+Simples,
+
+340
+00:19:07,159 --> 00:19:09,960
+na conceituação que a gente se volta a fazer agora.
+
+341
+00:19:09,960 --> 00:19:11,960
+E, já chegando no final da aula,
+
+342
+00:19:11,960 --> 00:19:14,159
+eu trago a última característica
+
+343
+00:19:14,159 --> 00:19:15,559
+das repúblicas,
+
+344
+00:19:15,559 --> 00:19:16,359
+ou, ou menos,
+
+345
+00:19:16,359 --> 00:19:17,559
+a última das características
+
+346
+00:19:17,559 --> 00:19:19,159
+mais elementares dela,
+
+347
+00:19:19,159 --> 00:19:20,759
+no próximo aula,
+
+348
+00:19:20,759 --> 00:19:22,559
+a gente vai tentar dar uma profundada nisso.
+
+349
+00:19:22,559 --> 00:19:23,559
+Veja aí comigo,
+
+350
+00:19:23,559 --> 00:19:25,559
+se lá nas monarquias,
+
+351
+00:19:25,559 --> 00:19:28,960
+a gente falava em irresponsabilidade política,
+
+352
+00:19:28,960 --> 00:19:29,759
+agora,
+
+353
+00:19:29,759 --> 00:19:30,759
+nas repúblicas,
+
+354
+00:19:30,759 --> 00:19:33,960
+falaremos em responsabilidade política.
+
+355
+00:19:33,960 --> 00:19:34,960
+Agora,
+
+356
+00:19:34,960 --> 00:19:36,759
+há uma responsabilidade.
+
+357
+00:19:36,759 --> 00:19:38,359
+Até porque a república,
+
+358
+00:19:38,359 --> 00:19:39,159
+traz,
+
+359
+00:19:39,159 --> 00:19:40,159
+intrínseca,
+
+360
+00:19:40,159 --> 00:19:41,359
+ao seu conceito,
+
+361
+00:19:41,359 --> 00:19:43,960
+uma lógica de cidadania,
+
+362
+00:19:43,960 --> 00:19:47,359
+de comprometimento muito com a coisa pública,
+
+363
+00:19:47,359 --> 00:19:48,959
+não há mais súditos,
+
+364
+00:19:48,959 --> 00:19:49,959
+as cidadãos,
+
+365
+00:19:49,959 --> 00:19:54,159
+somos todos integrantes de uma mesma estrutura
+
+366
+00:19:54,159 --> 00:19:54,959
+e temos,
+
+367
+00:19:54,959 --> 00:19:58,359
+portanto, responsabilidades para com os demais.
+
+368
+00:19:58,359 --> 00:19:59,359
+Na república,
+
+369
+00:19:59,359 --> 00:20:02,159
+se houver alguma prática
+
+370
+00:20:02,159 --> 00:20:04,759
+contra a reas interesses republicanos,
+
+371
+00:20:04,759 --> 00:20:05,759
+pode haver, sim,
+
+372
+00:20:05,759 --> 00:20:09,559
+a responsabilização política daquele que exerce o mandato.
+
+373
+00:20:09,559 --> 00:20:10,559
+Lá na próxima aula,
+
+374
+00:20:10,559 --> 00:20:13,359
+eu vou falar um pouquinho ainda sobre esta responsabilização,
+
+375
+00:20:13,359 --> 00:20:14,559
+mas, por enquanto, é só.
+
+376
+00:20:14,559 --> 00:20:15,159
+Nesta aula,
+
+377
+00:20:15,160 --> 00:20:17,560
+trabalhamos os elementos mais introduitórios,
+
+378
+00:20:17,560 --> 00:20:18,560
+conceituais,
+
+379
+00:20:18,560 --> 00:20:21,360
+de república fazendo alguns contrapontos à monarquia
+
+380
+00:20:21,360 --> 00:20:24,960
+e teremos ainda grandes pontos para debater adiante.
+
+381
+00:20:24,960 --> 00:20:25,960
+Por enquanto, é só.
+
+382
+00:20:25,960 --> 00:20:26,460
+Obrigado.
+
+383
+00:20:26,460 --> 00:20:27,460
+Até a próxima aula.

@@ -1,0 +1,675 @@
+1
+00:00:00,000 --> 00:00:24,800
+O Doutorado em Direito Corsoional na Universidade Federal do Paraná
+
+2
+00:00:24,800 --> 00:00:30,800
+Sou professora, advogado e também membro da Academia Paranáense de Letras Jurídicas.
+
+3
+00:00:30,800 --> 00:00:39,799
+A nossa aula de hoje será a primeira aula de Direito Constitucional na Pós-Graduação da ABD Const,
+
+4
+00:00:39,799 --> 00:00:42,799
+a Academia Brasileira de Direito Constitucional.
+
+5
+00:00:42,799 --> 00:00:48,799
+Eu não posso, portanto, deixar de expressar e mesmo alegria que sinto estar aqui
+
+6
+00:00:48,799 --> 00:00:52,799
+para tratar com vocês da teoria do Poder Constituinte.
+
+7
+00:00:52,799 --> 00:00:58,799
+A ABD Constitence Constituído, ao longo dos anos, nos extraordinários passos de estudos
+
+8
+00:00:58,799 --> 00:01:04,799
+e reflexões do direito público, especialmente do direito constitucional.
+
+9
+00:01:04,799 --> 00:01:10,799
+A nossa reflexão de hoje, nesta aula, será sobre a teoria do Poder Constituinte,
+
+10
+00:01:10,799 --> 00:01:17,799
+especificamente o Poder Constituinte na sua dimensão originária, na sua dimensão
+
+11
+00:01:17,799 --> 00:01:20,799
+refundadora da ordem jurídica.
+
+12
+00:01:20,799 --> 00:01:30,799
+Este é um tema extraordinariamente importante, um dos temas mais importantes que existem para ser estudados.
+
+13
+00:01:30,799 --> 00:01:35,799
+Paradoxalmente, é um dos temas menos estudados no Brasil.
+
+14
+00:01:35,799 --> 00:01:42,799
+Ele se localiza entre a ciência política e o direito constitucional.
+
+15
+00:01:42,799 --> 00:01:49,799
+Nesta nossa primeira parte, iremos tratar do Poder Constituinte originário
+
+16
+00:01:49,799 --> 00:01:53,799
+que se localiza no campo da ciência política.
+
+17
+00:01:53,799 --> 00:02:00,799
+Como introdução, eu gostaria de iniciar lembrando uma lição de Antônio Negre.
+
+18
+00:02:01,799 --> 00:02:07,799
+Antônio Negre possui até onde conheço o melhor livro sobre Poder Constituinte.
+
+19
+00:02:07,799 --> 00:02:14,800
+Ele inicia a sua obra dizendo assim, falar de Poder Constituinte é falar de democracia.
+
+20
+00:02:14,800 --> 00:02:20,800
+E isso é extremamente importante, especialmente em países como o nosso,
+
+21
+00:02:20,800 --> 00:02:26,800
+que já teve, pelo menos, sete constituições, algumas das quais,
+
+22
+00:02:26,800 --> 00:02:30,800
+orientadas de poder autoritário.
+
+23
+00:02:30,800 --> 00:02:34,800
+Portanto, isso não serviria para responder a seguinte dagação.
+
+24
+00:02:34,800 --> 00:02:42,800
+Se todas as constituições que tivemos foram efetivamente manifestações do Poder Constituinte,
+
+25
+00:02:42,800 --> 00:02:48,800
+genuinamente compreendido, ou se foram como sugere Paulo Bonavides,
+
+26
+00:02:48,800 --> 00:02:52,800
+a usurpação do Poder Constituinte.
+
+27
+00:02:52,800 --> 00:02:58,800
+Uma outra lição muito importante para início desta reflexão é do professor Paulo Bonavides.
+
+28
+00:02:58,800 --> 00:03:06,800
+Ele diz assim, a teoria do Poder Constituinte é uma teoria de legitimação do Poder.
+
+29
+00:03:06,800 --> 00:03:12,800
+E poderíamos acrescentar. É uma teoria de legitimação do Poder,
+
+30
+00:03:12,800 --> 00:03:17,800
+mas também de legitimação do ordenamento jurídico.
+
+31
+00:03:18,800 --> 00:03:26,800
+Um outro ponto especialmente importante, que precisamos distinguir desde o início,
+
+32
+00:03:26,800 --> 00:03:31,800
+é poder constituinte e teoria do Poder Constituinte.
+
+33
+00:03:31,800 --> 00:03:36,800
+São coisas distintas. Uma coisa é o Poder Constituinte.
+
+34
+00:03:36,800 --> 00:03:42,800
+Outra distinta é a teoria do Poder Constituinte.
+
+35
+00:03:43,800 --> 00:03:50,800
+Porque a ideia de poder constituinte no seu sentido comum é a ideia de constituir,
+
+36
+00:03:50,800 --> 00:03:52,800
+de criar, de fazer algo.
+
+37
+00:03:52,800 --> 00:04:03,800
+Portanto, quem fez esta mesinha constituiu exerceu mesmo que no sentido comum um poder constituinte.
+
+38
+00:04:03,800 --> 00:04:10,800
+Parece não haver um momento certo, nenhum autor se atreve a dizer
+
+39
+00:04:10,800 --> 00:04:16,800
+quando nasceu o Poder Constituinte. Parece não ter uma data em que ele surgiu.
+
+40
+00:04:16,800 --> 00:04:23,800
+Para quem segue a tradição judaica, cristã talvez seria quando Deus criou a dão e da sua costela,
+
+41
+00:04:23,800 --> 00:04:27,800
+a Eva e assim por diante o mundo foi povoado.
+
+42
+00:04:27,800 --> 00:04:31,800
+Porém, a teoria do Poder Constituinte tem uma data certa.
+
+43
+00:04:31,800 --> 00:04:39,800
+Ela nasceu em 1789. Nasceu no turbillão da Revolução Francesa.
+
+44
+00:04:39,800 --> 00:04:47,800
+A França viviu uma crise desemprego, fome e caristia, inflação.
+
+45
+00:04:49,800 --> 00:04:54,800
+E foi nesse contexto que eclodiu a Revolução.
+
+46
+00:04:54,800 --> 00:05:01,800
+E no desenho rolar da Revolução surgiu um pamfleto, anônimo.
+
+47
+00:05:01,800 --> 00:05:07,800
+E depois veio a se tornar num livro lido por toda parte no mundo até hoje escrito por um padre.
+
+48
+00:05:07,800 --> 00:05:12,800
+O Abad e Manoel Sier. E Manoel Sier diz sem cintos e assim.
+
+49
+00:05:12,800 --> 00:05:19,800
+A dois poderes, o Poder Constituinte e os Poderes Constituídos.
+
+50
+00:05:19,800 --> 00:05:26,800
+O Poder Constituinte é o poder máximo na face da Terra no âmbito do Estado nação.
+
+51
+00:05:26,800 --> 00:05:32,800
+Ele é capaz de fundar ou refundar a ordem jurídica.
+
+52
+00:05:33,800 --> 00:05:38,800
+E depois de feita a obra do Poder Constituinte, lei assim.
+
+53
+00:05:38,800 --> 00:05:50,800
+A Constituição vem os Poderes Constituídos. Por exemplo, o Poder de Reforma Corsonal, as leis, o Poder Legislativo, Executivo, Judiciário e assim por diante.
+
+54
+00:05:50,800 --> 00:06:03,800
+Portanto, nós podemos identificar uma data certa no surgimento da teoria do Poder Constituinte, 1789 por conta do pamfleto de Emmanuel Sier.
+
+55
+00:06:03,800 --> 00:06:13,800
+E desde aquele momento, até hoje, o ordenamento jurídico dos países tem duas dimensões.
+
+56
+00:06:14,800 --> 00:06:21,800
+A dimensão superior é formada pela Constituição, obra do Poder Constituinte.
+
+57
+00:06:21,800 --> 00:06:27,800
+A dimensão inferior é formada pela obra dos Poderes Constituídos,
+
+58
+00:06:27,800 --> 00:06:39,800
+de modo que a obra dos Poderes Constituídos tem que estar de acordo com a obra do Poder Constituinte, na linguagem mais simples e comum para qualquer estudante direito compreender.
+
+59
+00:06:39,800 --> 00:06:49,800
+A obra do Legislador não pode contrariar a obra do Constituinte. A lei não pode contrariar a Constituição.
+
+60
+00:06:49,800 --> 00:07:03,800
+Bem, feita então esta breve introdução, nós vamos trabalhar de modo bem específico, bem objetivo, em um roteiro definido, vamos trabalhar o Poder Constituinte original.
+
+61
+00:07:03,800 --> 00:07:10,800
+No segundo momento, ou seja, na próxima aula, nós trataremos do Poder Reformador.
+
+62
+00:07:10,800 --> 00:07:21,800
+Em outras palavras, nesta aula, tratamos do Poder que faz a Constituição e na outra, o Poder que altera a Constituição.
+
+63
+00:07:21,800 --> 00:07:28,800
+Então, vamos iniciar neste roteiro a compreensão do Poder Constituinte original.
+
+64
+00:07:28,800 --> 00:07:40,800
+Se quisermos ter um roteiro definido, o ponto número um é a sua origem, ou a sua noção, a compreensão simples de Poder Constituinte.
+
+65
+00:07:40,800 --> 00:07:52,800
+Poder Constituinte é o Poder que constitui, que cria, que faz algo, e ele pode fazer isso a partir do nada ou de uma ruptura.
+
+66
+00:07:52,800 --> 00:08:05,800
+Exemplo, a primeira Constituição do Brasil, 1824, foi manifestação do Poder Constituinte original, mas uma manifestação a partir do nada.
+
+67
+00:08:05,800 --> 00:08:17,800
+Vamos compreender aqui, é o nada jurídico, não havia um ordenamento jurídico do Brasil. Então, o Poder Constituinte original, manifestando-se a partir do nada,
+
+68
+00:08:17,800 --> 00:08:34,799
+ele elaborou uma Constituição e criou o Estado. Isso nos permite dizer que o Poder Constituinte original, quando se manifesta a partir do nada, ele cria a primeira Constituição e cria pela primeira vez o Estado.
+
+69
+00:08:34,799 --> 00:08:45,799
+Mas como disse, ele pode se manifestar também a partir de uma ruptura, ou seja, ele rompe com uma ordem jurídico-concional existente
+
+70
+00:08:45,799 --> 00:08:51,799
+e instaura o fundamento de outra ordem jurídico-concional.
+
+71
+00:08:51,799 --> 00:09:10,799
+Exemplos de 1891, por diante, todas as constituições que tivemos foram manifestação do Poder Constituinte, rompendo com a ordem jurídico-concional existente e instaurando o novo fundamento devalidade da ordem jurídica.
+
+72
+00:09:10,799 --> 00:09:20,799
+Feito isso, vamos para o ponto número 2, que é compreender a natureza do Poder Constituinte, a natureza do Poder Constituinte original.
+
+73
+00:09:20,799 --> 00:09:39,799
+Existem aqui, basicamente, duas teorias, em primeira delas, em síntese, diz assim, o Poder Constituinte original é um poder de fato, não jurídico, é um poder de fato, é um poder político.
+
+74
+00:09:39,799 --> 00:09:49,799
+Portanto, ele não está submetido ao direito, carnosar esbrito, ao tratar desta característica do Poder Constituinte original e desacim.
+
+75
+00:09:49,799 --> 00:09:58,799
+O Poder Constituinte original é um poder de fato, um poder político que está difusamente embricado na polícia.
+
+76
+00:09:58,799 --> 00:10:07,799
+O que ele pretende dizer com isso, que o poder, que atitularidade do Poder Constituinte original pertence a todas as pessoas?
+
+77
+00:10:07,799 --> 00:10:14,799
+Isso vai ficar um pouquinho mais claro quando daqui um instante trataremos das características do Poder original.
+
+78
+00:10:14,799 --> 00:10:26,799
+Segunda teoria, quando a natureza do Poder Constituinte original, disse assim, é um poder jurídico, é um poder de direito, mas observem.
+
+79
+00:10:26,799 --> 00:10:44,799
+Autores que sustentam isso são just naturalistas. E todos nós usem, lembramos, sabemos que o just naturalista compreende que existe um direito acima e além do direito positivo no âmbito do Estado.
+
+80
+00:10:44,799 --> 00:10:52,799
+Há um direito que valem todos os lugares, em todos os tempos e aplicáveis a todas as pessoas.
+
+81
+00:10:52,799 --> 00:11:07,799
+Então, o just naturalista coerente com sua posição, dirá que o Poder Constituinte original é um poder de direito, ou seja, ele está submetido ao direito, mas observem, é o direito natural.
+
+82
+00:11:07,799 --> 00:11:18,799
+Nas cintes, então, das duas teorias, para alguns autores, um poder de fato, para outros autores, um poder de direito.
+
+83
+00:11:19,799 --> 00:11:37,799
+Seguindo, nós vamos tratar do titular do Poder Constituinte original. Quem é o titular do Poder de refundar a ordem jurídica? Quem é o titular do Poder Constituinte original?
+
+84
+00:11:38,799 --> 00:11:56,799
+Eu poderia logo dizer aquilo que, no fundo, você já sabe, o titular do Poder Constituinte original é o povo, mas nós precisamos compreender que a titularidade do Poder Constituinte original ou Cila, como o tempo, mostrarem isso de modo bem objetivo.
+
+85
+00:11:56,799 --> 00:12:03,799
+Primeiro, se entendeu que o titular do Poder Constituinte original era Deus.
+
+86
+00:12:03,799 --> 00:12:12,799
+Dentro da ideia, segundo a qual, todo o Poder adivente Deus, aliás, é uma carta do apóstolo Paulo, que diz assim, todo o Poder adivente Deus.
+
+87
+00:12:12,799 --> 00:12:26,799
+Ora, se todo o Poder adivente Deus, então o Poder Constituinte original por ser um poder também adivente Deus. Logo, a titularidade pertence ou pertence a Ele.
+
+88
+00:12:26,799 --> 00:12:37,799
+Como o tempo isso evoluiu? Passou-se a dizer que o titular do Poder Constituinte original é o Monarca, o Rei, o Imperador.
+
+89
+00:12:38,799 --> 00:12:42,799
+Nós nos lembramos de Luiz XIV e, quando dizia assim, o Estado Soil.
+
+90
+00:12:42,799 --> 00:12:49,799
+Se Luiz XIV estivesse aqui agora, ministrando uma aula sobre Poder Constituinte, certamente, ele diria assim,
+
+91
+00:12:49,799 --> 00:12:58,799
+o titular do Poder Constituinte original é o Soil, porque é este poder que cria o Estado e lhe dá uma coste eção.
+
+92
+00:12:59,799 --> 00:13:06,799
+Evoluiu-se o tempo e chegamos a outro titular do Poder Constituinte original, a Nação.
+
+93
+00:13:07,799 --> 00:13:12,799
+E aqui está a grande contribuição de Manel Sier.
+
+94
+00:13:12,799 --> 00:13:22,799
+O grande imérito de Manel Sier e estamos a falar dele como fundamento desse tema, quase 300 anos passados,
+
+95
+00:13:23,799 --> 00:13:31,799
+o grande imérito de Manel Sier foi transferir a titularidade do Monarca para a Nação.
+
+96
+00:13:31,799 --> 00:13:40,799
+Portanto, a partir de Manel Sier, o Poder Márximo da Fácea da Terra já não era mais o Imperador e sim a Nação.
+
+97
+00:13:40,799 --> 00:13:49,799
+Se nós pegarmos o Livrinho dele, ele vai dizer assim, sempre que a Nação, perdão, sempre que se desejar,
+
+98
+00:13:49,799 --> 00:13:56,799
+refundar a ordem jurídica, não é os notáveis que se deve recorrer, é a Nação.
+
+99
+00:13:56,799 --> 00:14:04,799
+E, deis de Manel Sier, o Monarca perdeu a titularidade do Poder Constituinte, porque esta passou a pertencer a Nação.
+
+100
+00:14:04,799 --> 00:14:11,799
+E nos dias atuais, o que dizemos, o titular do Poder Constituinte original é o povo.
+
+101
+00:14:12,799 --> 00:14:14,799
+Mas quem é o povo?
+
+102
+00:14:14,799 --> 00:14:26,799
+Este é um tema aparentemente simples, porém muito complexo. No campo da ciência política, os pesquisadores se digladiam para definir quem quer efetivamente o povo.
+
+103
+00:14:26,799 --> 00:14:36,799
+Para se ter uma ideia da complexidade desse tema, a um constolarista alemão, chamado Friedrich Miller, já esteve aqui na academia várias vezes,
+
+104
+00:14:37,799 --> 00:14:48,799
+que tem um livro de cerca de sem páginas apresentado aqui no Brasil, o Paulo Bonavides, e que o livro é antitulado assim, quem é o povo com um ponto de interrogação.
+
+105
+00:14:48,799 --> 00:15:05,799
+O que quero dizer com isso é que um dos principais corsoalistas do mundo escreveu mais de sem páginas sobre o povo e não se sentiu a vontade para dar uma definição do que efetivamente constitui o povo de um país.
+
+106
+00:15:07,799 --> 00:15:16,799
+Mas aqui para compreendermos poder constituinte, poderíamos dizer assim que o povo é o conjunto de pessoas entre as quais nós nos encontramos.
+
+107
+00:15:17,799 --> 00:15:32,799
+Um conjunto de pessoas entre as quais nós nos encontramos, portanto cada um de nós exerce, por mínima que seja uma espécie de cotitularidade do poder constituinte original.
+
+108
+00:15:32,799 --> 00:15:50,799
+E justamente por ser o titular, no momento em que desejar, o povo pode se erguer, se apresentar e querer refundar a ordem jurídica, ou seja, querer substituir uma construção por outra.
+
+109
+00:15:50,799 --> 00:16:00,799
+Ao lado do titular, precisamos compreender quem é o agente do poder constituinte original. Quem é o agente?
+
+110
+00:16:01,799 --> 00:16:18,799
+É um grupo de pessoas encarregadas de elaborar uma construção. O agente é um grupo de pessoas que tem uma finalidade específica e elaborar uma construção, refundar a ordem jurídica.
+
+111
+00:16:19,799 --> 00:16:36,799
+Esse grupo de pessoas tem nome, costuma se chamar Assembleia Nacional Constituinte para os que seguem a tradição francesa, ou convenção constituinte para aqueles que seguem a tradição norte-americana.
+
+112
+00:16:37,799 --> 00:16:53,799
+Mas o importante aqui é distinguir o titular do agente do poder constituinte original. O Carlos Aresbrito, eu reproduz o aqui no meu livro, o Carlos Aresbrito tem uma lição na sua figura de linguagem e que ele diz assim.
+
+113
+00:16:54,799 --> 00:17:02,799
+No propósito de distinguir o titular do agente, ele diz assim, no momento em que Assembleia ou convenção constituinte,
+
+114
+00:17:03,799 --> 00:17:17,799
+promulga a sua obra, ou seja, a construção, ela morre de parto. Aqui está a principal distinção. O titular do poder constituinte nunca desaparece.
+
+115
+00:17:18,799 --> 00:17:28,799
+Porque quando desaparecer o titular do poder constituinte, leia-se o povo, não haverá mais para quem fazer uma construção. Aliás, não haverá quem faça uma construção.
+
+116
+00:17:29,799 --> 00:17:39,799
+Lembremos ainda que o povo é um dos elementos constitutivos do Estado, o que significa dizer que se faltar povo não existe o Estado.
+
+117
+00:17:40,799 --> 00:17:58,799
+Então, o titular do poder constituinte original nunca desaparece. O agente sim. O agente, como o discar, os Aresbrito, morre de parto. Vamos exemplificar, imagine assim, 5 de outubro de 1988.
+
+118
+00:17:58,799 --> 00:18:12,799
+No momento em que o presidente da Assembleia Nacional constituinte concluiu o seu discurso declarando promulgado a construção, o agente, a Assembleia Constituinte, morreu, deixou de existir.
+
+119
+00:18:13,799 --> 00:18:33,799
+Nunca mais existirá. Se um dia eventualmente for necessária, uma nova construção ocorrerá a escolha daquelas pessoas que irão compor o agente, ou seja, haverá outra agente para elaborar a construção.
+
+120
+00:18:34,799 --> 00:18:53,799
+Bem, feito isso, identificada a noção geral de poder constituinte. A natureza do poder constituinte original. O titular e o agente, vamos identificar as características do poder constituinte original.
+
+121
+00:18:54,799 --> 00:19:16,799
+Talvez aqui chegamos ao momento mais importante que permite a compreensão, não somente do poder constituinte original, mas também, já sinalizando para a distinção deste em relação ao poder reformador que é objeto da segunda aula.
+
+122
+00:19:17,799 --> 00:19:24,799
+Praticamente toda a doutrina fala em três características do poder constituinte original.
+
+123
+00:19:24,799 --> 00:19:34,799
+Dice que é um poder inicial, incondicionado e ilimitado, ir e trabalhar essas três e acrescentar uma outra ao final.
+
+124
+00:19:35,799 --> 00:19:45,799
+Então, o poder constituinte original é um poder inicial. Porque inicia? Porque inaugura, instaura, implanta?
+
+125
+00:19:45,799 --> 00:19:58,799
+Inicia, inaugura, instaura, implanta o quê? O fundamento devalidade da ordem jurídica. Percebam o que o poder constituinte original faz?
+
+126
+00:19:58,799 --> 00:20:08,799
+É substituir a constituição por outra. Mais do que isso, é substituir o fundamento devalidade da ordem jurídica.
+
+127
+00:20:08,799 --> 00:20:14,799
+Portanto, é um momento alto do constitucionalismo.
+
+128
+00:20:15,799 --> 00:20:24,799
+A países que praticamente não tiveram esse privilégio, por exemplo, o Chile, que é um país democrático,
+
+129
+00:20:24,799 --> 00:20:40,799
+ainda hoje é regido pela Constituição elaborada por pinochê na época da ditadura. Ou seja, eles não conseguem fazer com que haja uma manifestação do poder constituinte original
+
+130
+00:20:40,799 --> 00:20:54,799
+para refundar a ordem jurídica. No Brasil, nós já tivemos isso várias vezes. Aliás, o Brasil e a França são os dois grandes laboratórios para se estudar poder constituinte original.
+
+131
+00:20:54,799 --> 00:21:05,799
+Nós tivemos sete constituições. A França teve 16 constituições. Portanto, está aí um campo propício para estudar poder constituinte.
+
+132
+00:21:06,799 --> 00:21:13,799
+Embora se possa identificar também as pectas negativos, porque poder constituinte significa ruptura.
+
+133
+00:21:13,799 --> 00:21:28,799
+O poder constituinte não vem nas calmarias de Paulo Bonavides. Ele vem na noite escura e das tempestades. Ele vem ilumina, fere a vítima e vai embora.
+
+134
+00:21:28,799 --> 00:21:41,799
+O que pretende dizer Bonavides com isso? O poder constituinte original é inicial se manifesta nos momentos de conflitos, de rupturas do ordenamento jurídico.
+
+135
+00:21:41,799 --> 00:21:51,799
+Portanto, a sua primeira característica é inicial porque inalgura, porque instaura o fundamento de validade da ordem jurídica.
+
+136
+00:21:52,799 --> 00:22:06,799
+Segunda característica. Se diz que é um poder incondicionado, por óbvio, não se submete a condições.
+
+137
+00:22:07,799 --> 00:22:18,799
+Aqui ele tem uma certa natureza que é procedimental, é processual, é de modo de fazer.
+
+138
+00:22:18,799 --> 00:22:27,799
+Irei exemplificar. Imagina que estamos reunidos na Assembleia Constituinte para elaborar a Constituição.
+
+139
+00:22:28,799 --> 00:22:39,799
+Quais normas devemos seguir? Nós não temos normas, porque o poder constituinte vem para substituir o fundamento de validade da ordem jurídica.
+
+140
+00:22:39,799 --> 00:22:51,799
+Então alguém vai sugerir, vamos pegar o regimento interno da Câmara, do Senado, do Congresso Nacional, poderia, porém está incondicionado.
+
+141
+00:22:52,799 --> 00:23:00,799
+Não precisa seguir regras preexistentes. Então na prática a Sebula é Constituinte para assim.
+
+142
+00:23:00,799 --> 00:23:12,799
+Primeiro, elaborará o seu regimento interno, produzir as normas de procedimento e depois irá elaborar a Constituição com base,
+
+143
+00:23:13,799 --> 00:23:24,799
+que ele mesmo elaborou. Terceira característica. Esta muito importante se diz que é um poder ilimitado, por tanto não tem limites.
+
+144
+00:23:24,799 --> 00:23:35,799
+É livre para escrever na Constituição os valores que desejar. É livre para escrever na Constituição os valores que desejar.
+
+145
+00:23:36,799 --> 00:23:44,799
+Por tanto, neste momento, se quiser instituir pela Demorte Pode, se quiser instituir pela Perpetua Pode.
+
+146
+00:23:44,799 --> 00:23:53,799
+Nesta compreensão que estamos fazendo de poder Constituinte, no âmbito do Estado nação, ele é um poder que pode tudo.
+
+147
+00:23:54,799 --> 00:24:05,799
+Porém, não devemos esquecer que as coisas evoluem, que o mundo tem caminhado para uma abertura, inclusive no campo dos direitos humanos,
+
+148
+00:24:05,799 --> 00:24:15,799
+e passam a ver algumas condicionantes que enciden sobre o poder constitui o interisional, o que permitiria dizer que ele não é assim.
+
+149
+00:24:16,799 --> 00:24:29,799
+Por exemplo, a declaração interamericana de direitos humanos mais conhecida como Pacto de São José da Costa Rica tem um artigo que diz inigualgem cipros assim.
+
+150
+00:24:29,799 --> 00:24:35,799
+As países que tiveram o pé na Demorte e já aboliram, não poderão mais ter pé da Demorte.
+
+151
+00:24:36,799 --> 00:24:50,799
+Por tanto, se nós quisermos estar comprometidos com esses princípios da ordem internacional, nós não poderíamos instituir pena de morte,
+
+152
+00:24:50,799 --> 00:25:04,799
+se quer por uma Assembleia Nacional Constituinte, em outras palavras, e por esta segunda ótica, a Assembleia Nacional Constituinte estaria submetida a esses princípios da ordem internacional.
+
+153
+00:25:05,799 --> 00:25:17,799
+Então, vejo, é basicamente isso que toda a doutrina diz, três características do poder originário, é um poder inicial, incondicionado e ilimitado.
+
+154
+00:25:17,799 --> 00:25:31,799
+Alguns autores, especialmente da Cência Política, passam a colocar uma outra característica, e eu vou mencionar-lhe falar um pouquinho sobre ela porque a mim realmente faz sentido.
+
+155
+00:25:31,799 --> 00:25:41,799
+Esses autores diz assim, olha, tem uma outra característica, o poder constitui em ter originário é permanente, permanente.
+
+156
+00:25:41,799 --> 00:25:45,799
+E isso faz muito sentido já que o seu titular é o povo.
+
+157
+00:25:45,799 --> 00:26:01,799
+Se o povo titulariza o poder constitui em ter originário, então faz muito sentido dizer que ele é permanente, já que a qualquer momento ele o titular pode querer uma nova construção substituindo aquela existente.
+
+158
+00:26:01,799 --> 00:26:11,799
+Ao finalizar essa primeira parte, essas noções de poder constituir o interisional, eu quero responder a uma indagação que tem surgido.
+
+159
+00:26:11,799 --> 00:26:19,799
+O poder constitui em ter originário pode contrariar a construção vigente? Observe como isso é profundo.
+
+160
+00:26:19,799 --> 00:26:29,799
+É possível o poder constitui em ter originário, reunido em assembleia constituinte, contrariar a construção existente?
+
+161
+00:26:29,799 --> 00:26:37,799
+Sim, é possível. Aliás, é o único nutro de poder capaz de contrariar uma construção vigente,
+
+162
+00:26:37,799 --> 00:26:44,799
+porque a finalidade do poder constitui em ter originário é exatamente substituir aquela construção.
+
+163
+00:26:44,799 --> 00:26:54,799
+Ele irá necessariamente contrariar, aliás irá contrariar de tal modo que irá retirá-la do fundamento jurídico, da ordens jurídica,
+
+164
+00:26:54,799 --> 00:27:00,799
+e em seu lugar colocar a obra que ele produz, ou seja, a nova construção.
+
+165
+00:27:00,799 --> 00:27:09,799
+Portanto, para concluir aqui, esta a nossa noção de poder constituir o interisional, o poder constitui-te da ciência política.
+
+166
+00:27:09,799 --> 00:27:19,799
+Mas ele sabe que ao produzir a construção, ela terá que ser alterada, melhorada, atualizada.
+
+167
+00:27:19,799 --> 00:27:29,799
+Portanto, ele coloca aqui dentro um núcleo de poder e, a ele, atribui legitimidade para produzir normas constitucionais,
+
+168
+00:27:29,799 --> 00:27:39,799
+ou seja, ele coloca dentro da construção o poder de reforma, um poder encarregado de reformar as normas que ele mesmo produziu.
+
+169
+00:27:39,799 --> 00:27:48,799
+E esta noção de reforma da construção, os seus critérios, seus limites e sua branjecia, nós iremos ver na segunda aula.

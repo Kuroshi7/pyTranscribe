@@ -1,0 +1,1131 @@
+1
+00:00:00,000 --> 00:00:12,000
+Vamos retomar o nosso tema, estamos tratando da teoria do poder constituinte.
+
+2
+00:00:12,000 --> 00:00:19,000
+Em nossa primeira aula, verificamos o poder constituente na sua dimensão originária,
+
+3
+00:00:19,000 --> 00:00:29,000
+ou seja, aquele poder que refunda a ordem jurídica, que escreve uma construição por inteiro.
+
+4
+00:00:29,000 --> 00:00:36,000
+E, nesta segunda parte, nós iremos tratar do poder constituinte reformador,
+
+5
+00:00:36,000 --> 00:00:45,000
+ou seja, o poder que vai apenas alterar a ordem jurídica existente elaborada pelo poder originário.
+
+6
+00:00:45,000 --> 00:00:49,000
+Então, temos um núcleo de poder, o poder constituinte originário,
+
+7
+00:00:49,000 --> 00:00:55,000
+que faz uma construição por inteiro, e temos outro núcleo de poder, o poder reformador,
+
+8
+00:00:55,000 --> 00:00:59,000
+que apenas altera a construição existente.
+
+9
+00:00:59,000 --> 00:01:05,000
+No entanto, este poder reformador embora apenas altera a construição,
+
+10
+00:01:05,000 --> 00:01:09,000
+não se deve esquecer que ele também é poder constituinte,
+
+11
+00:01:09,000 --> 00:01:13,000
+ou seja, ele produz normas constitucionais.
+
+12
+00:01:13,000 --> 00:01:18,000
+Ambos os poderes, tanto origenário, quanto o reformador,
+
+13
+00:01:18,000 --> 00:01:22,000
+produzem normas que irão para o topo da pirâmide jurídica,
+
+14
+00:01:22,000 --> 00:01:28,000
+irão para aquela dimensão superior do ordenamento jurídico, que é a costissão.
+
+15
+00:01:28,000 --> 00:01:36,000
+Vamos fazer um roteiro semelhante ao que fizemos ao estudar o poder constituinte originário.
+
+16
+00:01:36,000 --> 00:01:42,000
+Agora, ao estudar o poder reformador, vamos começar com uma noção.
+
+17
+00:01:42,000 --> 00:01:48,000
+O poder reformador tem diversas terminologias.
+
+18
+00:01:48,000 --> 00:01:55,000
+É poder reformador, é poder derivado, é poder instituído,
+
+19
+00:01:55,000 --> 00:02:01,000
+é poder constituinte de segundo grau, é competência reformadora,
+
+20
+00:02:01,000 --> 00:02:07,000
+é competência revisional, ou seja, há várias terminologias utilizadas
+
+21
+00:02:07,000 --> 00:02:12,000
+para traduzir a ideia do poder que reforma a construição,
+
+22
+00:02:12,000 --> 00:02:15,000
+que produz normas constitucionais.
+
+23
+00:02:15,000 --> 00:02:21,000
+A mais utilizada entre nós é poder de reforma constitucional,
+
+24
+00:02:21,000 --> 00:02:28,000
+especialmente a partir de José Afor da Silva, os constitucionalistas que surgiram no Brasil,
+
+25
+00:02:28,000 --> 00:02:32,000
+vamos tomar um marco à década de 90 para cá,
+
+26
+00:02:32,000 --> 00:02:37,000
+por influência de José Afor da Silva, tem uma tendência a utilizar
+
+27
+00:02:37,000 --> 00:02:41,000
+poder constituinte reformador.
+
+28
+00:02:41,000 --> 00:02:47,000
+Este poder altera a construição, produz normas constitucionais,
+
+29
+00:02:47,000 --> 00:02:55,000
+mas não elabora uma construição apenas altera a construição existente.
+
+30
+00:02:55,000 --> 00:03:03,000
+Vamos identificar como fizemos antes em origenário a natureza do poder constituinte reformador.
+
+31
+00:03:03,000 --> 00:03:07,000
+Aqui, não há nenhuma divergência, é matéria simples.
+
+32
+00:03:07,000 --> 00:03:13,000
+O poder reformador é um poder jurídico, é um poder de direito,
+
+33
+00:03:13,000 --> 00:03:21,000
+não é poder de fato, como alguns sustentam ser o poder constituinte origenário,
+
+34
+00:03:21,000 --> 00:03:26,000
+é poder de direito, porque ele está regrado na própria construição,
+
+35
+00:03:26,000 --> 00:03:30,000
+portanto, ele pertence ao ordenamento jurídico.
+
+36
+00:03:30,000 --> 00:03:35,000
+O poder constituinte reformador ao produzir uma norma constitucional
+
+37
+00:03:35,000 --> 00:03:39,000
+ele está atuando dentro do ordenamento jurídico,
+
+38
+00:03:39,000 --> 00:03:43,000
+porque ele se localiza dentro do ordenamento jurídico logo,
+
+39
+00:03:43,000 --> 00:03:48,000
+ele só poderia ser mesmo um poder jurídico,
+
+40
+00:03:48,000 --> 00:03:54,000
+a titularidade do poder constituinte reformador.
+
+41
+00:03:54,000 --> 00:03:59,000
+Neste ponto, que até ontem era bastante tranquilo,
+
+42
+00:03:59,000 --> 00:04:04,000
+passamos a ter algum outro questionamento.
+
+43
+00:04:04,000 --> 00:04:08,000
+Então, eu vou colocar aqui duas noções distintas,
+
+44
+00:04:08,000 --> 00:04:16,000
+a tradicional sempre se entendeu que o titular do poder de reforma corcional
+
+45
+00:04:16,000 --> 00:04:22,000
+é um órgão estatal, um órgão estatal.
+
+46
+00:04:22,000 --> 00:04:26,000
+E todos os autores aceitavam isso.
+
+47
+00:04:26,000 --> 00:04:31,000
+De alguns anos para cá, alguns autores passaram a dizer que,
+
+48
+00:04:31,000 --> 00:04:34,000
+e esta é a segunda compreensão,
+
+49
+00:04:34,000 --> 00:04:40,000
+que o titular do poder de reforma corcional é o mesmo titular do origenário,
+
+50
+00:04:40,000 --> 00:04:42,000
+ou seja, o povo.
+
+51
+00:04:42,000 --> 00:04:47,000
+Portanto, nós temos dois entendimentos, uma divergência,
+
+52
+00:04:47,000 --> 00:04:50,000
+um conflito na doutrina brasileira,
+
+53
+00:04:50,000 --> 00:04:55,000
+o poder constituinte reformador, hora é um poder,
+
+54
+00:04:55,000 --> 00:05:00,000
+hora ele tem como titular um órgão estatal,
+
+55
+00:05:00,000 --> 00:05:05,000
+mas para outros autores ele tem como titular o próprio povo,
+
+56
+00:05:05,000 --> 00:05:09,000
+que é o titular do poder constituinte origenário.
+
+57
+00:05:09,000 --> 00:05:11,000
+Como devemos proceder diante disso,
+
+58
+00:05:11,000 --> 00:05:15,000
+olha, devemos compreender saber que há esta divergência
+
+59
+00:05:15,000 --> 00:05:18,000
+e termos a nossa própria compreensão.
+
+60
+00:05:18,000 --> 00:05:23,000
+Portanto, quanto a natureza do poder constituinte reformador,
+
+61
+00:05:23,000 --> 00:05:26,000
+melhor dizendo,
+
+62
+00:05:26,000 --> 00:05:31,000
+quanto a titularidade do poder constituinte reformador,
+
+63
+00:05:31,000 --> 00:05:35,000
+temos o órgão estatal ou o povo.
+
+64
+00:05:35,000 --> 00:05:40,000
+São duas concepções da doutrina e cada um sustenta ao seu modo.
+
+65
+00:05:40,000 --> 00:05:45,000
+Com relação ao agente do poder constituinte reformador,
+
+66
+00:05:45,000 --> 00:05:48,000
+não há nenhum problema nenhuma divergência.
+
+67
+00:05:48,000 --> 00:05:53,000
+Todos compreendem que o agente do poder constituinte reformador
+
+68
+00:05:53,000 --> 00:05:57,000
+é um órgão estatal.
+
+69
+00:05:57,000 --> 00:06:03,000
+Qual o órgão estatal aquele que o origenário disser que é?
+
+70
+00:06:03,000 --> 00:06:08,000
+Em regra, o origenário diz que o agente do poder reformador
+
+71
+00:06:08,000 --> 00:06:11,000
+é o poder legislativo, é o Parlamento.
+
+72
+00:06:11,000 --> 00:06:16,000
+Até porque eu iniciei na aula passada mencionando Antônio Negra
+
+73
+00:06:16,000 --> 00:06:19,000
+e, repito aqui, diz ele assim,
+
+74
+00:06:19,000 --> 00:06:22,000
+falar de poder constituinte e falar de democracia.
+
+75
+00:06:22,000 --> 00:06:27,000
+Ora, se falar de poder constituinte significa falar de democracia,
+
+76
+00:06:27,000 --> 00:06:33,000
+é melhor então que esse poder seja exercido por um colegiado
+
+77
+00:06:33,000 --> 00:06:37,000
+com o Greco Nacional e não pelo poder unipensual.
+
+78
+00:06:37,000 --> 00:06:40,000
+Mas eu quero chamar atenção de um aspecto.
+
+79
+00:06:40,000 --> 00:06:47,000
+O agente do poder reformador será aquele que o titular disser que é.
+
+80
+00:06:47,000 --> 00:06:53,000
+Ele tem dito quase sempre que é o poder legislativo,
+
+81
+00:06:53,000 --> 00:06:56,000
+o Congresso Nacional, no nosso caso.
+
+82
+00:06:56,000 --> 00:07:01,000
+Porém, pelo menos um exemplo no Constitualismo,
+
+83
+00:07:01,000 --> 00:07:07,000
+em que o poder de reforma corcional pertenceu ao presidente da República
+
+84
+00:07:07,000 --> 00:07:10,000
+portanto ao poder executivo.
+
+85
+00:07:10,000 --> 00:07:16,000
+A Constituição da França de 1789 entregou o poder de reforma.
+
+86
+00:07:16,000 --> 00:07:20,000
+O poder de reforma corcional nas mãos do General de Gol.
+
+87
+00:07:20,000 --> 00:07:23,000
+Que detinha um imenso prestígio da França.
+
+88
+00:07:23,000 --> 00:07:26,000
+Havia expulsado nasistas da França,
+
+89
+00:07:26,000 --> 00:07:30,000
+portanto ele teria na França o poder que quiser ser.
+
+90
+00:07:30,000 --> 00:07:37,000
+E durante muito tempo ficou em suas mãos o poder de elaborar normas costosionais.
+
+91
+00:07:37,000 --> 00:07:42,000
+Portanto, em relação ao agente do poder constituinte,
+
+92
+00:07:42,000 --> 00:07:45,000
+não há nenhuma polêmica.
+
+93
+00:07:45,000 --> 00:07:49,000
+É muito simples compreender estará nas mãos do poder legislativo,
+
+94
+00:07:49,000 --> 00:07:53,000
+no nosso caso do Congresso Nacional.
+
+95
+00:07:53,000 --> 00:07:58,000
+Vamos às características do poder reformador.
+
+96
+00:07:58,000 --> 00:08:02,000
+Compreender as características do poder reformador
+
+97
+00:08:02,000 --> 00:08:07,000
+é muito importante para distinguir o do originário,
+
+98
+00:08:07,000 --> 00:08:11,000
+especialmente em países como o nosso,
+
+99
+00:08:11,000 --> 00:08:16,000
+que a Constituição é mudada com muita frequência.
+
+100
+00:08:16,000 --> 00:08:20,000
+Já chegamos a uma centena de emendas corcionais.
+
+101
+00:08:20,000 --> 00:08:23,000
+Uma centena de emendas corcionais.
+
+102
+00:08:23,000 --> 00:08:26,000
+É muita mudança na Constituição.
+
+103
+00:08:26,000 --> 00:08:32,000
+Não é necessário aliás, não só não é necessário como não é recomendável que se faça isso.
+
+104
+00:08:32,000 --> 00:08:36,000
+Com RADS, esse grande consulista alemão,
+
+105
+00:08:36,000 --> 00:08:39,000
+que tem obras publicadas aqui no Brasil,
+
+106
+00:08:39,000 --> 00:08:42,000
+a proposta disso, que é extraordinária.
+
+107
+00:08:42,000 --> 00:08:48,000
+Eu disse assim, as mudanças sucessivas na Constituição
+
+108
+00:08:48,000 --> 00:08:53,000
+estabelecem a quebra de confiança na Constituição.
+
+109
+00:08:53,000 --> 00:08:55,000
+E isso é verdade.
+
+110
+00:08:55,000 --> 00:08:59,000
+A Constituição não pode ser alterada a todo o momento,
+
+111
+00:08:59,000 --> 00:09:03,000
+até porque ela é o alicércio do ordenamento jurídico.
+
+112
+00:09:03,000 --> 00:09:08,000
+Eu pessoalmente prefiro dizer que ela é o núcleo do ordenamento jurídico
+
+113
+00:09:08,000 --> 00:09:13,000
+ao redor do qual gravitam os outros campos do direito.
+
+114
+00:09:13,000 --> 00:09:20,000
+Então seria necessário que nós no Brasil compreendérsemos
+
+115
+00:09:20,000 --> 00:09:25,000
+a necessidade de se tocar menos na Constituição
+
+116
+00:09:25,000 --> 00:09:29,000
+para não estabelecer nela a divertência de com RADS
+
+117
+00:09:29,000 --> 00:09:34,000
+que é a quebra de confiança na própria Constituição.
+
+118
+00:09:34,000 --> 00:09:37,000
+Bom, vamos identificar então as características.
+
+119
+00:09:37,000 --> 00:09:42,000
+Primeira delas se trata de um poder derivado.
+
+120
+00:09:42,000 --> 00:09:49,000
+Porque e deriva, porque provém a devem de outro poder.
+
+121
+00:09:49,000 --> 00:09:55,000
+O poder constituinte reformador só existe porque o originário disse que ele existe.
+
+122
+00:09:55,000 --> 00:10:00,000
+O poder constituinte originário ao elaborar a Constituição
+
+123
+00:10:00,000 --> 00:10:04,000
+poderia não ter criado um poder de reforma.
+
+124
+00:10:04,000 --> 00:10:09,000
+Claro, não é recomendável que proceda desse modo.
+
+125
+00:10:09,000 --> 00:10:14,000
+É preciso ter um poder de reforma para que a Constituição possa ser atualizada,
+
+126
+00:10:14,000 --> 00:10:16,000
+melhorada com o tempo.
+
+127
+00:10:16,000 --> 00:10:18,000
+Mas quero dizer o que?
+
+128
+00:10:18,000 --> 00:10:22,000
+Que o poder de reforma é derivado porque ele deriva,
+
+129
+00:10:22,000 --> 00:10:24,000
+a provém do poder constituinte originário.
+
+130
+00:10:24,000 --> 00:10:29,000
+Mas ele somente existe porque o originário disse que ele existe.
+
+131
+00:10:30,000 --> 00:10:37,000
+Ao criá-lo, o originário já disse que era o papel do poder reformador.
+
+132
+00:10:37,000 --> 00:10:41,000
+Ele tem, por função, alterar a Constituição.
+
+133
+00:10:41,000 --> 00:10:43,000
+Portanto, observem.
+
+134
+00:10:43,000 --> 00:10:46,000
+Ele produz normas constonais.
+
+135
+00:10:46,000 --> 00:10:49,000
+Ele não é menos do que o originário.
+
+136
+00:10:49,000 --> 00:10:53,000
+Aliás, às vezes ele é mais do que o originário.
+
+137
+00:10:53,000 --> 00:10:56,000
+O originário produziu uma norma,
+
+138
+00:10:56,000 --> 00:11:02,000
+o reformador altera ou revoga como fez, por exemplo, com artigo 171 da Constituição,
+
+139
+00:11:02,000 --> 00:11:06,000
+que foi um dos primeiros a serem eliminados da Constituição.
+
+140
+00:11:06,000 --> 00:11:10,000
+Se você for examinar a Constituição, não tem o artigo 171.
+
+141
+00:11:10,000 --> 00:11:16,000
+Nas primeiras emendas de revisão, já foi retirado o 171 por obra da atuação
+
+142
+00:11:16,000 --> 00:11:19,000
+do poder reformador, logo, sobre esse aspecto.
+
+143
+00:11:19,000 --> 00:11:21,000
+Ele é mais do que o originário.
+
+144
+00:11:21,000 --> 00:11:24,000
+Claro, na verdade nós todos sabemos,
+
+145
+00:11:24,000 --> 00:11:29,000
+ele é menos do que o originário, porque ele não pode tocar nas cláus las pedras.
+
+146
+00:11:29,000 --> 00:11:34,000
+Mas o que eu quero dizer com isso é que ele também produz normas constonais.
+
+147
+00:11:34,000 --> 00:11:45,000
+Em outras palavras, se me permitirem, a velha imagem da pirâmide nos ajuda a compreender isso.
+
+148
+00:11:45,000 --> 00:11:50,000
+Aqui está a Constituição, neste plano normativo superior.
+
+149
+00:11:50,000 --> 00:11:53,000
+O poder originário fez a Constituição.
+
+150
+00:11:53,000 --> 00:11:57,000
+O poder reformador produz normas que estão aqui na Constituição,
+
+151
+00:11:57,000 --> 00:12:02,000
+ou seja, ele atua também no topo da pirâmide jurídica.
+
+152
+00:12:02,000 --> 00:12:07,000
+Segunda característica do poder reformador,
+
+153
+00:12:07,000 --> 00:12:11,000
+se diz que ele é um poder condicionado.
+
+154
+00:12:13,000 --> 00:12:18,000
+Logo, ele se submete a condições.
+
+155
+00:12:18,000 --> 00:12:24,000
+Aquais condições, aquelas que o poder originário estabeleceu.
+
+156
+00:12:24,000 --> 00:12:30,000
+E nós podemos ver isso no artigo 60 para a Gf. IV da Constituição,
+
+157
+00:12:30,000 --> 00:12:35,000
+em que ele estabeleceu algumas condições.
+
+158
+00:12:35,000 --> 00:12:44,000
+Por exemplo, ele diz que a Constituição só pode ser imendada por iniciativa
+
+159
+00:12:44,000 --> 00:12:48,000
+de um terço de deputados os senadores,
+
+160
+00:12:48,000 --> 00:12:53,000
+presidente da República, e mais da metade das asemblas legislativas.
+
+161
+00:12:53,000 --> 00:12:55,000
+Isso é uma condição.
+
+162
+00:12:55,000 --> 00:13:00,000
+Quando ele disse que a Constituição só pode ser mudada por três quintos dos votos,
+
+163
+00:13:00,000 --> 00:13:05,000
+duas vezes na Câmara, duas vezes no Senado, está estabelecendo outra condição.
+
+164
+00:13:05,000 --> 00:13:10,000
+Então, o poder constitui em ter originaio estabelece as condições
+
+165
+00:13:10,000 --> 00:13:15,000
+nas quais o poder reformador irá atuar.
+
+166
+00:13:15,000 --> 00:13:22,000
+Logo, o poder reformador está vinculado as condições impostas pelo poder originário,
+
+167
+00:13:22,000 --> 00:13:29,000
+ou seja, está vinculado as condições estabelecidas na própria Constituição.
+
+168
+00:13:31,000 --> 00:13:36,000
+Terceira característica, se diz que é um poder limitado,
+
+169
+00:13:36,000 --> 00:13:43,000
+portanto, tem limitações, está submetido a certos limites,
+
+170
+00:13:43,000 --> 00:13:53,000
+o que significa dizer que o poder reformador não é livre para escrever na Constituição o que ele desejar.
+
+171
+00:13:53,000 --> 00:13:55,000
+Ele não é livre.
+
+172
+00:13:55,000 --> 00:14:02,000
+Há determinadas matérias, sabemos todos nós, que o poder reformador não pode tocar,
+
+173
+00:14:02,000 --> 00:14:09,000
+ou seja, nós nos aproximamos daquilo que se pode chamar o coração da Constituição,
+
+174
+00:14:09,000 --> 00:14:12,000
+o coração do ordenamento jurídico.
+
+175
+00:14:12,000 --> 00:14:16,000
+Eu me refiro ao que se denominam, Claus Las Petras.
+
+176
+00:14:16,000 --> 00:14:24,000
+Ou seja, as limitações que inciden sobre o poder reformador são de quatro espécies,
+
+177
+00:14:24,000 --> 00:14:30,000
+e, portanto, nós iremos agora abrir um novo tópico para tratar, especificamente,
+
+178
+00:14:30,000 --> 00:14:37,000
+das limitações que inciden sobre o poder reformador.
+
+179
+00:14:37,000 --> 00:14:46,000
+Quem quiser colocar aí um item, inclusive, nomeando assim limitações ao poder constituinte reformador.
+
+180
+00:14:47,000 --> 00:14:50,000
+São como disse de quatro espécies.
+
+181
+00:14:50,000 --> 00:15:02,000
+Limitações processuais, limitações circunstanciais, limitações temporais e limitações materiais.
+
+182
+00:15:02,000 --> 00:15:05,000
+E iremos tratar cada uma delas.
+
+183
+00:15:05,000 --> 00:15:17,000
+Vamos começar, então, com as limitações processuais, de procedimento, de forma de modo de fazer.
+
+184
+00:15:18,000 --> 00:15:26,000
+As limitações processuais referem-se à iniciativa ao coro e a competência.
+
+185
+00:15:26,000 --> 00:15:33,000
+As limitações processuais ou procedimentais, como quisermos, para a Constituição, não tem problema,
+
+186
+00:15:33,000 --> 00:15:39,000
+porque a Constituição não trabalha com a linguagem técnica e, sim, com a linguagem coloquial.
+
+187
+00:15:39,000 --> 00:15:47,000
+As limitações processuais referem-se à iniciativa ao coro e a competência.
+
+188
+00:15:47,000 --> 00:15:53,000
+Então, vamos verificar as limitações processuais relativos à iniciativa.
+
+189
+00:15:53,000 --> 00:15:58,000
+Diz a Constituição. Artigo 60 para a Gufoquarto.
+
+190
+00:15:58,000 --> 00:16:08,000
+Para citar início a um projeto de emenda acorcional, portanto, que pretende mudar aqui no topo da pirâmide,
+
+191
+00:16:08,000 --> 00:16:15,000
+é preciso que esse projeto seja assinado por um terço de deputados federais ou senadores,
+
+192
+00:16:15,000 --> 00:16:22,000
+pelo presidente da República e por mais da metade das Assembleias estaduais.
+
+193
+00:16:22,000 --> 00:16:29,000
+Onde está a limitação? Limitação processual quanto à iniciativa.
+
+194
+00:16:29,000 --> 00:16:36,000
+Primeiro lugar, está em que somente estes equipómen propôs emenda constitucional.
+
+195
+00:16:36,000 --> 00:16:44,000
+Somente estes equipómen desencadear o processo de atuação do poder de reforma constitucional.
+
+196
+00:16:44,000 --> 00:16:52,000
+Ainda tem mais uma limitação. Quando se fala que um terço de deputados federais não pode propô...
+
+197
+00:16:52,000 --> 00:17:00,000
+Perdão, para se propôr uma emenda acorcional é preciso a assinatura de um terço dos deputados federais,
+
+198
+00:17:00,000 --> 00:17:04,000
+que está se exigindo pelo menos 171 assinaturas.
+
+199
+00:17:04,000 --> 00:17:10,000
+E de senadores está se exigindo pelo menos 27 assinaturas. Isso também é uma limitação.
+
+200
+00:17:10,000 --> 00:17:17,000
+Não é tarefa muito fácil conseguir apresentar um projeto no caso de emenda acorcional,
+
+201
+00:17:17,000 --> 00:17:23,000
+que tenha já assinatura de 171 deputados federais ou de 27 assinaturas.
+
+202
+00:17:23,000 --> 00:17:31,000
+O que significa dizer também que seu projeto de emenda acorcional foi apresentado com 170 assinaturas deputados federais,
+
+203
+00:17:31,000 --> 00:17:42,000
+qual é o destino disso? Arquivo, é incorcional. Se for apresentado o projeto de emenda acorcional, com 26 senadores e deem arquivo.
+
+204
+00:17:42,000 --> 00:17:47,000
+Isso é incorcional. Portanto, há também aqui uma certa limitação.
+
+205
+00:17:48,000 --> 00:17:56,000
+Vimos então limitações processuais que se referem. A iniciativa, agora vamos ao coro.
+
+206
+00:17:56,000 --> 00:18:02,000
+A regra que todos nós conhecemos, artigo 60 parábio seguinte, parábio segundo.
+
+207
+00:18:02,000 --> 00:18:10,000
+A emenda acorcional para ser aprovada precisa ter duas votações na câmara dos deputados,
+
+208
+00:18:11,000 --> 00:18:18,000
+ambas no mínimo 3 500 dos votos favoráveis, depois duas votações no Senado Federal,
+
+209
+00:18:18,000 --> 00:18:24,000
+também em cada uma delas 3 500 dos votos dos senadores.
+
+210
+00:18:24,000 --> 00:18:36,000
+Portanto, há um coro difícil. É uma limitação. Não é fácil conseguir duas vezes na câmara votação por 3 500,
+
+211
+00:18:36,000 --> 00:18:46,000
+duas vezes no Senado votação por 3 500 dos votos favoráveis. Isso impõe uma dificuldade do ponto de vista teórico,
+
+212
+00:18:46,000 --> 00:18:54,000
+uma dificuldade para alterar a coxitão. Embora nós sabemos que na prática e no Brasil não tem a vida
+
+213
+00:18:54,000 --> 00:19:00,000
+essa dificuldade tanto que estamos já com uma centena de mudanças da coxitão.
+
+214
+00:19:01,000 --> 00:19:09,000
+Então, nós estamos indo, limitações processuais contra iniciativa, o coro e agora competência.
+
+215
+00:19:09,000 --> 00:19:18,000
+Significa que, somente o Congresso Nacional, quando investido de poderes constituintes,
+
+216
+00:19:18,000 --> 00:19:26,000
+pode alterar a constituição ninguém mais. É matéria exclusiva do Congresso Nacional e,
+
+217
+00:19:26,000 --> 00:19:35,000
+desde que, ele esteja investido de poder constituinte. No momento em que o Congresso Nacional atua,
+
+218
+00:19:35,000 --> 00:19:44,000
+sob esse coro ou de 3 500, tanto na câmara quanto no Senado, ele está investido de poder constituinte,
+
+219
+00:19:44,000 --> 00:19:47,000
+portanto, ele pode alterar a coxitão.
+
+220
+00:19:48,000 --> 00:19:55,000
+Fechamos a primeira limitação que incide sobre o poder reformador,
+
+221
+00:19:55,000 --> 00:20:00,000
+limitação processual no que diz respeito à iniciativa, ao coro e a competência.
+
+222
+00:20:00,000 --> 00:20:08,000
+Segunda limitação que incide sobre o poder de reforma corcional são limitações circunstanciais,
+
+223
+00:20:08,000 --> 00:20:14,000
+portanto, de circunstâncias. Diz-o 60 para agro primeiro,
+
+224
+00:20:15,000 --> 00:20:22,000
+que se for decretada em intervenção federal art. 34, estado de defesa art. 136,
+
+225
+00:20:22,000 --> 00:20:30,000
+ou estado de cítio 137, não pode ter processo de emenda corcional.
+
+226
+00:20:31,000 --> 00:20:38,000
+Há uma limitação circunstancial, porque, por exemplo, a intervenção federal é uma circunstância,
+
+227
+00:20:39,000 --> 00:20:45,000
+irá passar, estado de defesa, quando decretado, também é uma circunstância irá passar,
+
+228
+00:20:45,000 --> 00:20:49,000
+estado de cítio, idem, e é uma circunstância irá passar.
+
+229
+00:20:49,000 --> 00:20:54,000
+O que fez o constituinte originário, presente em uma dessas circunstâncias,
+
+230
+00:20:54,000 --> 00:21:02,000
+uma dessas circunstâncias, não pode haver manifestação do poder constituinte reformador,
+
+231
+00:21:02,000 --> 00:21:11,000
+ou seja, ele imobilizou, ingessou o poder de reforma corcional.
+
+232
+00:21:11,000 --> 00:21:18,000
+Mas nós precisamos endagar por quê? Para nós, do direito, especialmente, o porquê é muito importante?
+
+233
+00:21:19,000 --> 00:21:25,000
+Por que o constituinte originário disse, olha, se decretar intervenção federal,
+
+234
+00:21:25,000 --> 00:21:30,000
+ou estado de defesa, ou estado de cítio, não pode o poder reformador mudar a construção?
+
+235
+00:21:31,000 --> 00:21:41,000
+Porque ele deseja, ele originário, que a Constituição seja alterada, em um plano de normalidade, de estabilidade,
+
+236
+00:21:41,000 --> 00:21:46,000
+e qualquer um desses três institutos, intervenção federal, estado de defesa, ou estado de cítio,
+
+237
+00:21:46,000 --> 00:21:49,000
+significa a quebra da normalidade.
+
+238
+00:21:50,000 --> 00:21:53,000
+Professor José Forçassilva tem uma lição muito apropiada para isso.
+
+239
+00:21:53,000 --> 00:22:01,000
+Eles, assim, que a intervenção federal no estado significa o pacto de dor da federação.
+
+240
+00:22:01,000 --> 00:22:09,000
+O pacto de dor, ninguém quer, mas tem que fazer. A União vai intervir no estado do Rio de Janeiro.
+
+241
+00:22:09,000 --> 00:22:13,000
+Primeiro lugar, leva para a União todos os problemas do Rio de Janeiro, então ela não quer.
+
+242
+00:22:14,000 --> 00:22:19,000
+Se a União intervir no estado do Rio de Janeiro, esse pode perder a autonomia,
+
+243
+00:22:19,000 --> 00:22:21,000
+portanto ele também não quer.
+
+244
+00:22:21,000 --> 00:22:28,000
+Certo, então José Forçassilva com um desacim, que é um pacto de dor, ninguém quer, porém, acaba sendo feito pela necessidade,
+
+245
+00:22:28,000 --> 00:22:30,000
+pela circunstâncias.
+
+246
+00:22:30,000 --> 00:22:39,000
+Para fechar essa segunda parte, então, nós vimos limitações processuais, agora limitações circunstanciais de circunstancias.
+
+247
+00:22:39,000 --> 00:22:45,000
+Presente qualquer uma dessa circunstancia, não pode haver reforma constitucional.
+
+248
+00:22:45,000 --> 00:22:50,000
+Terceira a limitação que incide sobre o poder reformador.
+
+249
+00:22:50,000 --> 00:22:56,000
+Limitações temporais, é aqui de artigo terceiro do ato das disposições transitórias,
+
+250
+00:22:56,000 --> 00:23:06,000
+que proibiu que o poder reformador nos primeiros cinco anos, nos primeiros cinco anos, não alterasse a costição.
+
+251
+00:23:06,000 --> 00:23:11,000
+Isso é artigo terceiro das disposições transitórias.
+
+252
+00:23:11,000 --> 00:23:20,000
+Previu o constituinte lá que somente passado cinco anos poderia haver uma mudança na constição.
+
+253
+00:23:20,000 --> 00:23:30,000
+Portanto, um poder temporal de tempo passou aquele período de tempo o poder reformador pode, então, alterar a constição.
+
+254
+00:23:30,000 --> 00:23:42,000
+E, por último, incide sobre o poder reformador as limitações materiais, de matéria, de conteúdo.
+
+255
+00:23:42,000 --> 00:23:53,000
+Aqui é o núcleo do núcleo, aqui é o coração da constição, criando uma imagem para rapidamente tentar passar a ideia a vocês.
+
+256
+00:23:53,000 --> 00:24:04,000
+Esse aqui é o espaço da constição. Nós temos artigo 60 para com o quarto que diz que não pode haver em mente da constonal tendente a abolir uma cláusla petria.
+
+257
+00:24:04,000 --> 00:24:17,000
+Qual? A forma federativa de Estado, o voto secreto perótico, direto e universal, a chamada separação de poderes, na verdade, a separação de funções,
+
+258
+00:24:17,000 --> 00:24:30,000
+o poder é uno indivisível, o que se pode dividir são as funções inerentes ao poder, e, por último, aqui na nossa imagem improvisada os direitos e garantias individuais.
+
+259
+00:24:30,000 --> 00:24:41,000
+O que fez o constituinte origenário disse ao reformador, você pode alterar a constição, porém, você não pode alterar no sentido de abolir.
+
+260
+00:24:41,000 --> 00:24:50,000
+A forma federativa, o voto secreto perótico universal, a separação de poderes e os direitos e garantias individuais.
+
+261
+00:24:50,000 --> 00:25:02,000
+Ao reverso, o que diz esse origenário para o reformador, você pode alterar qualquer matéria da constição, desde que siga aquele procedimento que está no 60 para com o quarto.
+
+262
+00:25:02,000 --> 00:25:12,000
+A iniciativa, desde o parágio primeiro, você senta por inteiro, porque ele trata da reforma constitucional.
+
+263
+00:25:12,000 --> 00:25:18,000
+Isso aqui é extremamente importante para o ordenamento jurídico dos países.
+
+264
+00:25:18,000 --> 00:25:31,000
+A partir da II Guerra Mundial, todas as constituições praticamente que surgiram, gressias, panha, Portugal, Brasil, tornaram um núcleo imodificável.
+
+265
+00:25:31,000 --> 00:25:48,000
+Ou seja, trabalharam com cláuslas petras. Proibiram os poderes de reforma corcional a tocar em certas matérias no sentido de restringir ou revogar.
+
+266
+00:25:48,000 --> 00:25:57,000
+Falam sobre isso, já caminhando para o final dessa nossa exposição, que quando o constituinte disse, ali no 60 para o quarto,
+
+267
+00:25:57,000 --> 00:26:07,000
+que não pode haver emenda aconcional, tendente a abolir. Esse tendente a abolir, nós precisamos compreender adequadamente.
+
+268
+00:26:07,000 --> 00:26:16,000
+E isso que eu vou falar a vocês agora não é tese. É uma interpretação que não pode ser diferente.
+
+269
+00:26:16,000 --> 00:26:27,000
+O tendente a abolir significa que não pode abolir totalmente e não pode abolir parcialmente.
+
+270
+00:26:27,000 --> 00:26:37,000
+Repito, o tendente a abolir tem duas funções, proibir que se mood totalmente, ou seja, que se revogue,
+
+271
+00:26:37,000 --> 00:26:45,000
+e proibir que se mood parcialmente, ou seja, que se restringa. Qual é a conclusão nesta interpretação?
+
+272
+00:26:45,000 --> 00:26:56,000
+É que a imenda corcional não pode revogar uma cláuslas petra, mas também não pode restringir uma cláuslas petra.
+
+273
+00:26:56,000 --> 00:27:00,000
+Esse é o momento importante do costo sinalismo.
+
+274
+00:27:01,000 --> 00:27:14,000
+Os países passaram a dotar isso em suas costições, por quê? Porque há um núcleo essencial para o direito,
+
+275
+00:27:14,000 --> 00:27:24,000
+melhor seria ser de sésimos para a sociedade, que tem que permanecer intangível em relação à mundanidade política.
+
+276
+00:27:25,000 --> 00:27:33,000
+A mundanidade política, com suas regras próprias, não pode despor sempre e de tudo.
+
+277
+00:27:33,000 --> 00:27:43,000
+Há um núcleo, há determinados valores que precisam estar subtraídos da atuação da mundanidade política,
+
+278
+00:27:43,000 --> 00:27:51,000
+o que faz o constituinte então, ele petrifica, ele ingessa, ele proibir, ele interdita, ele diz,
+
+279
+00:27:51,000 --> 00:27:59,000
+esses campos estão subtraídos da área de incidência do poder reformador.
+
+280
+00:27:59,000 --> 00:28:09,000
+Portanto, irrei concluir esta exposição sobre a reforma corcional, dizendo que o poder constituinte origenário,
+
+281
+00:28:09,000 --> 00:28:20,000
+ele abora uma constituição por inteiro, refunda a ordem jurídica, e o poder constituinte reformador apenas altera a ordem jurídica corcional.
+
+282
+00:28:21,000 --> 00:28:29,000
+Se quisermos voltar a nossa imagem, o poder constituinte origenário, ele abora a constituição, que é o topo,
+
+283
+00:28:29,000 --> 00:28:39,000
+e o poder reformador altera a constituição. Portanto, ele também atua na parte superior da constituição. Muito obrigado.

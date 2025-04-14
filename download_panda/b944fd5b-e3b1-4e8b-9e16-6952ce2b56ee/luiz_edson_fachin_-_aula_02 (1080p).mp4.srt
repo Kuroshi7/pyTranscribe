@@ -1,0 +1,631 @@
+1
+00:00:00,000 --> 00:00:13,439
+Vamos proceder a uma reflexão, captando a jurisprudência, nomeadamente do Supremo
+
+2
+00:00:13,439 --> 00:00:22,039
+Tribunal Federal e a prestação jurisdiccional verticalizada em torno daquilo que a literatura
+
+3
+00:00:22,039 --> 00:00:27,039
+jurídica denomina de federalismo cooperativo.
+
+4
+00:00:27,039 --> 00:00:38,200
+Em outras palavras, vamos tratar da configuração normativa, tal como desenhada nos limites
+
+5
+00:00:38,200 --> 00:00:44,439
+nas possibilidades da Constitucional de 1938 sobre a Federação.
+
+6
+00:00:44,439 --> 00:00:52,439
+E, principiou dizendo que todos nós conhecemos da literatura, quer dos clássicos mundiais,
+
+7
+00:00:52,439 --> 00:01:01,359
+quer dos clássicos latino-americanos e nungras passagens em que se refere a personagens invisíveis.
+
+8
+00:01:01,359 --> 00:01:09,159
+E mesmo, no debate jurídico, não raro muitas vezes quando nós nos referimos, por exemplo,
+
+9
+00:01:09,159 --> 00:01:18,879
+algumas questões de gênero ou mesmo algumas searas aonde a acabimento, por exemplo,
+
+10
+00:01:18,879 --> 00:01:25,879
+da teoria, do impacto desproprursional em matéria de ações afirmativas, ou mesmo nas questões
+
+11
+00:01:25,879 --> 00:01:34,359
+atinentes à violência doméstica, não raro se fala da necessidade de trazer da invisibilidade
+
+12
+00:01:34,359 --> 00:01:44,399
+para a visibilidade, aquilo que nada obstante exista, requer, no plano da sua existência,
+
+13
+00:01:44,400 --> 00:01:55,480
+não apenas olhos de enxergar, mas plenásticamente olhos de ver, sob pena de fazermos do real uma realidade
+
+14
+00:01:55,480 --> 00:01:58,320
+que acaba sendo esquecida.
+
+15
+00:01:58,320 --> 00:02:01,280
+E por que estou principiando sobre este ponto?
+
+16
+00:02:01,280 --> 00:02:13,240
+Por que entendo que no programa normativo da Conchão de 1988 desenhou-se com clareza
+
+17
+00:02:13,240 --> 00:02:23,159
+um tripe de entes federativos, compreendendo a união, Estados Membros, e os municípios,
+
+18
+00:02:23,159 --> 00:02:36,080
+que ensejou uma arquitetura da federação, que nada obstante tenha trazido uma fotografia contemporânea
+
+19
+00:02:36,080 --> 00:02:44,600
+de um federalismo formado por um conjunto de competências ou atribuições que representavam
+
+20
+00:02:44,600 --> 00:02:54,040
+do ponto de vista do discurso normativo, uma possibilidade de desconcentração e descentralização,
+
+21
+00:02:54,040 --> 00:03:04,360
+portanto dois movimentos distintos, desconcentração e descentralização do exercício dos poderes estatais,
+
+22
+00:03:04,360 --> 00:03:12,880
+e assim ou fazendo, sumetendo nos diversos capítulos, artigos e títulos da constipção
+
+23
+00:03:12,880 --> 00:03:22,960
+a união, os Estados Membros, e os municípios, papéis distintos, mas também comuns e complementares,
+
+24
+00:03:22,960 --> 00:03:33,400
+o que deriva, evidentemente, de uma leitura muito simples que se possa fazer das atribuições,
+
+25
+00:03:33,400 --> 00:03:39,680
+por exemplo, legislativas da união dos Estados e dos municípios.
+
+26
+00:03:39,680 --> 00:03:51,599
+O que ocorre é que, em verdade, esta fotografia que daí emergiu e que inseriu no quadro dessa família,
+
+27
+00:03:51,599 --> 00:04:00,680
+por assim dizer, família normativa, um filho novo do ponto de vista da sua configuração com a
+
+28
+00:04:00,680 --> 00:04:07,560
+identidade federativa, mas importantíssimo do ponto de vista da distribuição de competência que
+
+29
+00:04:07,560 --> 00:04:15,719
+foi precisamente o município. E esta fotografia que espelhou, portanto, uma família normativa,
+
+30
+00:04:15,719 --> 00:04:27,720
+a fincada, num tripe, que desenhava na sua fotografia, uma nova federação, foi submitida e é
+
+31
+00:04:27,720 --> 00:04:37,400
+preciso que se reconheça isto. Foi submitida a uma compreensão juris-prodencial inequivicamente
+
+32
+00:04:37,400 --> 00:04:49,160
+marcada por uma hermenêutica, a prioristicamente ordenada pelas constituições anteriores e informada
+
+33
+00:04:49,160 --> 00:04:59,400
+por uma literatura jurídica que, nada obstante, tenha sido desafiada, arrastada a reverso os conceitos
+
+34
+00:04:59,400 --> 00:05:12,680
+estruturais após 88, continuou na sua estrutura a reconhecer um mimetismo das entidades que compõem a
+
+35
+00:05:12,680 --> 00:05:21,400
+defederação e por isso mesmo, de um modo geral, assumeter esta nova fotografia a uma moldura que
+
+36
+00:05:21,400 --> 00:05:32,600
+a prioristicamente derivou desta pré-compreensão. E é por isso que quase três décadas depois se olhar
+
+37
+00:05:32,600 --> 00:05:43,520
+nos, com olhos de ver, e aí refiram-me ao tribunal do qual faço parte e, portanto, o faço com o
+
+38
+00:05:43,520 --> 00:05:52,360
+devido respeito, reportándome a julgamentos que já ocorreram e, portanto, referíndome,
+
+39
+00:05:52,360 --> 00:06:00,360
+especialmente ao Supremo Tribunal Federal, é preciso reconhecer que 30 anos depois da Constituição
+
+40
+00:06:00,360 --> 00:06:09,560
+de 88, a jurisprudência ainda dominante no Supremo Tribunal Federal aplica a compreensão federalista das
+
+41
+00:06:09,560 --> 00:06:19,879
+atribuições municipais a pré-compreensão derivada dessa informação aurida da literatura jurídica para 88,
+
+42
+00:06:19,879 --> 00:06:28,400
+e também de uma moldura hermenêutica que foi desenvolvida à luz das constituições anteriores, nomeadamente,
+
+43
+00:06:28,399 --> 00:06:39,199
+as constituições da República Nova, portanto, as que adivieram com o feitio da República Brasileira do
+
+44
+00:06:39,199 --> 00:06:48,639
+século XX até a Emenda Comprional de 69, e todos esses momentos de constituições ou de cartas
+
+45
+00:06:48,639 --> 00:06:57,879
+políticas que, obviamente, tinham, não só com centração, como também centralização dos poderes,
+
+46
+00:06:57,879 --> 00:07:09,199
+em relação aos quais, em verdade, ao contrário de representar um desenho, de entidades federativas que
+
+47
+00:07:09,199 --> 00:07:19,680
+partindo de sua autonomia, criam zonas de intersecção para formar uma federação,
+
+48
+00:07:19,680 --> 00:07:28,279
+federação que atua nessas zonas de intersecção e reservam aos seus estados, aos seus entes,
+
+49
+00:07:28,279 --> 00:07:37,120
+a união, o espaço das legislações nacionais, aos estados membros, o espaço legislativo estadual
+
+50
+00:07:37,120 --> 00:07:45,480
+e os municípios idem por mesma reciprocidade. Ao contrário dessas zonas de intersecção formadas por
+
+51
+00:07:45,480 --> 00:07:56,840
+autonomia, o desenho que se manter, após a constituição de 88, foi a chancela de um modelo tradicional,
+
+52
+00:07:56,839 --> 00:08:06,759
+em que estados membros e municípios são considerados, sessionários de parcelas das atribuições,
+
+53
+00:08:06,759 --> 00:08:15,919
+que são concentradas e centralizadas não-não. É por isso que, com todo o respeito que a expressão
+
+54
+00:08:15,919 --> 00:08:24,399
+a de ser ouvida e comprendida, não raro a presidência da República, portanto o chefe do poder
+
+55
+00:08:24,399 --> 00:08:33,559
+executivo da união às vezes tem agendas e pautas próprias de um prefeito municipal. É como
+
+56
+00:08:33,559 --> 00:08:43,399
+se tivéssemos um grau de concentração e de centralização em que esses entes federativos, nomeadamente os
+
+57
+00:08:43,399 --> 00:08:53,399
+municípios e os estados membros, exercicem apenas aquelas esferas ou faches de poderes,
+
+58
+00:08:53,399 --> 00:09:02,959
+concedidas como se fosse um abenés ao invés de ter se operado como está no desenho normativo da
+
+59
+00:09:02,960 --> 00:09:13,200
+constituição, o inverso, isso corresponde, em meu modo de ver, a necessidade de problematizar o
+
+60
+00:09:13,200 --> 00:09:21,480
+federalismo no Brasil e não ser trata, em meu entender, da necessidade de promover-se qualquer alteração
+
+61
+00:09:21,480 --> 00:09:28,960
+de índole conchonal. Eis aqui um problema que diz respeito aos magistrados como chonais,
+
+62
+00:09:28,960 --> 00:09:38,519
+eis aqui uma controversia, problematização no sentido de ser um tema, amerecer uma controversia
+
+63
+00:09:38,519 --> 00:09:45,960
+mais verticalizada, eis aqui uma controversia que ademerecer uma verticalização ainda maior da
+
+64
+00:09:45,960 --> 00:09:54,680
+literatura jurídica do que usoumente designamos de doutrina e seguramente do legislador derivado,
+
+65
+00:09:54,679 --> 00:10:03,679
+que é o contário de no exercício de seu poder constituinte derivado, contribuir para através
+
+66
+00:10:03,679 --> 00:10:13,519
+dos espaços de infra-conchonalidade, assegurar, elastecer e muitas vezes desbordando do programa
+
+67
+00:10:13,519 --> 00:10:21,120
+conchonal, contribuir para a concentração e para a centralização, também para ele, para o
+
+68
+00:10:21,120 --> 00:10:31,759
+poder legislativo, se apresenta este desafio. Isto está entre outros aspectos numa invisibilidade,
+
+69
+00:10:31,759 --> 00:10:39,080
+é uma invisibilidade por evidente metafórica, porque não há dúvida alguma de que está expresso
+
+70
+00:10:39,080 --> 00:10:47,680
+na constituição de seus dispositivos, mas espraiados em vários artigos da condição que o município
+
+71
+00:10:47,679 --> 00:10:55,519
+é reconhecido como entro da Federação, mas, desde aqui, uma invisibilidade que precisa ser retirada
+
+72
+00:10:55,519 --> 00:11:05,919
+da sua literalidade para que a ela seja dada existência, norma atividade e caráter de vinculação.
+
+73
+00:11:05,919 --> 00:11:13,919
+Permito me dar-lhes um exemplo concreto do que se passou no Suprano Tribunal Federal no julgamento
+
+74
+00:11:13,919 --> 00:11:24,319
+do Recurso Estrodinário, 194-704, oriundo do Estado de Minas Gerais, o que ali se debatia?
+
+75
+00:11:24,319 --> 00:11:35,399
+Debatia-se a questão precisamente das atribuições legislativas municipais, diante da legislação federal
+
+76
+00:11:35,399 --> 00:11:43,000
+que trata da tutela do meio ambiente, portanto o que estava em jogo precisamente aqui? O que estava em jogo
+
+77
+00:11:43,000 --> 00:11:50,720
+precisamente? É que saber se a luz do interesse local e, portanto, a luz das peculiaridades que
+
+78
+00:11:50,720 --> 00:11:56,840
+em determinado município, nesse caso era Belo Horizonte, por exemplo, no caso concreto, mas poder
+
+79
+00:11:56,840 --> 00:12:06,279
+se ir falar de qualquer município integrante da União e, portanto, integrante da União nesse sentido
+
+80
+00:12:06,279 --> 00:12:12,600
+de componente da Nação Brasileira ao lado da União como um ente federativo, logo integrante da
+
+81
+00:12:12,600 --> 00:12:22,240
+Federação, tratando-se no caso de Belo Horizonte, o poder legislativo municipal editou regras que, na
+
+82
+00:12:22,240 --> 00:12:31,279
+ponderação entre determinados interesses, de natureza econômica e financeira e interesses ambientais,
+
+83
+00:12:31,279 --> 00:12:40,040
+levando em conta de ver esmunicipais, de tutela da qualidade de vida e de proteção ambiental,
+
+84
+00:12:40,039 --> 00:12:49,120
+ele vo o grau de controle dos índices de emissão de poluentes atmosféricos nos municípios no âmbito
+
+85
+00:12:49,120 --> 00:12:58,279
+do transporte coletivo. O que é que se sustentou aí? Sustentou-se duas razões básicas,
+
+86
+00:12:58,279 --> 00:13:06,879
+o aumento. Uma de natureza empírica, dizendo-se que, afinal de contas, a produção de vícitos automotores é
+
+87
+00:13:06,879 --> 00:13:14,320
+uma produção por assim dizer nacionalizada. Logo, se houver necessidade de um filtro de
+
+88
+00:13:14,320 --> 00:13:20,799
+emissão de poluentes com grau de controle maior no município de Belo Horizonte, do ponto em vista
+
+89
+00:13:20,799 --> 00:13:30,639
+empírico, criar-se ia por assim dizer uma espécie de clivagem entre este município e o outro ou algum
+
+90
+00:13:30,639 --> 00:13:39,919
+outro município ali vizinho, cujo grau de filtragem de emissão, de partículas na atmosfera poderia
+
+91
+00:13:39,919 --> 00:13:47,600
+eventualmente ser maior tendo em vista um grau menor de poluição atmosférica no município.
+
+92
+00:13:47,600 --> 00:13:56,879
+Portanto, um argumento de natureza consequencialista e que levou em conta uma análise econômica dessa
+
+93
+00:13:56,879 --> 00:14:09,279
+instância normativa para objetar e acoimar e impor a essa legislação municipal a peixa de
+
+94
+00:14:09,279 --> 00:14:14,720
+em controlidade. Essa foi uma primeira ordem argumento, ou seja, o município de Belo Horizonte não poderia
+
+95
+00:14:14,720 --> 00:14:22,240
+legislar estabelecendo controle superior e os controles de natureza federal. O segundo argumento
+
+96
+00:14:22,240 --> 00:14:29,759
+foi um argumento de um refinamento teórico, não portanto mais empírico, mas de refinamento teórico,
+
+97
+00:14:29,759 --> 00:14:37,919
+ou seja, sustentou-se, portanto, que havendo a legislação federal sobre uma dada matéria, o interesse local
+
+98
+00:14:37,919 --> 00:14:48,799
+não legitimaria a edição de legislação municipal que pudesse elevar os patamaris ou os parâmetros de um
+
+99
+00:14:48,799 --> 00:14:58,879
+determinado controle. Esta foi a orientação majoritária que ainda se manteve no supremo Tribunal Federal.
+
+100
+00:14:58,879 --> 00:15:07,359
+Tive oportunidade de sustentar tesem sentido contrário e hoje trago esta reflexão ao debate.
+
+101
+00:15:07,359 --> 00:15:14,240
+Esta reflexão não está, obviamente, presente apenas no Brasil. Eu estou me referindo ao programa
+
+102
+00:15:14,240 --> 00:15:23,360
+normativo de 1978 e referindo, portanto, a um caso concreto do município, mas há em números outros casos,
+
+103
+00:15:23,360 --> 00:15:30,720
+como o conhecidíssimo caso da questão atinente ao amiento que envolve legislação federal e que envolve
+
+104
+00:15:30,720 --> 00:15:39,519
+legislações estaduais, portanto, há numerosos exemplos, aonde esse debate se faz presente no Brasil e fora do Brasil.
+
+105
+00:15:39,600 --> 00:15:47,039
+Todos sabemos que a partir do tratado de Roma e de lá para cá muitas águas se passaram debaixo da ponte da União
+
+106
+00:15:47,039 --> 00:16:01,199
+Europeia, muito se debateu também sobre esses temas que a rigor introduziram nesta dimensão de tal questão,
+
+107
+00:16:01,280 --> 00:16:10,960
+a verticalização sobre a incidência do princípio da subsidiaridade. Alguns autores no Brasil,
+
+108
+00:16:10,960 --> 00:16:18,560
+especialmente alguns professores da Faculdade de Direito, da Universidade Federal de Mídia
+
+109
+00:16:18,560 --> 00:16:28,160
+de Angerais, dentre eles, o professor José Alfredo Oliveira Baracho, foram por assim dizer pioneiros no debate,
+
+110
+00:16:28,159 --> 00:16:34,959
+nada a literatura jurídica brasileira sobre as dimensões e as possibilidades em incidência do princípio da
+
+111
+00:16:34,959 --> 00:16:45,679
+subsidiaridade, sempre juiz da interlocução que o princípio da proporcionalidade pode trazer e aportar
+
+112
+00:16:45,679 --> 00:16:56,559
+contribuição para compreender que nos casos em que a legislação federal, numa federação cuja fotografia
+
+113
+00:16:56,719 --> 00:17:05,599
+não apenas me metise os entes federativos, mas que seja formado por autonomias que concedem zonas de
+
+114
+00:17:05,599 --> 00:17:12,639
+intersecção para que nessas zonas de intersecção se constitua a federação e que o município
+
+115
+00:17:12,639 --> 00:17:19,599
+está do membro, não seja um mero sessionários de atribuíções da União, portanto, nessa perspectiva,
+
+116
+00:17:19,599 --> 00:17:29,599
+numa perspectiva que não reconheça por evidente soberanias, mas reconheça e pratique autonomias,
+
+117
+00:17:29,599 --> 00:17:38,719
+este debate permite, obviamente, sucitar que na presença de regras federal,
+
+118
+00:17:38,720 --> 00:17:48,720
+excluo dente de qualquer espacialidade ou elasticidade de proclamação legislativa pelo Estado Membro,
+
+119
+00:17:48,720 --> 00:18:00,720
+ou pelo município, tenhamos, evidentemente, uma prescrição que elimina certamente qualquer tipo de conflito,
+
+120
+00:18:00,720 --> 00:18:08,720
+é o que, na dutrina norte-americana, em termos gerais, denominar-seia de Clear Statement Rule,
+
+121
+00:18:08,720 --> 00:18:16,720
+ou seja, há uma regra clara, no Brasil, por exemplo, temos o código nacional de transdão,
+
+122
+00:18:16,720 --> 00:18:28,720
+de regras claras, que a sua nitidez e sua fixação não abrem, nem espaço, nem elasticidade hermenêutica
+
+123
+00:18:28,720 --> 00:18:38,720
+ou legislativa para os Estados Membros ou para os municípios, nada obstante, na ausência desta formulação,
+
+124
+00:18:38,720 --> 00:18:49,720
+que exclua pela sua dimensão verticalizada, na ausência, portanto, de regras federal,
+
+125
+00:18:49,720 --> 00:18:59,720
+que exclua pela sua presença verticalizada a possibilidade da incidência atribuição do Estado Membro ou do município,
+
+126
+00:18:59,720 --> 00:19:06,720
+no limite de suas competências próprias complementares ou, eventualmente, comuns,
+
+127
+00:19:06,720 --> 00:19:15,720
+e, no caso do município, nomeadamente, não interesse local, e, portanto, reconhecendo as peculiaridades do ente federativo,
+
+128
+00:19:15,720 --> 00:19:25,720
+município, nesses casos, parece-me importante reconhecer como se reconhece em numerosos autores,
+
+129
+00:19:25,720 --> 00:19:35,720
+necessito, pelo menos dois, o professor Mangabeira Unger tem em números trabalhos sobre o federalismo por cooperação,
+
+130
+00:19:35,720 --> 00:19:42,720
+uma das pessoas que no Brasil se ocupou desta matéria, na Europa, o professor Guntr Toilner,
+
+131
+00:19:42,720 --> 00:19:50,720
+é um dos autores importantes que debate precisamente como o princípio da subsidiariedade,
+
+132
+00:19:50,720 --> 00:19:58,720
+opera para que não haja um aniquilamento, no caso da União Europeia, dos países que integram a União Europeia,
+
+133
+00:19:58,720 --> 00:20:08,720
+e que, portanto, são países soberanos que serem parte da sua autonomia, ou, às vezes, no caso da moeda,
+
+134
+00:20:08,720 --> 00:20:17,720
+também parte de sua soberania, sem que seja um aniquilado do ponto de vista das suas respectivas competências legislativas.
+
+135
+00:20:17,720 --> 00:20:27,720
+Ah, portanto, doutrina sobre essa matéria, e há um conjunto de casos concreto dos quais esse recurso ordinário 94,
+
+136
+00:20:27,720 --> 00:20:37,720
+704 de minas gerais dá um exemplo e lá se contém voto de nossa lava,
+
+137
+00:20:37,720 --> 00:20:46,720
+que revela aquilo que creio ser um dever de um magistrado conchonal, trazer ao debate,
+
+138
+00:20:46,720 --> 00:20:54,720
+acompanhar ao colegado na sua orientação majoritária, mas no debate do colegado,
+
+139
+00:20:54,720 --> 00:21:01,720
+seguir a delivação colegada monocráticamente, porque um tribunal se faz no seu colegado,
+
+140
+00:21:02,720 --> 00:21:13,720
+mas no colegado não se resignar e não deixar de espor aquilo que lá enxamava de uma preceção normativa,
+
+141
+00:21:13,720 --> 00:21:23,720
+capaz de solucionar os casos práticos e, obviamente, também capaz de promover uma transformação teórica
+
+142
+00:21:23,720 --> 00:21:30,720
+por meio de onos argumentativos quando, efetivamente, a sim cidad.
+
+143
+00:21:30,720 --> 00:21:38,720
+Para que não ocorra e com isso conclua a reflexão, para que não ocorra o que alguns autores chamaram de morte sem lágrimas
+
+144
+00:21:38,720 --> 00:21:47,720
+do federalismo brasileiro, creio que há nessa celebração dos 30 anos da Constituição,
+
+145
+00:21:47,720 --> 00:21:54,720
+um espaço para debate, não uma nova distribuição do condomínio político nacional,
+
+146
+00:21:54,720 --> 00:22:03,720
+mas sim uma distribuição do condomínio político nacional, a luz do programa federativo que está na Constituição de 88,
+
+147
+00:22:03,720 --> 00:22:13,720
+que obce da centralização de competências, que questiona o papel secundário que tem sido sufragado aos estados,
+
+148
+00:22:13,720 --> 00:22:19,720
+aos municípios, e de algum modo, é bom que se diga também, ao distrito federal,
+
+149
+00:22:19,720 --> 00:22:25,720
+e que seja apta a superar a pré-compreensão do federalismo brasileiro,
+
+150
+00:22:25,720 --> 00:22:31,720
+nesse modelo estânque que não foi herdado pela Constituição do 88,
+
+151
+00:22:31,720 --> 00:22:35,720
+nada obstante tenha se projetado.
+
+152
+00:22:35,720 --> 00:22:45,720
+Creio que este compartilhamento de atribuíções é compatível com o Estado de Direito Democrático,
+
+153
+00:22:45,720 --> 00:22:51,720
+é compatível com os limites e as possibilidades da Constituição brasileira de 1998,
+
+154
+00:22:51,720 --> 00:22:58,720
+e é um dos grandes desafios que se tem pela frente na prestação jurisdicional
+
+155
+00:22:58,720 --> 00:23:06,720
+para que os entes federativos não sejam mera figuras de ornamentação para decorar a federação.
+
+156
+00:23:06,720 --> 00:23:12,720
+Não, o município, o Distrito Federal, os Estados Membros, são entre federativos
+
+157
+00:23:12,720 --> 00:23:19,720
+que não se devem imetizar na união e se interim a suas autonomias reconhecidas
+
+158
+00:23:19,720 --> 00:23:30,720
+e exercitadas de acordo com o modelo fotografado, mas ainda não é mudurado a luz da Constituição de 1988.

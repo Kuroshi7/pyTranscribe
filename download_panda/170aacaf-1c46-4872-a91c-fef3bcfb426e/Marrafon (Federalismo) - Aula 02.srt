@@ -1,0 +1,2883 @@
+1
+00:00:00,000 --> 00:00:04,480
+O FEDERALISMO
+
+2
+00:00:04,480 --> 00:00:06,179
+Olá, pessoal, tudo bem?
+
+3
+00:00:06,179 --> 00:00:09,179
+Estamos, então, na nossa segunda aula sobre federalismo,
+
+4
+00:00:09,179 --> 00:00:10,480
+nosso segundo bloco,
+
+5
+00:00:10,480 --> 00:00:12,540
+no curso de Pós-Boscação,
+
+6
+00:00:12,540 --> 00:00:16,740
+é a DEM Diretor Comuncional da Academia Brasileira de Direito Comuncional.
+
+7
+00:00:16,740 --> 00:00:18,519
+Então, nós vimos, no primeiro bloco,
+
+8
+00:00:18,519 --> 00:00:21,960
+que o federalismo ele se manifesta como um princípio estruturante da ordem
+
+9
+00:00:21,960 --> 00:00:23,359
+com ocional brasileira,
+
+10
+00:00:23,359 --> 00:00:26,240
+ele se manifesta como uma clausula petra,
+
+11
+00:00:26,240 --> 00:00:29,900
+ele se manifesta como um processo federativo,
+
+12
+00:00:29,899 --> 00:00:33,320
+também, ele tem uma dimensão sociológica,
+
+13
+00:00:33,320 --> 00:00:35,320
+diminuição das digordades regionais,
+
+14
+00:00:35,320 --> 00:00:37,299
+erradicação da pobreza,
+
+15
+00:00:37,299 --> 00:00:41,859
+buscar preservar a multiplicidade, a diversidade,
+
+16
+00:00:41,859 --> 00:00:46,099
+na unidade, preservar a culturas e dentidades regionais,
+
+17
+00:00:46,099 --> 00:00:48,099
+fazem parte da dimensão sociológica.
+
+18
+00:00:48,099 --> 00:00:50,959
+Também falamos sobre a diferença entre federação,
+
+19
+00:00:50,959 --> 00:00:52,899
+que é a forma modelo de Estado,
+
+20
+00:00:52,899 --> 00:00:55,500
+e o federalismo, como princípio reitor,
+
+21
+00:00:55,500 --> 00:00:57,939
+como um processo que vai se construir,
+
+22
+00:00:57,939 --> 00:00:59,739
+a partir desse princípio reitor.
+
+23
+00:00:59,740 --> 00:01:00,940
+É preciso dizer,
+
+24
+00:01:00,940 --> 00:01:02,380
+comentamos, ao final,
+
+25
+00:01:02,380 --> 00:01:04,840
+acerca de algumas instituições típicas,
+
+26
+00:01:04,840 --> 00:01:08,640
+nós falamos aí sobre a Corte Comuncional,
+
+27
+00:01:08,640 --> 00:01:10,299
+como um Tribunal da Federação,
+
+28
+00:01:10,299 --> 00:01:13,640
+nós sabemos que é uma casa legislativa da Federação Senado,
+
+29
+00:01:13,640 --> 00:01:16,840
+a Corte Comuncional desempenha nosso papel Supremo Tribunal Federal,
+
+30
+00:01:16,840 --> 00:01:19,740
+e também um Parlamento Bicameral Nacional.
+
+31
+00:01:19,740 --> 00:01:22,579
+Essas instituições, elas são importantes,
+
+32
+00:01:22,579 --> 00:01:25,280
+elas são típicas do sistema federativo,
+
+33
+00:01:25,280 --> 00:01:28,540
+mais lógico, elas é as outras atribuições, outras competências,
+
+34
+00:01:28,540 --> 00:01:32,240
+e elas não são, digamos, imprescindíveis.
+
+35
+00:01:32,240 --> 00:01:35,140
+Nós dizemos que nos modelos clássicos de federalismo,
+
+36
+00:01:35,140 --> 00:01:37,540
+elas são importantes, elas são típicas,
+
+37
+00:01:37,540 --> 00:01:40,940
+mas é possível reconstruir modelos alternativos,
+
+38
+00:01:40,940 --> 00:01:43,440
+e que eventualmente você não tenha, por exemplo,
+
+39
+00:01:43,440 --> 00:01:44,939
+um Parlamento Bicameral.
+
+40
+00:01:44,939 --> 00:01:47,440
+Quando se fala de uma Corte da Federação,
+
+41
+00:01:47,440 --> 00:01:49,640
+de uma Corte que cuide um Tribunal,
+
+42
+00:01:49,640 --> 00:01:52,040
+que cuide das patas federativas,
+
+43
+00:01:52,040 --> 00:01:54,640
+a discussão é um pouco diferente,
+
+44
+00:01:54,640 --> 00:01:58,440
+porque vai ver essa especialmente sobre a exclusividade.
+
+45
+00:01:58,439 --> 00:02:04,640
+Nós sabemos que é preciso que haja um Tribunal que cuide das relações entre a União e os Estados Membros,
+
+46
+00:02:04,640 --> 00:02:06,439
+entre os Estados Membros ETC.
+
+47
+00:02:06,439 --> 00:02:09,639
+A pergunta que se faz é se será na forma de uma Corte exclusiva
+
+48
+00:02:09,639 --> 00:02:11,639
+ou de uma Corte que tem outras competências.
+
+49
+00:02:11,639 --> 00:02:15,139
+Então, é sempre necessário que haja. Tá certo?
+
+50
+00:02:15,139 --> 00:02:16,439
+Quando eu falei para vocês,
+
+51
+00:02:16,439 --> 00:02:20,039
+a cerca do federalismo, como um pêndalo, como um processo,
+
+52
+00:02:20,039 --> 00:02:23,639
+nós vamos entender um pouquinho os dois polos desse processo.
+
+53
+00:02:23,639 --> 00:02:25,639
+Nós temos ali, de um lado,
+
+54
+00:02:25,639 --> 00:02:27,639
+os federalismos chamados dualistas,
+
+55
+00:02:27,639 --> 00:02:30,839
+onde se tem a chamada co-soberania.
+
+56
+00:02:30,839 --> 00:02:35,339
+Esse federalismo dualista, então, é marcado por uma descentralização,
+
+57
+00:02:35,339 --> 00:02:36,439
+como se dissesse.
+
+58
+00:02:36,439 --> 00:02:41,539
+Provinces autónomas abdicam de parte do seu autonomia,
+
+59
+00:02:41,539 --> 00:02:45,139
+de sua soberania, entregam a União Federal
+
+60
+00:02:45,139 --> 00:02:48,339
+e preservam grande competência legislativa,
+
+61
+00:02:48,339 --> 00:02:53,139
+grande capacidade de organização administrativa e de auto-governto.
+
+62
+00:02:53,139 --> 00:02:56,939
+Esse é o modelo chamado dualista de co-soberania.
+
+63
+00:02:57,039 --> 00:02:59,840
+Depois, tem um modelo chamado unitarista, centralista,
+
+64
+00:02:59,840 --> 00:03:02,439
+que seria o outro extremo do pêndalo,
+
+65
+00:03:02,439 --> 00:03:04,439
+onde ocorre geralmente o contrário.
+
+66
+00:03:04,439 --> 00:03:06,539
+Se há um federalismo centralista,
+
+67
+00:03:06,539 --> 00:03:11,039
+nós falamos que a União detém grande parte das competências
+
+68
+00:03:11,039 --> 00:03:15,340
+e ela detém grande poder de intervenção sobre os Estados-membros.
+
+69
+00:03:15,340 --> 00:03:17,439
+Quando nós estudamos os modelos americanos,
+
+70
+00:03:17,439 --> 00:03:20,840
+o modelo brasileiro, nós entendemos essa diferença.
+
+71
+00:03:20,840 --> 00:03:23,939
+Vejo, nos Estados Unidos da América, o que eu ouvi,
+
+72
+00:03:24,039 --> 00:03:28,039
+foi a União das Provinces em torno do Pacto federativo,
+
+73
+00:03:28,039 --> 00:03:29,740
+disse isso no bloco anterior.
+
+74
+00:03:29,740 --> 00:03:31,439
+Então eles abdicam de um pedaço,
+
+75
+00:03:31,439 --> 00:03:33,340
+mas preservam uma bunda parte do seu autonomia.
+
+76
+00:03:33,340 --> 00:03:35,639
+O que é dizer, os Estados-membros possuím
+
+77
+00:03:35,639 --> 00:03:41,139
+muito maior poder, muito maior competência e autonomia.
+
+78
+00:03:41,139 --> 00:03:44,939
+No sistema brasileiro, foi uma regime centrifugue,
+
+79
+00:03:44,939 --> 00:03:46,939
+ou seja, a propunião federal,
+
+80
+00:03:46,939 --> 00:03:50,340
+que mostrou que deu essa maior autonomia.
+
+81
+00:03:50,340 --> 00:03:53,439
+Então, historicamente, com o seu voo pra si,
+
+82
+00:03:53,439 --> 00:03:54,840
+maior poder unitário.
+
+83
+00:03:54,840 --> 00:03:56,240
+Então, quando nós estudamos essa uma,
+
+84
+00:03:56,240 --> 00:04:00,240
+deles a gente percebe que a história faz com que os pédulos
+
+85
+00:04:00,240 --> 00:04:01,539
+mudem de um lugar pro outro.
+
+86
+00:04:01,539 --> 00:04:03,039
+Quando nós salamos na corrupção brasileira,
+
+87
+00:04:03,039 --> 00:04:06,439
+em federalismo cooperativo,
+
+88
+00:04:06,439 --> 00:04:08,039
+em virtude das competências comuns,
+
+89
+00:04:08,039 --> 00:04:10,939
+artigo 23, ou das competências concorrentes,
+
+90
+00:04:10,939 --> 00:04:12,740
+artigo 24, especialmente.
+
+91
+00:04:12,740 --> 00:04:15,439
+Então nós temos algo que seria uma oscilação
+
+92
+00:04:15,439 --> 00:04:17,439
+indo pendo em torno do meio tempo.
+
+93
+00:04:17,439 --> 00:04:20,439
+Mas os dois extremos são o federalismo duarista
+
+94
+00:04:20,439 --> 00:04:22,839
+e o federalismo, o paradigma centralista,
+
+95
+00:04:22,839 --> 00:04:26,639
+unitarista, mais calcado na força da união federal.
+
+96
+00:04:26,639 --> 00:04:27,439
+Tá certo?
+
+97
+00:04:27,439 --> 00:04:31,839
+Então vamos compreender como se deu na evolução do modelo americano.
+
+98
+00:04:31,839 --> 00:04:33,439
+Nós temos lá no primeiro momento,
+
+99
+00:04:33,439 --> 00:04:36,439
+o predomino do federalismo duarista,
+
+100
+00:04:36,439 --> 00:04:39,639
+em que a menor centralização, como eu disse,
+
+101
+00:04:39,639 --> 00:04:42,439
+maior autonomia e esse modelo é adequado
+
+102
+00:04:42,439 --> 00:04:44,139
+ao pensamento liberal,
+
+103
+00:04:44,139 --> 00:04:46,540
+porque ele dá grande autonomia para os Estados.
+
+104
+00:04:46,540 --> 00:04:49,040
+E ele não exige um executivo tão forte
+
+105
+00:04:49,040 --> 00:04:50,939
+em um tempero de política públicas.
+
+106
+00:04:50,939 --> 00:04:53,140
+Cada estado membro desenho seu modelo
+
+107
+00:04:53,140 --> 00:04:57,240
+e ele geralmente trabalha com o modelo de maior liberdade
+
+108
+00:04:57,240 --> 00:04:59,140
+em relação aos meios de produção
+
+109
+00:04:59,140 --> 00:05:01,140
+com menor intermincionismo estatal.
+
+110
+00:05:01,140 --> 00:05:03,140
+Tá certo? Então o federalismo duarista
+
+111
+00:05:03,140 --> 00:05:04,840
+combina com a ideologia liberal,
+
+112
+00:05:04,840 --> 00:05:06,140
+maior força, né?
+
+113
+00:05:06,140 --> 00:05:08,540
+E sai, na verdade,
+
+114
+00:05:08,540 --> 00:05:10,640
+nesse momento é um força de atração,
+
+115
+00:05:10,640 --> 00:05:11,840
+sendo feito doado,
+
+116
+00:05:11,840 --> 00:05:14,340
+mas a força maior está fora do centro,
+
+117
+00:05:14,340 --> 00:05:16,140
+mas uma maior força científica.
+
+118
+00:05:16,240 --> 00:05:19,740
+O modelo consagrado pela Constituição de 1787
+
+119
+00:05:19,740 --> 00:05:22,740
+com competência à brangeente dos três poderes,
+
+120
+00:05:22,740 --> 00:05:25,039
+competência pouco à brangeente
+
+121
+00:05:25,039 --> 00:05:27,439
+dos três poderes na esfera federal.
+
+122
+00:05:27,439 --> 00:05:28,439
+Tá certo?
+
+123
+00:05:28,439 --> 00:05:29,639
+Mas também lá,
+
+124
+00:05:29,639 --> 00:05:33,439
+ainda que não houvesse mudança com o chonal texto,
+
+125
+00:05:33,439 --> 00:05:35,439
+mudança com o chonal sub-stancial,
+
+126
+00:05:35,439 --> 00:05:36,740
+nós podemos dizer,
+
+127
+00:05:36,740 --> 00:05:38,539
+também lá no modelo americano
+
+128
+00:05:38,539 --> 00:05:41,539
+houve reinterpretações e o pendulo cila.
+
+129
+00:05:41,539 --> 00:05:42,539
+É isso que eu tenho dito.
+
+130
+00:05:42,539 --> 00:05:44,339
+O federalismo não tem que se entendido
+
+131
+00:05:44,439 --> 00:05:45,739
+com o princípio reitor,
+
+132
+00:05:45,739 --> 00:05:47,139
+não apenas com uma teoria,
+
+133
+00:05:47,139 --> 00:05:50,139
+como o princípio reitor de um processo federativo
+
+134
+00:05:50,139 --> 00:05:52,839
+que o cila de acordo com as dimensões
+
+135
+00:05:52,839 --> 00:05:56,139
+e as necessidades de cada tempo histórico.
+
+136
+00:05:56,139 --> 00:05:57,639
+Então quando a gente chega lá,
+
+137
+00:05:57,639 --> 00:05:59,439
+o New Deal e as reinterpretações
+
+138
+00:05:59,439 --> 00:06:00,139
+da Suprema Corte,
+
+139
+00:06:00,139 --> 00:06:01,139
+o que acontece?
+
+140
+00:06:01,139 --> 00:06:03,939
+Um momento de centralização.
+
+141
+00:06:03,939 --> 00:06:05,639
+Esse momento de centralização,
+
+142
+00:06:05,639 --> 00:06:07,639
+ele vem bem marcado com a chamada lei
+
+143
+00:06:07,639 --> 00:06:09,639
+da recuperação industrial
+
+144
+00:06:09,639 --> 00:06:11,639
+que vai ter algumas características,
+
+145
+00:06:11,639 --> 00:06:13,739
+algumas características muito próprias,
+
+146
+00:06:13,740 --> 00:06:16,240
+a gente vai notar um aumento da autoridade
+
+147
+00:06:16,240 --> 00:06:17,439
+do governo federal,
+
+148
+00:06:17,439 --> 00:06:18,639
+especialmente onde?
+
+149
+00:06:18,639 --> 00:06:20,340
+Na regulamentação do comércio,
+
+150
+00:06:20,340 --> 00:06:21,939
+no poder de tributação,
+
+151
+00:06:21,939 --> 00:06:24,840
+nas políticas de concessão de subvenções
+
+152
+00:06:24,840 --> 00:06:26,840
+que ganham muito maior força,
+
+153
+00:06:26,840 --> 00:06:29,340
+muito maior competência da União Federal.
+
+154
+00:06:29,340 --> 00:06:32,840
+Então nós temos aí o modelo de reinterpretação
+
+155
+00:06:32,840 --> 00:06:35,139
+porque com o New Deal?
+
+156
+00:06:35,139 --> 00:06:35,939
+Ora,
+
+157
+00:06:35,939 --> 00:06:37,540
+quando nós vemos a crise de 29
+
+158
+00:06:37,540 --> 00:06:39,639
+e aí se novo pacto nos Estados Unidos
+
+159
+00:06:39,639 --> 00:06:41,639
+para a realização de políticas públicas
+
+160
+00:06:41,639 --> 00:06:43,439
+em prol de inclusão,
+
+161
+00:06:43,439 --> 00:06:44,439
+nós dizemos,
+
+162
+00:06:44,439 --> 00:06:46,740
+é o momento em que a América se torna
+
+163
+00:06:46,740 --> 00:06:51,339
+uma próxima perspectiva de um estado de Beist social
+
+164
+00:06:51,339 --> 00:06:53,639
+pela via da interpretação da Suprema Corte.
+
+165
+00:06:53,639 --> 00:06:55,040
+Então vamos imaginar,
+
+166
+00:06:55,040 --> 00:06:56,639
+a lei de recuperação industrial,
+
+167
+00:06:56,639 --> 00:06:58,740
+o que que ela trabalha fundamentalmente?
+
+168
+00:06:58,740 --> 00:07:01,240
+Uniformidade nos direitos os trabalhadores,
+
+169
+00:07:01,240 --> 00:07:04,139
+busca de regras com o mundo do comércio,
+
+170
+00:07:04,139 --> 00:07:05,139
+regidas pela União,
+
+171
+00:07:05,139 --> 00:07:08,139
+porque senão haveria muita desigualdade
+
+172
+00:07:08,139 --> 00:07:11,240
+entre estados mais desenvolvidos e estados menos desenvolvidos
+
+173
+00:07:11,340 --> 00:07:14,240
+e isso prejuíde o andamento do comércio
+
+174
+00:07:14,240 --> 00:07:16,139
+da produção industrial em si.
+
+175
+00:07:16,139 --> 00:07:18,340
+Então era necessário, naquele momento,
+
+176
+00:07:18,340 --> 00:07:21,740
+que a intervenção estatal ganhou um papel fundamental
+
+177
+00:07:21,740 --> 00:07:24,540
+na recuperação da economia americana
+
+178
+00:07:24,540 --> 00:07:29,639
+que nós tivéssemos aí o modelo de maior uniformização legislativa
+
+179
+00:07:29,639 --> 00:07:33,139
+e a lei de recuperação industrial vem marcar esse modelo.
+
+180
+00:07:33,139 --> 00:07:33,840
+Tudo bem?
+
+181
+00:07:33,840 --> 00:07:34,639
+No Brasil,
+
+182
+00:07:34,639 --> 00:07:37,340
+também a gente chega esses modelos processamente.
+
+183
+00:07:37,340 --> 00:07:39,240
+Então, um debate federativo no Brasil,
+
+184
+00:07:39,240 --> 00:07:40,840
+ele é um debate federativo,
+
+185
+00:07:40,939 --> 00:07:41,839
+marcado,
+
+186
+00:07:42,639 --> 00:07:45,739
+também pela oscilação entre os pêndulos.
+
+187
+00:07:45,739 --> 00:07:50,039
+Quando a gente chega lá na Constituição nossa carta de 1824,
+
+188
+00:07:50,039 --> 00:07:51,539
+que é a carta otorgada,
+
+189
+00:07:51,539 --> 00:07:53,539
+a gente percebe uma primeira vitória,
+
+190
+00:07:53,539 --> 00:07:55,939
+a chamada vitória do unitarismo,
+
+191
+00:07:55,939 --> 00:07:58,439
+que é consagrado na carta de 1824.
+
+192
+00:07:58,439 --> 00:08:00,439
+Ora, desde antes,
+
+193
+00:08:00,439 --> 00:08:02,939
+desde antes da coração de Dom Pedro,
+
+194
+00:08:02,939 --> 00:08:04,239
+depois uns debates,
+
+195
+00:08:04,239 --> 00:08:05,439
+em 1823,
+
+196
+00:08:05,439 --> 00:08:07,339
+acenso que a da Assembleia Constituinte,
+
+197
+00:08:07,339 --> 00:08:09,339
+havia uma profunda,
+
+198
+00:08:09,439 --> 00:08:10,539
+de cotomia,
+
+199
+00:08:10,539 --> 00:08:14,439
+uma profunda divisão entre duas correntes fundamentais,
+
+200
+00:08:14,439 --> 00:08:16,939
+de um lado centralista, centralizadores,
+
+201
+00:08:16,939 --> 00:08:20,339
+que acreditavam no desenvolvimento via união federal
+
+202
+00:08:20,339 --> 00:08:21,939
+com uma necessidade
+
+203
+00:08:21,939 --> 00:08:24,839
+para manter a unidade do Brasil,
+
+204
+00:08:24,839 --> 00:08:26,239
+para que ele nos tornasse
+
+205
+00:08:26,239 --> 00:08:29,639
+um conjunto de pequenas repúblicas e fragmentadas
+
+206
+00:08:29,639 --> 00:08:30,939
+como correu
+
+207
+00:08:30,939 --> 00:08:33,240
+no resto da América Latina.
+
+208
+00:08:33,240 --> 00:08:34,740
+Essa corrente, especialmente,
+
+209
+00:08:34,740 --> 00:08:36,139
+puxos é boniface.
+
+210
+00:08:36,139 --> 00:08:37,339
+Então, a corrente liderada,
+
+211
+00:08:37,339 --> 00:08:38,839
+por ele já desde a Constituinte,
+
+212
+00:08:38,940 --> 00:08:40,740
+com aquela certumódo vence,
+
+213
+00:08:40,740 --> 00:08:41,740
+essa etapa,
+
+214
+00:08:41,740 --> 00:08:46,240
+com a primeiro coroação de Dom Pedro, 1822,
+
+215
+00:08:46,240 --> 00:08:47,840
+depois, durante todos os debates,
+
+216
+00:08:47,840 --> 00:08:49,240
+constituintes, 23,
+
+217
+00:08:49,240 --> 00:08:52,740
+e, finalmente, com a autora da carta de 1824.
+
+218
+00:08:52,740 --> 00:08:54,240
+Outro lado,
+
+219
+00:08:54,240 --> 00:08:55,639
+do lado dos liberais,
+
+220
+00:08:55,639 --> 00:08:58,940
+defendendo uma monarquia representativa,
+
+221
+00:08:58,940 --> 00:09:00,639
+uma monarquia conchanaude,
+
+222
+00:09:00,639 --> 00:09:02,139
+tipo federalista,
+
+223
+00:09:02,139 --> 00:09:03,340
+seria um caso,
+
+224
+00:09:03,340 --> 00:09:04,540
+Nédito Mundo,
+
+225
+00:09:04,540 --> 00:09:06,240
+de monarquia federalista,
+
+226
+00:09:06,240 --> 00:09:07,740
+nós temos aí,
+
+227
+00:09:07,840 --> 00:09:09,940
+especialmente aquele momento histórico,
+
+228
+00:09:09,940 --> 00:09:11,539
+nós temos aí o modelo,
+
+229
+00:09:11,539 --> 00:09:12,740
+definido por Gonçal,
+
+230
+00:09:12,740 --> 00:09:14,539
+Vizeledo e os Liberais.
+
+231
+00:09:14,539 --> 00:09:15,639
+Qual era a Tese?
+
+232
+00:09:15,639 --> 00:09:16,539
+Ora,
+
+233
+00:09:16,539 --> 00:09:19,639
+ainda há poucos recursos tecnológicos,
+
+234
+00:09:19,639 --> 00:09:22,139
+ainda há pouca possibilidade de avanças
+
+235
+00:09:22,139 --> 00:09:23,539
+nas políticas públicas
+
+236
+00:09:23,539 --> 00:09:25,840
+e o país tem de missão continental.
+
+237
+00:09:25,840 --> 00:09:27,440
+É preciso fortalecer
+
+238
+00:09:27,440 --> 00:09:28,539
+da maior liberdade,
+
+239
+00:09:28,539 --> 00:09:29,340
+de autonomia,
+
+240
+00:09:29,340 --> 00:09:30,440
+auto-governo,
+
+241
+00:09:30,440 --> 00:09:31,440
+alta diminuição
+
+242
+00:09:31,440 --> 00:09:32,840
+e autolejulação
+
+243
+00:09:32,840 --> 00:09:34,440
+para as economias locais,
+
+244
+00:09:34,440 --> 00:09:36,340
+para que nós possamos
+
+245
+00:09:36,440 --> 00:09:38,639
+desenvolver o interior do país.
+
+246
+00:09:38,639 --> 00:09:39,639
+Então, era um modelo
+
+247
+00:09:39,639 --> 00:09:40,639
+intese,
+
+248
+00:09:40,639 --> 00:09:42,139
+mais democratizante
+
+249
+00:09:42,139 --> 00:09:43,139
+com uma força política
+
+250
+00:09:43,139 --> 00:09:44,440
+da participação local.
+
+251
+00:09:44,440 --> 00:09:45,740
+O que nós vemos é que quando
+
+252
+00:09:45,740 --> 00:09:47,540
+isso vem ocorrer em 1891,
+
+253
+00:09:47,540 --> 00:09:48,540
+o que acontece?
+
+254
+00:09:48,540 --> 00:09:49,540
+A
+
+255
+00:09:50,540 --> 00:09:51,740
+a Proclamação da República
+
+256
+00:09:51,740 --> 00:09:52,740
+vai fazer o que é o predomino
+
+257
+00:09:52,740 --> 00:09:54,540
+do coronelismo
+
+258
+00:09:54,540 --> 00:09:56,040
+dos Senhores Fildais,
+
+259
+00:09:56,040 --> 00:09:57,240
+a moda brasileira,
+
+260
+00:09:57,240 --> 00:09:58,040
+como nós dissemos,
+
+261
+00:09:58,040 --> 00:09:58,740
+está certo?
+
+262
+00:09:58,740 --> 00:10:00,540
+Então, a carta de 24
+
+263
+00:10:00,540 --> 00:10:03,040
+foi uma primeira vitória do modelo centralista,
+
+264
+00:10:03,040 --> 00:10:04,240
+ali por Gonçal,
+
+265
+00:10:04,240 --> 00:10:05,740
+é por José Bonifáce,
+
+266
+00:10:05,840 --> 00:10:07,340
+e a corrente que desenvolvia
+
+267
+00:10:07,340 --> 00:10:09,340
+defendia o desenvolvimento baseado
+
+268
+00:10:09,340 --> 00:10:11,340
+nas competências de união federal,
+
+269
+00:10:11,340 --> 00:10:13,740
+onde foram criadas 20 províncias
+
+270
+00:10:13,740 --> 00:10:14,740
+e as funções estatais
+
+271
+00:10:14,740 --> 00:10:15,539
+eram divididas,
+
+272
+00:10:15,539 --> 00:10:16,940
+os poderes eram divididos,
+
+273
+00:10:16,940 --> 00:10:17,440
+em quatro,
+
+274
+00:10:17,440 --> 00:10:18,639
+vocês conhecem muito bem
+
+275
+00:10:18,639 --> 00:10:19,440
+a história,
+
+276
+00:10:19,440 --> 00:10:21,840
+exercutivo, legislativo judiciário,
+
+277
+00:10:21,840 --> 00:10:23,440
+onde o poder moderador
+
+278
+00:10:23,440 --> 00:10:24,639
+representaria aí
+
+279
+00:10:24,639 --> 00:10:25,639
+o ápice
+
+280
+00:10:25,639 --> 00:10:28,639
+da centralização federativa.
+
+281
+00:10:28,639 --> 00:10:29,639
+Tudo bem?
+
+282
+00:10:29,639 --> 00:10:31,240
+Vão mandar o período imperial,
+
+283
+00:10:31,240 --> 00:10:32,740
+a gente verifica, então,
+
+284
+00:10:32,740 --> 00:10:34,440
+que é a instauração da regência,
+
+285
+00:10:34,540 --> 00:10:35,740
+1331,
+
+286
+00:10:35,740 --> 00:10:37,640
+vai promover a possibilidade
+
+287
+00:10:37,640 --> 00:10:38,640
+de um avanço de um projeto
+
+288
+00:10:38,640 --> 00:10:39,940
+mais liberal de nação,
+
+289
+00:10:39,940 --> 00:10:41,940
+ainda que dentro do império.
+
+290
+00:10:41,940 --> 00:10:44,140
+Essa é a grande diferença,
+
+291
+00:10:44,140 --> 00:10:45,940
+essa é a grande característica.
+
+292
+00:10:45,940 --> 00:10:48,140
+E esse avanço do projeto
+
+293
+00:10:48,640 --> 00:10:50,240
+liberal vai levar o quê?
+
+294
+00:10:50,240 --> 00:10:51,140
+Eu disse para vocês,
+
+295
+00:10:51,140 --> 00:10:52,340
+liberalismo,
+
+296
+00:10:52,340 --> 00:10:53,340
+guima
+
+297
+00:10:53,340 --> 00:10:55,540
+com dualismo federativos,
+
+298
+00:10:55,540 --> 00:10:56,540
+combina,
+
+299
+00:10:57,240 --> 00:10:59,740
+relevante guinado por a da decentralização,
+
+300
+00:10:59,740 --> 00:11:02,740
+e o ato adicional de 1834
+
+301
+00:11:03,139 --> 00:11:04,539
+é que vai ser o grande motor
+
+302
+00:11:04,539 --> 00:11:05,740
+dessa diferenciação,
+
+303
+00:11:05,740 --> 00:11:07,740
+no endimotório desse desenvolvimento.
+
+304
+00:11:07,740 --> 00:11:08,740
+Ou seja,
+
+305
+00:11:08,740 --> 00:11:10,039
+mundo nome dos conselhos gerais
+
+306
+00:11:10,039 --> 00:11:12,240
+das províncias para as semblhas legislativas,
+
+307
+00:11:12,240 --> 00:11:13,740
+ó, já muito mais próxima,
+
+308
+00:11:13,740 --> 00:11:14,440
+de estado,
+
+309
+00:11:14,440 --> 00:11:16,340
+e essas semblhas legislativas
+
+310
+00:11:16,340 --> 00:11:19,539
+passaram a deter competência legislativa própria
+
+311
+00:11:19,539 --> 00:11:21,039
+e maior autonomia.
+
+312
+00:11:22,139 --> 00:11:24,340
+Além do controle sobre os municípios
+
+313
+00:11:24,340 --> 00:11:26,139
+e algo muito importante,
+
+314
+00:11:26,139 --> 00:11:27,539
+algo muito importante
+
+315
+00:11:27,539 --> 00:11:29,340
+que vocês não podem perder de vista
+
+316
+00:11:29,340 --> 00:11:31,139
+sobre os cargos judiciários.
+
+317
+00:11:31,139 --> 00:11:32,139
+Na verdade,
+
+318
+00:11:32,139 --> 00:11:34,539
+o contexto de centralização
+
+319
+00:11:34,539 --> 00:11:35,539
+vai surgir a partida
+
+320
+00:11:35,539 --> 00:11:37,240
+na necessidade de formação
+
+321
+00:11:37,240 --> 00:11:38,639
+da justiça federal
+
+322
+00:11:38,639 --> 00:11:40,139
+e também
+
+323
+00:11:40,139 --> 00:11:42,139
+dos códigos,
+
+324
+00:11:42,139 --> 00:11:44,439
+dos códigos nationais de direto
+
+325
+00:11:44,439 --> 00:11:44,939
+aí,
+
+326
+00:11:44,939 --> 00:11:47,139
+porque as competências todos colocadas.
+
+327
+00:11:48,139 --> 00:11:49,139
+Passado, então,
+
+328
+00:11:49,139 --> 00:11:50,340
+a período de
+
+329
+00:11:50,340 --> 00:11:51,840
+da lei da interpretação
+
+330
+00:11:51,840 --> 00:11:54,539
+da dota adicional de 1834,
+
+331
+00:11:54,539 --> 00:11:55,539
+a desculpe,
+
+332
+00:11:55,539 --> 00:11:57,539
+a lei da interpretação de 41,
+
+333
+00:11:57,539 --> 00:11:58,939
+ela vai fazer uma parcial
+
+334
+00:11:58,940 --> 00:12:00,340
+de centralização,
+
+335
+00:12:00,340 --> 00:12:02,140
+onde surge para a gente
+
+336
+00:12:02,140 --> 00:12:03,740
+a figura muito importante
+
+337
+00:12:03,740 --> 00:12:05,940
+dour, desconde do Uruguay,
+
+338
+00:12:05,940 --> 00:12:07,940
+um grande do treinador,
+
+339
+00:12:07,940 --> 00:12:09,540
+do ministrativista,
+
+340
+00:12:09,540 --> 00:12:11,540
+que vai tão defender
+
+341
+00:12:11,540 --> 00:12:12,940
+a necessidade
+
+342
+00:12:12,940 --> 00:12:15,540
+de retomada do desenvolvimento
+
+343
+00:12:15,540 --> 00:12:16,940
+pela centralização,
+
+344
+00:12:16,940 --> 00:12:18,340
+pela via da União,
+
+345
+00:12:18,340 --> 00:12:20,540
+pela unificação do direito administrativo.
+
+346
+00:12:20,540 --> 00:12:22,140
+Então, isso vai abranje-se.
+
+347
+00:12:22,140 --> 00:12:23,140
+Peçamente,
+
+348
+00:12:23,140 --> 00:12:24,740
+a organização do judiciário,
+
+349
+00:12:24,740 --> 00:12:25,740
+ou seja,
+
+350
+00:12:25,740 --> 00:12:27,940
+garantir ao governo central
+
+351
+00:12:27,940 --> 00:12:29,940
+a exclusividade nas decisões
+
+352
+00:12:29,940 --> 00:12:32,340
+sobre empregos gerais
+
+353
+00:12:32,340 --> 00:12:34,340
+e legislais sobre a polícia judiciária.
+
+354
+00:12:34,340 --> 00:12:37,340
+E o escondor Uruguay vai dizer,
+
+355
+00:12:37,340 --> 00:12:38,340
+uma reforma
+
+356
+00:12:38,340 --> 00:12:40,140
+que tem como objetivo
+
+357
+00:12:40,140 --> 00:12:42,040
+impedir que as competências
+
+358
+00:12:42,040 --> 00:12:43,140
+nationais
+
+359
+00:12:43,140 --> 00:12:44,740
+fossem invadidas
+
+360
+00:12:44,740 --> 00:12:47,340
+pelas competências provinciais.
+
+361
+00:12:47,340 --> 00:12:48,340
+Acerto?
+
+362
+00:12:48,340 --> 00:12:52,340
+Então, aí nós temos com a lei da interpretação de 1841,
+
+363
+00:12:52,340 --> 00:12:54,340
+uma nova
+
+364
+00:12:54,340 --> 00:12:56,340
+que nada no Pendo Federalativo
+
+365
+00:12:56,340 --> 00:12:57,940
+em prol da centralização
+
+366
+00:12:57,940 --> 00:13:00,940
+superando aquele momento de abertura
+
+367
+00:13:00,940 --> 00:13:02,340
+da do Dalei,
+
+368
+00:13:02,340 --> 00:13:05,340
+do ato adicional de 1834,
+
+369
+00:13:05,340 --> 00:13:07,139
+no período da Regência.
+
+370
+00:13:07,139 --> 00:13:08,540
+Acerto?
+
+371
+00:13:08,540 --> 00:13:09,540
+E na República?
+
+372
+00:13:09,540 --> 00:13:11,540
+E acontece com a Proclamação da República,
+
+373
+00:13:11,540 --> 00:13:13,139
+a partir de 1879.
+
+374
+00:13:13,139 --> 00:13:14,639
+Uma federativa de Estado foi,
+
+375
+00:13:14,639 --> 00:13:15,940
+eu fiz só mensagem no Brasil,
+
+376
+00:13:15,940 --> 00:13:17,940
+por meio de decreto número 1,
+
+377
+00:13:17,940 --> 00:13:19,340
+de 1889.
+
+378
+00:13:19,340 --> 00:13:21,740
+Olha lá, onde ele programa república,
+
+379
+00:13:21,740 --> 00:13:23,340
+as províncias
+
+380
+00:13:23,340 --> 00:13:26,139
+se transformam em Estados federados
+
+381
+00:13:26,139 --> 00:13:27,939
+e agora nós temos
+
+382
+00:13:27,939 --> 00:13:28,939
+nesses estados,
+
+383
+00:13:28,939 --> 00:13:31,939
+uma parte legítima da soberania.
+
+384
+00:13:31,939 --> 00:13:32,939
+Vejam bem,
+
+385
+00:13:32,939 --> 00:13:33,740
+agora então,
+
+386
+00:13:33,740 --> 00:13:36,240
+a união deu um pedaço de soberania
+
+387
+00:13:36,240 --> 00:13:37,539
+aos estados membros.
+
+388
+00:13:37,539 --> 00:13:38,539
+Está certa?
+
+389
+00:13:38,539 --> 00:13:40,539
+Diferente do modelo americano
+
+390
+00:13:40,539 --> 00:13:42,740
+que dá um pouquinho de sua soberania
+
+391
+00:13:42,740 --> 00:13:43,740
+para o União Federal.
+
+392
+00:13:43,740 --> 00:13:44,740
+Tudo bem?
+
+393
+00:13:44,740 --> 00:13:45,740
+Então vamos lá.
+
+394
+00:13:45,740 --> 00:13:47,139
+A concepção se torna nitidamente
+
+395
+00:13:47,139 --> 00:13:47,740
+estadualista,
+
+396
+00:13:47,740 --> 00:13:48,740
+desde o nome,
+
+397
+00:13:48,740 --> 00:13:49,740
+a inspiração ali,
+
+398
+00:13:49,740 --> 00:13:50,740
+Ruí Barbosa
+
+399
+00:13:50,740 --> 00:13:52,139
+entre outros grandes constolanistas
+
+400
+00:13:52,139 --> 00:13:53,139
+vão buscar
+
+401
+00:13:53,139 --> 00:13:54,539
+uma inspiração
+
+402
+00:13:54,539 --> 00:13:55,740
+fortemente
+
+403
+00:13:56,539 --> 00:13:57,340
+no modelo americano,
+
+404
+00:13:57,340 --> 00:13:58,139
+inclusive no nome,
+
+405
+00:13:58,139 --> 00:13:59,340
+Estados Unidos do Brasil,
+
+406
+00:13:59,340 --> 00:14:01,340
+e o arranjo de forças
+
+407
+00:14:01,340 --> 00:14:02,940
+revela
+
+408
+00:14:02,940 --> 00:14:04,340
+que esse momento
+
+409
+00:14:04,340 --> 00:14:05,539
+da república
+
+410
+00:14:05,539 --> 00:14:07,139
+de formação da república
+
+411
+00:14:07,139 --> 00:14:08,940
+e do novo federalismo dualista,
+
+412
+00:14:08,940 --> 00:14:10,740
+ele não é o momento de viupitura
+
+413
+00:14:10,740 --> 00:14:11,740
+propriamente dito.
+
+414
+00:14:11,740 --> 00:14:13,940
+A república já vinha esse legitimano
+
+415
+00:14:13,940 --> 00:14:14,940
+com a própria crise
+
+416
+00:14:14,940 --> 00:14:18,139
+da centralização de 1841.
+
+417
+00:14:18,139 --> 00:14:18,940
+Está certo?
+
+418
+00:14:18,940 --> 00:14:20,740
+Então, essa algumas interpretações
+
+419
+00:14:20,740 --> 00:14:21,539
+é uma sessore.
+
+420
+00:14:21,539 --> 00:14:24,340
+E a dinâmica então do federano brasileiro
+
+421
+00:14:24,340 --> 00:14:25,940
+a partir de 1841,
+
+422
+00:14:25,940 --> 00:14:27,940
+ela segue algumas regras de oscilação
+
+423
+00:14:27,940 --> 00:14:30,340
+dos pédulos federativos.
+
+424
+00:14:30,340 --> 00:14:31,340
+Está bem?
+
+425
+00:14:31,340 --> 00:14:32,340
+Vamos lá.
+
+426
+00:14:32,340 --> 00:14:34,340
+Carta de 1891.
+
+427
+00:14:34,340 --> 00:14:35,340
+E se para você ler nisso,
+
+428
+00:14:35,340 --> 00:14:36,340
+Basas históricas,
+
+429
+00:14:36,340 --> 00:14:36,940
+também,
+
+430
+00:14:36,940 --> 00:14:37,940
+entendendo as bases históricas.
+
+431
+00:14:37,940 --> 00:14:39,940
+Instuição do sistema presidencialismo
+
+432
+00:14:39,940 --> 00:14:40,940
+de governo
+
+433
+00:14:40,940 --> 00:14:42,940
+Parlamento Bicameral
+
+434
+00:14:42,940 --> 00:14:44,940
+o repartição horizontal
+
+435
+00:14:44,940 --> 00:14:45,940
+em três poderes
+
+436
+00:14:45,940 --> 00:14:48,340
+de diárias e cultivo legislativo
+
+437
+00:14:48,340 --> 00:14:49,340
+independente
+
+438
+00:14:49,340 --> 00:14:51,139
+e pondo fim,
+
+439
+00:14:51,139 --> 00:14:52,139
+uma vez por todas,
+
+440
+00:14:52,139 --> 00:14:53,940
+eu sou chamado poder moderador,
+
+441
+00:14:53,940 --> 00:14:55,540
+essa caixa de 1891.
+
+442
+00:14:55,540 --> 00:14:57,740
+Ela trabalha com uma forte descentralização
+
+443
+00:14:57,740 --> 00:14:59,340
+e autonomia dos Estados.
+
+444
+00:14:59,340 --> 00:15:01,340
+E agora, os Estados
+
+445
+00:15:01,340 --> 00:15:02,740
+são fiadores
+
+446
+00:15:02,740 --> 00:15:05,140
+da autonomia dos municípios.
+
+447
+00:15:05,140 --> 00:15:05,640
+Bem,
+
+448
+00:15:05,640 --> 00:15:07,540
+então, essa é uma diferença fundamental
+
+449
+00:15:07,540 --> 00:15:08,940
+a cabo poder moderador,
+
+450
+00:15:08,940 --> 00:15:10,740
+então isso vai levar o quê?
+
+451
+00:15:10,740 --> 00:15:13,140
+Mora força das elites locais.
+
+452
+00:15:13,140 --> 00:15:14,340
+Já viam
+
+453
+00:15:15,340 --> 00:15:16,740
+trazendo o pêndulo
+
+454
+00:15:16,740 --> 00:15:19,340
+do federalismo estadualista.
+
+455
+00:15:19,340 --> 00:15:20,340
+Está certo?
+
+456
+00:15:20,340 --> 00:15:21,740
+Acontece.
+
+457
+00:15:21,740 --> 00:15:22,940
+Nós temos aí
+
+458
+00:15:22,940 --> 00:15:25,140
+uma situação histórica muito
+
+459
+00:15:25,140 --> 00:15:27,340
+complicada na República Vela.
+
+460
+00:15:27,340 --> 00:15:28,740
+O Azelites Coloniais,
+
+461
+00:15:28,740 --> 00:15:29,740
+a gente tem um modelo
+
+462
+00:15:29,740 --> 00:15:30,540
+no Brasil
+
+463
+00:15:30,540 --> 00:15:31,940
+em que o liberalismo
+
+464
+00:15:31,940 --> 00:15:33,740
+defendia esse cravidão.
+
+465
+00:15:33,740 --> 00:15:34,540
+Então, os liberais
+
+466
+00:15:34,540 --> 00:15:35,540
+não estão liberais
+
+467
+00:15:35,540 --> 00:15:37,340
+na forma propriamente dita.
+
+468
+00:15:37,340 --> 00:15:39,340
+Então, era um jogo muito forte
+
+469
+00:15:39,340 --> 00:15:40,540
+de interesses
+
+470
+00:15:40,540 --> 00:15:42,540
+que se concentrou das elites coloniais
+
+471
+00:15:42,540 --> 00:15:43,740
+aí dos grandes Estados.
+
+472
+00:15:43,740 --> 00:15:44,540
+Nós sempre falamos
+
+473
+00:15:44,540 --> 00:15:45,740
+do café com et
+
+474
+00:15:45,740 --> 00:15:46,540
+com São Paulo
+
+475
+00:15:46,540 --> 00:15:47,540
+e minas gerais
+
+476
+00:15:47,540 --> 00:15:48,540
+mais Rio de Janeiro,
+
+477
+00:15:48,540 --> 00:15:49,740
+o Pernambuco
+
+478
+00:15:49,740 --> 00:15:50,740
+e o Grande do Sul,
+
+479
+00:15:50,740 --> 00:15:52,340
+Estados importantes
+
+480
+00:15:52,340 --> 00:15:53,540
+na construção
+
+481
+00:15:53,540 --> 00:15:55,540
+desse debate das elites coloniais
+
+482
+00:15:55,540 --> 00:15:57,740
+que se fortalecem com a República
+
+483
+00:15:57,740 --> 00:15:59,740
+e já viam acontecendo
+
+484
+00:15:59,740 --> 00:16:01,139
+desde o final do Império.
+
+485
+00:16:01,139 --> 00:16:02,139
+E esse modelo,
+
+486
+00:16:02,139 --> 00:16:03,740
+então, ele vai ser superado
+
+487
+00:16:03,740 --> 00:16:05,139
+por um novo momento de
+
+488
+00:16:05,139 --> 00:16:07,139
+re-centralização.
+
+489
+00:16:07,139 --> 00:16:08,540
+Onde a aliança
+
+490
+00:16:08,540 --> 00:16:09,940
+que vai levagem de Tulho
+
+491
+00:16:09,940 --> 00:16:11,139
+vai agasar o poder
+
+492
+00:16:11,139 --> 00:16:12,139
+é uma aliança
+
+493
+00:16:12,139 --> 00:16:13,540
+com tintas,
+
+494
+00:16:13,540 --> 00:16:15,340
+nitidamente centralistas
+
+495
+00:16:15,340 --> 00:16:16,139
+que acabam
+
+496
+00:16:16,139 --> 00:16:17,740
+com o modelo da República Vela
+
+497
+00:16:17,740 --> 00:16:18,740
+e baseando autores
+
+498
+00:16:18,740 --> 00:16:19,940
+como Oliveira-Viana
+
+499
+00:16:19,940 --> 00:16:20,740
+mais tarde,
+
+500
+00:16:20,740 --> 00:16:21,740
+na carta de mil
+
+501
+00:16:21,740 --> 00:16:23,139
+937
+
+502
+00:16:23,139 --> 00:16:25,340
+com o Francisco Campos
+
+503
+00:16:25,340 --> 00:16:26,539
+vão buscar o que?
+
+504
+00:16:26,539 --> 00:16:28,340
+Um modelo de desenvolvimento
+
+505
+00:16:28,340 --> 00:16:29,139
+pelo alto,
+
+506
+00:16:29,139 --> 00:16:30,139
+pelo estado
+
+507
+00:16:30,139 --> 00:16:32,940
+onde é uma certa autórgula de direitos sociais
+
+508
+00:16:32,940 --> 00:16:35,139
+não propriamente a construção democrática
+
+509
+00:16:35,139 --> 00:16:36,539
+destas direitos sociais.
+
+510
+00:16:36,539 --> 00:16:37,539
+Tudo bem?
+
+511
+00:16:37,539 --> 00:16:38,340
+Então, com vagas
+
+512
+00:16:38,340 --> 00:16:38,940
+um poder,
+
+513
+00:16:38,940 --> 00:16:41,940
+nós temos téssis que propõem o desenvolvimento pelo alto,
+
+514
+00:16:41,940 --> 00:16:43,340
+o predominio
+
+515
+00:16:43,340 --> 00:16:46,740
+de políticos para o desenvolvimento industrial do país
+
+516
+00:16:46,740 --> 00:16:50,139
+e a autórgula de direitos sociais a partir do governo central.
+
+517
+00:16:50,139 --> 00:16:51,340
+Acabei de dizer
+
+518
+00:16:51,340 --> 00:16:52,940
+também, na carta 37
+
+519
+00:16:52,940 --> 00:16:54,540
+autorgada é autoritária
+
+520
+00:16:54,540 --> 00:16:57,740
+instaurou o federalismo meramente nominal
+
+521
+00:16:57,740 --> 00:17:01,139
+com o amplo domínio político-institucional do poder executivo da união
+
+522
+00:17:01,139 --> 00:17:02,940
+vai, gasa, ainda faz uma outra jogada
+
+523
+00:17:02,940 --> 00:17:04,940
+ele enfraquece o poder dos estados
+
+524
+00:17:04,940 --> 00:17:07,539
+estabelece um diálogo direto da união
+
+525
+00:17:07,539 --> 00:17:09,340
+com os municípios
+
+526
+00:17:09,340 --> 00:17:10,340
+está certo?
+
+527
+00:17:10,340 --> 00:17:12,140
+Então, o federalismo nominal
+
+528
+00:17:12,140 --> 00:17:15,140
+há hoje de centralização na carta de 37
+
+529
+00:17:15,140 --> 00:17:16,940
+na carta de mil e o 691
+
+530
+00:17:16,940 --> 00:17:19,340
+nós tivemos um modelo descentralizado
+
+531
+00:17:19,339 --> 00:17:21,939
+próximo ao dualismo americano
+
+532
+00:17:21,939 --> 00:17:23,539
+agora o pêndulo
+
+533
+00:17:23,539 --> 00:17:25,939
+oucila para o centralismo.
+
+534
+00:17:25,939 --> 00:17:26,939
+Bom?
+
+535
+00:17:26,939 --> 00:17:30,740
+E aí, do centralismo começa a voltar o pêndulo
+
+536
+00:17:30,740 --> 00:17:33,539
+para a descentralização.
+
+537
+00:17:33,539 --> 00:17:37,139
+Essa descentralização, em do corre, de maneira muito tímina,
+
+538
+00:17:37,139 --> 00:17:38,339
+muito parcial
+
+539
+00:17:38,339 --> 00:17:41,139
+na carta de 1946.
+
+540
+00:17:41,139 --> 00:17:42,539
+Então, a carta de 46,
+
+541
+00:17:42,539 --> 00:17:44,939
+ela resgata algumas das liberais,
+
+542
+00:17:44,939 --> 00:17:46,339
+especialmente no que torne
+
+543
+00:17:46,339 --> 00:17:49,139
+ao proteção dos direitos individuais,
+
+544
+00:17:49,140 --> 00:17:51,940
+as garantias fundamentais devido o processo
+
+545
+00:17:51,940 --> 00:17:53,940
+ela é uma carta cidadã também
+
+546
+00:17:53,940 --> 00:17:56,540
+ela vai estar no contexto do Pós-Gerro
+
+547
+00:17:56,540 --> 00:17:58,140
+olha o período histórico
+
+548
+00:17:58,140 --> 00:18:01,940
+onde se busca preservar direitos sociais
+
+549
+00:18:01,940 --> 00:18:03,940
+sem recair em fascismo
+
+550
+00:18:03,940 --> 00:18:05,740
+como ocorreu depois nas cartas democráticas
+
+551
+00:18:05,740 --> 00:18:07,340
+da Alemanha do Pós-Gerro
+
+552
+00:18:07,340 --> 00:18:08,940
+da Itália do Pós-Gerro
+
+553
+00:18:08,940 --> 00:18:11,740
+então ela tenta conciliar esse modelo
+
+554
+00:18:11,740 --> 00:18:13,940
+é uma carta muito avançada para a sua época
+
+555
+00:18:13,940 --> 00:18:16,540
+anteriores cartas europeias do Pós-Gerro
+
+556
+00:18:16,539 --> 00:18:19,139
+em que ela vai conciliar
+
+557
+00:18:19,139 --> 00:18:20,539
+direito sociais de um lado
+
+558
+00:18:20,539 --> 00:18:22,539
+e preservação dos direitos individuais
+
+559
+00:18:22,539 --> 00:18:24,940
+e esse resgate das ideias do liberalismo
+
+560
+00:18:24,940 --> 00:18:28,539
+vai promover um retorno do pêndulo federativo
+
+561
+00:18:28,539 --> 00:18:33,139
+para o modelo um pouco mais dualista
+
+562
+00:18:33,139 --> 00:18:35,139
+e autonomia dos Estados.
+
+563
+00:18:35,139 --> 00:18:37,339
+Então ela confirma o princípio federativo
+
+564
+00:18:37,339 --> 00:18:38,940
+ela deixa de ser um princípio federativo
+
+565
+00:18:38,940 --> 00:18:40,139
+meramente nominal
+
+566
+00:18:40,139 --> 00:18:42,339
+estabelece competência da união
+
+567
+00:18:42,339 --> 00:18:43,740
+que ainda são amplas
+
+568
+00:18:43,740 --> 00:18:45,740
+e recupera competência residual
+
+569
+00:18:45,740 --> 00:18:47,539
+o remanescente dos Estados-membros
+
+570
+00:18:47,539 --> 00:18:50,539
+reforçando a sua autonomia.
+
+571
+00:18:50,539 --> 00:18:52,740
+Então ele reforça autonomia,
+
+572
+00:18:52,740 --> 00:18:54,539
+autorgonização, autoriligilação
+
+573
+00:18:54,539 --> 00:18:56,539
+dos Estados-membros.
+
+574
+00:18:56,539 --> 00:18:58,940
+Mantenha o sistema de competência com corretes
+
+575
+00:18:58,940 --> 00:19:00,539
+então ponto importante
+
+576
+00:19:00,539 --> 00:19:02,940
+e promove relevantes transferências.
+
+577
+00:19:02,940 --> 00:19:05,140
+Isso aqui é um grande fiador da autonomia
+
+578
+00:19:05,140 --> 00:19:06,539
+quando falamos em federalismo
+
+579
+00:19:06,539 --> 00:19:07,539
+nós temos que lembrar
+
+580
+00:19:07,539 --> 00:19:09,539
+desse item que está colocado aqui
+
+581
+00:19:09,539 --> 00:19:11,539
+transferência de receitos da união
+
+582
+00:19:11,539 --> 00:19:13,039
+para os Estados
+
+583
+00:19:13,139 --> 00:19:16,139
+está certo vinculando essas receitos
+
+584
+00:19:16,139 --> 00:19:18,139
+então agora essa vinculação
+
+585
+00:19:18,139 --> 00:19:19,639
+de transferência de receitos
+
+586
+00:19:19,639 --> 00:19:23,139
+ela fortalece autonomia dos Estados.
+
+587
+00:19:23,139 --> 00:19:25,339
+Com golpe militar de 64
+
+588
+00:19:25,339 --> 00:19:26,839
+vocês imagem o dia acontece
+
+589
+00:19:26,839 --> 00:19:28,039
+aquilo que vinha desenhando
+
+590
+00:19:28,039 --> 00:19:29,639
+por centros de uma perspectiva mais
+
+591
+00:19:29,639 --> 00:19:31,139
+cooperativa equilibrada
+
+592
+00:19:31,139 --> 00:19:33,339
+volta de novo, autoritarismo
+
+593
+00:19:33,339 --> 00:19:34,940
+volta de novo
+
+594
+00:19:34,940 --> 00:19:37,139
+para a centralização da união
+
+595
+00:19:37,139 --> 00:19:39,240
+então golpe de 64
+
+596
+00:19:39,240 --> 00:19:42,539
+faz com que se percam os ideais federalistas
+
+597
+00:19:42,539 --> 00:19:44,339
+os ideais democratas
+
+598
+00:19:44,339 --> 00:19:47,039
+nova centralização efetivada
+
+599
+00:19:47,039 --> 00:19:48,539
+inicialmente por meio dos chamados
+
+600
+00:19:48,539 --> 00:19:50,339
+atos institucionais
+
+601
+00:19:50,339 --> 00:19:53,039
+e em especial o ato institucional
+
+602
+00:19:53,039 --> 00:19:54,240
+número 2
+
+603
+00:19:54,240 --> 00:19:55,440
+ato institucional
+
+604
+00:19:55,440 --> 00:19:57,839
+que expande fortemente
+
+605
+00:19:57,839 --> 00:19:58,940
+um TV sonidos federal
+
+606
+00:19:58,940 --> 00:20:00,740
+recomendo que vocês busquem
+
+607
+00:20:00,740 --> 00:20:02,839
+no internet, busquem fazer pesquisas
+
+608
+00:20:02,839 --> 00:20:04,440
+e dem uma lida no ato institucional
+
+609
+00:20:04,440 --> 00:20:05,139
+número 2
+
+610
+00:20:05,139 --> 00:20:06,740
+ele é um ato absolutamente
+
+611
+00:20:06,740 --> 00:20:08,440
+anti-federativo com forte
+
+612
+00:20:08,440 --> 00:20:09,940
+possibilidade de expansão
+
+613
+00:20:09,940 --> 00:20:11,839
+das questões da possibilidade
+
+614
+00:20:11,839 --> 00:20:12,839
+de intervenção federal
+
+615
+00:20:12,839 --> 00:20:13,839
+tá bom?
+
+616
+00:20:13,839 --> 00:20:16,639
+e com o advendo da redemocratização
+
+617
+00:20:16,639 --> 00:20:18,139
+todo o processo que vocês conhecem
+
+618
+00:20:18,139 --> 00:20:19,339
+diretas já
+
+619
+00:20:19,339 --> 00:20:21,139
+leição indireta, tancredo
+
+620
+00:20:21,139 --> 00:20:23,139
+pois sadeco, vocação
+
+621
+00:20:23,139 --> 00:20:24,639
+a sembrar é constituinte
+
+622
+00:20:24,639 --> 00:20:26,639
+o pendulo começa então a voltar
+
+623
+00:20:26,639 --> 00:20:28,139
+para a decentralização
+
+624
+00:20:28,139 --> 00:20:29,639
+para a decentralização
+
+625
+00:20:29,639 --> 00:20:31,539
+a partir da carta democrática
+
+626
+00:20:31,539 --> 00:20:32,639
+cidadã
+
+627
+00:20:32,639 --> 00:20:35,139
+que é a nossa construção de 1986
+
+628
+00:20:35,139 --> 00:20:35,939
+é certo
+
+629
+00:20:35,939 --> 00:20:37,139
+e essa construção
+
+630
+00:20:37,139 --> 00:20:38,839
+ela vai estabelecer algumas regras
+
+631
+00:20:38,839 --> 00:20:40,039
+fundamentais
+
+632
+00:20:40,039 --> 00:20:41,139
+como vocês sabem
+
+633
+00:20:41,140 --> 00:20:42,940
+o não com significativa
+
+634
+00:20:42,940 --> 00:20:44,540
+a branjeia de competências
+
+635
+00:20:44,540 --> 00:20:46,240
+competências geral exclusivas
+
+636
+00:20:46,240 --> 00:20:47,840
+lá no artigo 21
+
+637
+00:20:47,840 --> 00:20:50,040
+competência legislativa privativa
+
+638
+00:20:50,040 --> 00:20:51,240
+vocês conhecem também bem
+
+639
+00:20:51,240 --> 00:20:52,240
+no 22
+
+640
+00:20:52,240 --> 00:20:53,740
+as competências comuns
+
+641
+00:20:53,740 --> 00:20:54,740
+no 23
+
+642
+00:20:54,740 --> 00:20:56,340
+e as competências concurrentes
+
+643
+00:20:56,340 --> 00:20:58,140
+no artigo 24
+
+644
+00:20:58,140 --> 00:20:58,740
+é certo?
+
+645
+00:20:58,740 --> 00:21:00,740
+esse quadro
+
+646
+00:21:00,740 --> 00:21:03,040
+montado a partir da união
+
+647
+00:21:03,040 --> 00:21:04,940
+depois vai gerar uma série de
+
+648
+00:21:04,940 --> 00:21:07,240
+consequências para que nós possamos
+
+649
+00:21:07,240 --> 00:21:08,640
+compreender melhor
+
+650
+00:21:08,640 --> 00:21:09,840
+como se desenvolve
+
+651
+00:21:09,840 --> 00:21:11,040
+essa dinâmica de
+
+652
+00:21:11,039 --> 00:21:12,740
+centralização e autonomia
+
+653
+00:21:12,740 --> 00:21:14,339
+por hora a gente pode dizer
+
+654
+00:21:14,339 --> 00:21:15,240
+ainda
+
+655
+00:21:15,240 --> 00:21:16,839
+falando das competências da união
+
+656
+00:21:16,839 --> 00:21:18,839
+veja o que a senão é a aula de competências
+
+657
+00:21:18,839 --> 00:21:20,839
+não vamos discutir profundamente
+
+658
+00:21:20,839 --> 00:21:23,339
+estamos debatendo teoricamente federalismo
+
+659
+00:21:23,339 --> 00:21:26,039
+ainda algumas questões importantes
+
+660
+00:21:26,039 --> 00:21:28,339
+como a competência legislativa tributária
+
+661
+00:21:28,339 --> 00:21:30,339
+nos impostos de sua titularidade
+
+662
+00:21:30,339 --> 00:21:31,839
+desde
+
+663
+00:21:31,839 --> 00:21:34,139
+posto de exportação e posto de importação
+
+664
+00:21:34,139 --> 00:21:36,039
+e posto de renda e PI
+
+665
+00:21:36,039 --> 00:21:38,240
+e o F e T R G F
+
+666
+00:21:38,240 --> 00:21:39,339
+grandes fortunas
+
+667
+00:21:39,339 --> 00:21:40,639
+como está posto lá no artigo
+
+668
+00:21:40,640 --> 00:21:42,040
+em 153
+
+669
+00:21:42,040 --> 00:21:43,040
+a união também
+
+670
+00:21:43,040 --> 00:21:45,440
+detém o que a competência residual
+
+671
+00:21:45,440 --> 00:21:47,540
+para instituir impostos nos previsto
+
+672
+00:21:47,540 --> 00:21:48,640
+na fama do artigo
+
+673
+00:21:48,640 --> 00:21:50,140
+145
+
+674
+00:21:50,140 --> 00:21:51,940
+aqui lembre-se sempre
+
+675
+00:21:51,940 --> 00:21:53,940
+quando se trata
+
+676
+00:21:53,940 --> 00:21:56,640
+de competências gerais
+
+677
+00:21:56,640 --> 00:21:57,840
+a competência residual é
+
+678
+00:21:57,840 --> 00:22:00,140
+dois estados no parcial
+
+679
+00:22:00,140 --> 00:22:01,440
+de centralização
+
+680
+00:22:01,440 --> 00:22:02,940
+quando se trata
+
+681
+00:22:02,940 --> 00:22:04,940
+competência e matéria tributária
+
+682
+00:22:04,940 --> 00:22:06,640
+a competência residual
+
+683
+00:22:06,640 --> 00:22:08,640
+por força do artigo 145
+
+684
+00:22:08,640 --> 00:22:09,640
+como está posto
+
+685
+00:22:09,640 --> 00:22:10,640
+é da união federal
+
+686
+00:22:10,640 --> 00:22:11,640
+então pessoal
+
+687
+00:22:11,640 --> 00:22:13,640
+quando nós pensamos
+
+688
+00:22:13,640 --> 00:22:16,640
+de autoritarismo da carta de 64
+
+689
+00:22:16,640 --> 00:22:18,640
+do golpe de 64
+
+690
+00:22:18,640 --> 00:22:20,640
+da carta de meia 7 com a menina de 9
+
+691
+00:22:20,640 --> 00:22:22,640
+e centralização
+
+692
+00:22:22,640 --> 00:22:23,640
+a carta de 38
+
+693
+00:22:23,640 --> 00:22:25,640
+ela faz o movimento
+
+694
+00:22:25,640 --> 00:22:27,140
+de maior autonomia
+
+695
+00:22:27,140 --> 00:22:28,640
+estabelecendo os canos
+
+696
+00:22:28,640 --> 00:22:29,640
+que nós podemos chamar do federalismo
+
+697
+00:22:29,640 --> 00:22:31,640
+o cooperativo em teoria
+
+698
+00:22:31,640 --> 00:22:33,640
+preservando o raul de competências fortes
+
+699
+00:22:33,640 --> 00:22:34,640
+da união
+
+700
+00:22:34,640 --> 00:22:35,640
+artigo 21
+
+701
+00:22:35,640 --> 00:22:36,640
+no artigo 22
+
+702
+00:22:36,640 --> 00:22:38,640
+as competências comuns
+
+703
+00:22:38,640 --> 00:22:39,640
+no 23
+
+704
+00:22:39,640 --> 00:22:40,640
+no 24
+
+705
+00:22:40,640 --> 00:22:41,640
+das concorrentes
+
+706
+00:22:41,640 --> 00:22:42,640
+e reservando para si
+
+707
+00:22:42,640 --> 00:22:44,640
+as competências residuals
+
+708
+00:22:44,640 --> 00:22:45,640
+e matéria tributária
+
+709
+00:22:45,640 --> 00:22:47,640
+por força do artigo 145
+
+710
+00:22:47,640 --> 00:22:49,640
+então é sobre esse arquétipo
+
+711
+00:22:49,640 --> 00:22:51,640
+que já no próximo bloco
+
+712
+00:22:51,640 --> 00:22:52,640
+nós falaremos
+
+713
+00:22:52,640 --> 00:22:54,640
+sobre a dinâmica entre
+
+714
+00:22:54,640 --> 00:22:55,640
+de centralização
+
+715
+00:22:55,640 --> 00:22:56,640
+e centralização
+
+716
+00:22:56,640 --> 00:22:57,640
+e a posição atual dos
+
+717
+00:22:57,640 --> 00:22:59,640
+pré-muntivos de uma federal
+
+718
+00:22:59,640 --> 00:23:00,640
+no contexto da carta
+
+719
+00:23:00,640 --> 00:23:03,640
+constitucional de 1980
+
+720
+00:23:03,640 --> 00:23:05,640
+bem?
+
+721
+00:23:05,640 --> 00:23:07,640
+Até o próximo bloco!

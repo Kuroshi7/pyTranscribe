@@ -1,0 +1,959 @@
+1
+00:00:00,000 --> 00:00:06,120
+Olá pessoal, tudo bem?
+
+2
+00:00:06,120 --> 00:00:09,439
+Vamos adiante, vamos falar ainda sobre a República.
+
+3
+00:00:09,439 --> 00:00:13,700
+Lá na aula passada, a gente trabalhou a República numa perspectiva mais introduutória,
+
+4
+00:00:13,700 --> 00:00:21,379
+mais conceitual, destacando o primeiro conceito e tentando contrapor a República a monarquia.
+
+5
+00:00:21,379 --> 00:00:27,940
+Até porque você vai recordar, eu falei para você que a República é uma forma de governo
+
+6
+00:00:27,940 --> 00:00:32,780
+contra a posta a monarquia, você pode resgatar essa ideia na sua tela, acompanha e com
+
+7
+00:00:32,780 --> 00:00:33,780
+migo.
+
+8
+00:00:33,780 --> 00:00:38,760
+A República é uma forma de governo contra a posta a monarquia fundada na igualdade, destaque
+
+9
+00:00:38,760 --> 00:00:44,600
+para ela, entre as pessoas, na qual os detentores do poder político exercem no encarater elitivo,
+
+10
+00:00:44,600 --> 00:00:48,299
+representativo, transitório e com responsabilidade.
+
+11
+00:00:48,299 --> 00:00:54,700
+Você pode notar que alguns desses elementos conceituais já apareceram nas características
+
+12
+00:00:54,700 --> 00:00:57,500
+que a gente delimitou lá no final da aula.
+
+13
+00:00:57,500 --> 00:01:02,679
+Porque eu posso ter falado sobre as características das monarquias, eu falei sobre as características
+
+14
+00:01:02,679 --> 00:01:03,679
+da República.
+
+15
+00:01:03,679 --> 00:01:09,620
+E aí ficou, tanto quanto demonstrada, a contribuição, veja só aí na tela novamente.
+
+16
+00:01:09,620 --> 00:01:15,560
+Se as monarquias são vitalícias, as repúblicas são temporárias, há um mandato.
+
+17
+00:01:15,560 --> 00:01:22,519
+Se nas monarquias, vídeo princípio da hereditariedade nas repúblicas, a máxima é a da eletividade,
+
+18
+00:01:22,519 --> 00:01:25,920
+nas monarquias, aí, responsabilidade política.
+
+19
+00:01:25,920 --> 00:01:31,000
+Agora nas repúblicas, justamente há responsabilidade política.
+
+20
+00:01:31,000 --> 00:01:37,820
+E aí eu não posso deixar de falar rapidamente sobre o impeachment, que é a melhor forma de
+
+21
+00:01:37,820 --> 00:01:43,680
+responsabilizar politicamente aquele chefe do poder executivo, por exemplo, que deixa de
+
+22
+00:01:43,680 --> 00:01:49,840
+atentar para os princípios republicanos, por exemplo, e eu estou generalizando o artigo
+
+23
+00:01:49,840 --> 00:01:55,280
+85 da Constituição, fala que é crime de responsabilidade do presidente da República,
+
+24
+00:01:55,280 --> 00:02:00,359
+tentar contra a Constituição, tentar contra a existência da União, tentar contra o
+
+25
+00:02:00,359 --> 00:02:04,920
+livre exercício do poder legislativo, do poder judiciário, do ministério público,
+
+26
+00:02:04,920 --> 00:02:10,599
+tentar contra os direitos individuais, políticos e sociais, tentar também contra a segurança
+
+27
+00:02:10,599 --> 00:02:17,400
+interna do país, tentar contra a probabilidade na administração, o orçamento e as leis
+
+28
+00:02:17,400 --> 00:02:19,000
+e decisões judiciais.
+
+29
+00:02:19,000 --> 00:02:24,759
+Então, quando a gente pega também para analisar com carinho, esse artigo 85, a gente consegue
+
+30
+00:02:24,759 --> 00:02:29,039
+extrair dele uma preocupação com a lógica republicana.
+
+31
+00:02:29,039 --> 00:02:35,719
+Sim, quando eu falo que é crime de responsabilidade, tentar contra os direitos individuais,
+
+32
+00:02:35,719 --> 00:02:41,879
+políticos e sociais, de certa forma, eu estou fazendo uma homenagem à República, porque
+
+33
+00:02:41,879 --> 00:02:47,799
+não vamos esquecer, nós somos todos integrantes de uma mesma comunidade e aquele que exerce
+
+34
+00:02:47,799 --> 00:02:53,759
+o poder, exerce por concessão nossa, não por algum direitário como é na soberania.
+
+35
+00:02:53,759 --> 00:03:00,959
+Então, ele deve sim obediência aos compromissos que eu colocaram lá, quer dizer então,
+
+36
+00:03:00,959 --> 00:03:05,799
+ele deve cuidar do bem-estar da sociedade, inclusive, lá no juramento que o presidente
+
+37
+00:03:05,799 --> 00:03:12,359
+faz ao assumir consta que ele deve jurar guardar aí obediência a construição e promover
+
+38
+00:03:12,359 --> 00:03:17,280
+o bem do povo, bem que só se faz na medida em que é dado ao povo o direito individual,
+
+39
+00:03:17,280 --> 00:03:19,239
+político e social, por exemplo.
+
+40
+00:03:19,240 --> 00:03:25,560
+Agora, fechando parentes, a gente pode ir um pouco adiante e a gente pode falar que
+
+41
+00:03:25,560 --> 00:03:32,040
+complementando, de certa forma, essas características, a gente tem outras, acompanhei comigo na tela.
+
+42
+00:03:32,040 --> 00:03:39,840
+Veja lá, a República é fundada na igualdade formal entre as pessoas, numa República não
+
+43
+00:03:39,840 --> 00:03:49,200
+pode haver distinções naturalmente, inclusive quando a construição de 1891 foi criada,
+
+44
+00:03:49,199 --> 00:03:52,719
+ela acabou com todos os privilégios de nobreza.
+
+45
+00:03:52,719 --> 00:03:59,199
+E hoje, até hoje, na Constituição Federal, a gente tem um artigo 19 em Ciso III, que fala
+
+46
+00:03:59,199 --> 00:04:05,319
+que é vedado ao Nenho aos Estados, ao Distrito Federal e aos Municípios, estabelecer
+
+47
+00:04:05,319 --> 00:04:10,479
+alguma lógica de privilégio para os brasileiros.
+
+48
+00:04:10,479 --> 00:04:17,959
+Está lá no artigo 19 em Ciso III, é vedado aos entes federativos, criar distinções entre
+
+49
+00:04:17,959 --> 00:04:20,680
+C, e preferências entre brasileiros.
+
+50
+00:04:20,680 --> 00:04:27,479
+Eu adoraria, de fato, ser marques de curitiba, barão do Paraná ou qualquer coisa do
+
+51
+00:04:27,479 --> 00:04:32,399
+gênero, mas não posso, porque numa República não há essa possibilidade todos estão
+
+52
+00:04:32,399 --> 00:04:35,479
+no plano formal de igualdade.
+
+53
+00:04:35,479 --> 00:04:40,240
+Só que é bem verdade que a gente vai se dedicar mais tarde a estudar um pouco dessa
+
+54
+00:04:40,240 --> 00:04:46,000
+igualdade, porque a gente também já traz das impressões outras do direito condicional,
+
+55
+00:04:46,000 --> 00:04:51,399
+porque a igualdade naquela sepção formal, fria, todo o São Igoais, perante a lei,
+
+56
+00:04:51,399 --> 00:04:53,319
+ela pouco é transformadora.
+
+57
+00:04:53,319 --> 00:05:00,199
+Se formos tratar todos como Igoais, primeiros de não conseguiria, porque a realidade mostra
+
+58
+00:05:00,199 --> 00:05:01,759
+que não somos todos iguais.
+
+59
+00:05:01,759 --> 00:05:06,600
+A gente olha pela janela e vê ela fora pessoas didades diferentes, creedos, diferentes
+
+60
+00:05:06,600 --> 00:05:10,000
+culturas, línguas, e falo só do Brasil.
+
+61
+00:05:10,000 --> 00:05:15,079
+Agora, a partir do presuposto de que tratar todos de forma igual é algo impulsivo, nós
+
+62
+00:05:15,079 --> 00:05:20,680
+tentaríamos uma providência que nivelaria pelo interesse da maioria e, fatalmente, a cabaria
+
+63
+00:05:20,680 --> 00:05:26,159
+prejudicando uma minoria, só que óbvio, isso não é condizente, isso não é compatível,
+
+64
+00:05:26,159 --> 00:05:30,360
+de forma alguma, com o princípio republicano, que é de estar tentando investigar.
+
+65
+00:05:30,360 --> 00:05:37,039
+Mas por enquanto, eu posso reiterar assim que lá nas repúblicas há uma igualdade, ela
+
+66
+00:05:37,039 --> 00:05:42,000
+é fundada na igualdade formal entre as pessoas, mas não é só isso não, você pode acompanhar
+
+67
+00:05:42,000 --> 00:05:47,600
+aí na tela comigo, que também nas repúblicas há uma representatividade, os mandatos
+
+68
+00:05:47,600 --> 00:05:51,959
+são exercidos com o consenso do povo real titular do poder.
+
+69
+00:05:51,959 --> 00:05:56,920
+Olha, isso pode parecer um pouco redundante com o bássimo que eu já falei, mas é que
+
+70
+00:05:56,920 --> 00:06:02,120
+a gente tem que tomar muito cuidado, a gente tem que lembrar que a titularidade do poder
+
+71
+00:06:02,120 --> 00:06:07,879
+numa república, como a nossa federativa do Brasil, ela cabe ao povo, nós somos os titulares
+
+72
+00:06:07,879 --> 00:06:09,360
+do poder ponto.
+
+73
+00:06:09,360 --> 00:06:15,800
+O preângulo da Constituição fala, nós representantes do povo promulgamos a Constituição,
+
+74
+00:06:15,800 --> 00:06:17,759
+parentes, novamente.
+
+75
+00:06:17,759 --> 00:06:24,120
+Eu não gosto muito dessa expressão, nós representantes do povo, ao vinho distanciamento, aqui
+
+76
+00:06:24,120 --> 00:06:30,520
+talvez, daquela lógica que regeu a Criação da Constituição americana, com o preângulo,
+
+77
+00:06:30,520 --> 00:06:35,600
+fala William Pippo, o nosso povo, que o Brasil adotou uma dinâmica diferente, falando,
+
+78
+00:06:35,600 --> 00:06:37,640
+que é representante do povo.
+
+79
+00:06:37,640 --> 00:06:43,280
+Mas ainda que tenha sido praticado uma gafel, o artigo primeiro, parágrafo único da
+
+80
+00:06:43,280 --> 00:06:46,360
+Constituição, é muito direto.
+
+81
+00:06:46,360 --> 00:06:52,640
+Todo o poder é mana do povo, que o exércio diretamente, o por meio de representantes,
+
+82
+00:06:52,640 --> 00:06:53,640
+concorda?
+
+83
+00:06:53,640 --> 00:07:00,080
+Então tá lá, essa é uma inclusive máxima que vai rejeir toda a nossa conversa, respeito
+
+84
+00:07:00,080 --> 00:07:01,080
+da república.
+
+85
+00:07:01,079 --> 00:07:06,079
+E também, já que estou falando desse artigo primeiro, parágrafo terceiro, para reforçar
+
+86
+00:07:06,079 --> 00:07:10,479
+algo que você acabou de ler, que é a titularidade do poder, é do povo.
+
+87
+00:07:10,479 --> 00:07:15,919
+Eu lembro contigo que a adulterina reconhece, e o Supremo Tribunal Federal também dá uns
+
+88
+00:07:15,919 --> 00:07:21,560
+flertes nesse sentido, a existência de limites materiais implícitos ao poder de reforma.
+
+89
+00:07:21,560 --> 00:07:27,360
+Quer dizer, tem coisas que estão no texto constitucional que obviamente não podem ser mudadas.
+
+90
+00:07:27,360 --> 00:07:30,399
+São os cláusulas pétreras, daqui a pouco vou falar sobre isso.
+
+91
+00:07:30,399 --> 00:07:36,319
+Mas tem pontos que mesmo não estando expressos no texto constitucional, não podem ser
+
+92
+00:07:36,319 --> 00:07:42,799
+objeto de mudança, são limites materiais implícitos, e a adulterina aponta que a titularidade
+
+93
+00:07:42,799 --> 00:07:48,639
+do poder é algo que, em que pese, não ser cláusula pétrera, não pode ser abolida.
+
+94
+00:07:48,639 --> 00:07:49,639
+Concorda?
+
+95
+00:07:49,639 --> 00:07:54,759
+Algo um tempo atrás, inclusive, lá no Congresso Nacional, um determinado senador apresentou
+
+96
+00:07:54,759 --> 00:08:01,599
+uma proposta de emenda a constituição para mudar o artigo primeiro parágrafo único,
+
+97
+00:08:01,599 --> 00:08:05,360
+dizendo que a titularidade do poder era de Deus.
+
+98
+00:08:05,360 --> 00:08:09,959
+Aquilo ali foi um tanto quanto rechassado no âmbito interno do Congresso Nacional.
+
+99
+00:08:09,959 --> 00:08:14,759
+Tudo bem, cada um tem a fé que quer, você pode acreditar nisso, não há problema algum,
+
+100
+00:08:14,759 --> 00:08:18,680
+mas deixemos uma coisa de um lado e outra coisa de outro lado.
+
+101
+00:08:18,680 --> 00:08:19,680
+Concorda?
+
+102
+00:08:19,680 --> 00:08:24,560
+Muito bem, agora voltando aqui à lógica da República, já que eu falei nesse
+
+103
+00:08:24,560 --> 00:08:30,160
+negócio de limite material implícito, falei sobre a existência de pontos que, embora
+
+104
+00:08:30,160 --> 00:08:35,120
+não estejam previstos de forma expressa no texto consenual, não podem ser objeto de mudança,
+
+105
+00:08:35,120 --> 00:08:40,559
+eu faço pra você a pergunta que está aí na sua tela, veja lá, a República, ela é
+
+106
+00:08:40,559 --> 00:08:42,399
+uma cláusula pétria.
+
+107
+00:08:42,399 --> 00:08:48,639
+Então, quando a gente pega a constituição para analisar formalmente o artigo 60, lá
+
+108
+00:08:48,639 --> 00:08:54,000
+no parágrafo quarto, a gente nota que não será admitida a proposta de emenda consenual
+
+109
+00:08:54,000 --> 00:09:00,639
+tendente a abolir a forma federativa de estado, o voto direto, secreto universal e periódico,
+
+110
+00:09:00,639 --> 00:09:05,480
+a separação de poderes, os direitos e as garantias individuais.
+
+111
+00:09:05,480 --> 00:09:08,320
+Deixando de lado dessas três, eu me concentro na primeira.
+
+112
+00:09:08,320 --> 00:09:13,360
+A cláusula pétria, o limite material espresso que está lá no ensizundo, 60 parágrafo
+
+113
+00:09:13,360 --> 00:09:16,559
+quarto, é a forma federativa de estado.
+
+114
+00:09:16,559 --> 00:09:22,840
+E essa forma federativa, ao mesmo tempo que é protegida pro cláusula pétria, ela é protegida
+
+115
+00:09:22,840 --> 00:09:28,080
+pela expressão indissoluve, que consta lá no artigo primeiro da constituição.
+
+116
+00:09:28,080 --> 00:09:32,440
+O artigo primeiro da condição fala que a República Federativa do Brasil é formada pela
+
+117
+00:09:32,440 --> 00:09:38,320
+União indissoluve dos Estados, do Distrito Federal e dos Municípios.
+
+118
+00:09:38,320 --> 00:09:43,720
+Mas aí eu não posso mesmo correr no risco, descapar um pouquinho do nosso fio condutor,
+
+119
+00:09:43,720 --> 00:09:47,759
+eu não posso deixar de criticar o artigo primeiro da Constituição brasileira.
+
+120
+00:09:47,759 --> 00:09:50,120
+Sim, ele está errado, concordo.
+
+121
+00:09:50,120 --> 00:09:56,080
+A República Federativa não é formada pela União indissoluve dos Estados, do Distrito Federal
+
+122
+00:09:56,080 --> 00:09:57,080
+e dos Municípios.
+
+123
+00:09:57,080 --> 00:10:03,440
+A República Federativa do Brasil é formada pela União indissoluve, da União dos Estados,
+
+124
+00:10:03,440 --> 00:10:05,480
+do Distrito Federal e dos Municípios.
+
+125
+00:10:05,480 --> 00:10:10,440
+Quando você olha o artigo primeiro, a expressão União vem grafada com letra minúscula,
+
+126
+00:10:10,440 --> 00:10:15,360
+como sinônimo de reunião dos Estados, do Distrito Federal e dos Municípios.
+
+127
+00:10:15,360 --> 00:10:20,240
+Alguns avisado, alguns estrangeiros, por exemplo, que pegasse para analisar a nossa Constituição
+
+128
+00:10:20,240 --> 00:10:25,200
+tentando ler a Federação Brasileira, a partir do artigo primeiro, apenas, chegaria
+
+129
+00:10:25,200 --> 00:10:29,800
+uma conclusão equivocada e entenderia esse estrangeiro que a nossa Federação é formada pela
+
+130
+00:10:29,800 --> 00:10:31,639
+União indissoluve de três membros.
+
+131
+00:10:31,639 --> 00:10:35,000
+Quando na verdade ela é formada pela União indissoluve de quatro.
+
+132
+00:10:35,000 --> 00:10:40,279
+Essa mais impressão que o artigo primeiro traz é desconstruída lá no artigo 18 que fala.
+
+133
+00:10:40,279 --> 00:10:46,240
+A Organização Político de Administrativa do Brasil é formada pela União, agora com
+
+134
+00:10:46,240 --> 00:10:52,000
+letra maiúscula, pessoa jurídica de direito público, Estado, Distrito Federal e Municípios
+
+135
+00:10:52,000 --> 00:10:55,879
+vírgula, todos autónomos nos termos da Constituição.
+
+136
+00:10:55,879 --> 00:11:00,720
+Também é muito corriqueiro, no estudo do direito consicional, alguém confundir a autonomia
+
+137
+00:11:00,720 --> 00:11:04,519
+da União com a soberania da República Federativa do Brasil.
+
+138
+00:11:04,519 --> 00:11:10,039
+Agora a gente sabe que a União é tão autônoma quanto se tem mais entes e que a somatória
+
+139
+00:11:10,039 --> 00:11:16,199
+desses entes autônomos formam todo o que sim, esse sim, é soberano, a República Federativa
+
+140
+00:11:16,199 --> 00:11:19,799
+do Brasil de acordo com o artigo primeiro em Sizum.
+
+141
+00:11:19,799 --> 00:11:22,279
+Mas feita esta observação?
+
+142
+00:11:22,279 --> 00:11:26,480
+Eu volto a pergunta, a República é uma cláusula petria.
+
+143
+00:11:26,480 --> 00:11:32,480
+Então, pessoal, quando a gente olha o artigo 60 parágrafo quarto em Sizum, a gente
+
+144
+00:11:32,480 --> 00:11:37,120
+chega a conclusão óbvia de que não é, não é um limite material expresso, não é
+
+145
+00:11:37,120 --> 00:11:39,000
+uma cláusula petria.
+
+146
+00:11:39,000 --> 00:11:48,220
+Só que há algumas teorizações apontando para a República hoje como limite material
+
+147
+00:11:48,220 --> 00:11:53,320
+implisto a o que não poderia sofrer uma mudança lá no texto consicional.
+
+148
+00:11:53,320 --> 00:11:58,000
+Alguém vai me falar, Antônio, calma lá, tem alguma coisa errada com esteirraciocínio,
+
+149
+00:11:58,000 --> 00:12:05,019
+que eu me lembro que lá em 93 o eleitor brasileiro foi convocado para participar de um plebiscito,
+
+150
+00:12:05,019 --> 00:12:12,799
+um plebiscito que colocou para nós eleitores a escolha entre a forma de governo republicana
+
+151
+00:12:12,799 --> 00:12:17,840
+imonárquica, sistema de governo presidencialista ou parlamentarista.
+
+152
+00:12:17,840 --> 00:12:25,240
+Porque em que pese a constituição ter sido criada, comemção expressa a República Federativa,
+
+153
+00:12:25,240 --> 00:12:27,240
+no modelo presidencialista ainda?
+
+154
+00:12:27,240 --> 00:12:32,879
+Havia uma pressão muito forte no âmbito da Assembleia Nacional Constituinte para transformar
+
+155
+00:12:32,879 --> 00:12:35,759
+o Brasil num sistema parlamentarista.
+
+156
+00:12:35,759 --> 00:12:40,340
+E mesmo o monárquico, é verdade que havia menos peso o discurso monárquico que o
+
+157
+00:12:40,340 --> 00:12:43,000
+parlamentarista, mas ainda assim havia.
+
+158
+00:12:43,000 --> 00:12:47,480
+E aí a ideia foi a seguinte, o consenso foi a seguinte.
+
+159
+00:12:47,480 --> 00:12:55,399
+Pessoal, vamos então deixar como está, vamos fazer aí uma república, uma federação, um
+
+160
+00:12:55,399 --> 00:13:00,519
+plebiscito, uma presidencialista, vamos deixar as coisas acomodarem na saída desta
+
+161
+00:13:00,519 --> 00:13:05,959
+dita dura militar e daqui 5 anos a gente se encontra novamente, não nós representantes
+
+162
+00:13:05,959 --> 00:13:08,720
+do povo como está lá no preâmbulo, não é verdade?
+
+163
+00:13:08,720 --> 00:13:13,279
+Mas nós o povo e nós diretamente vamos votar em plebiscito, se queremos manter as coisas
+
+164
+00:13:13,279 --> 00:13:20,240
+como estão, ou se transformaremos a República imonárquia o presidencialismo em parlamentarismo.
+
+165
+00:13:20,240 --> 00:13:25,120
+Lembrando, inclusive, que o Brasil já passou por experiências parlamentaristas, sim,
+
+166
+00:13:25,120 --> 00:13:31,440
+e não foram poucas nem pequenas, porque na época do império de 1822 até 1889 o Brasil
+
+167
+00:13:31,440 --> 00:13:32,440
+era parlamentarista.
+
+168
+00:13:32,440 --> 00:13:38,320
+E também ali na década de 60, por cerca de 30 meses, houve uma experiência parlamentarista
+
+169
+00:13:38,320 --> 00:13:43,720
+para tentar acomodar o jongular no poder, não deu certo e também em questão de meses
+
+170
+00:13:43,720 --> 00:13:49,879
+depois veio a revolução ou ditadura, você interpreta como quiser, e aí acabou
+
+171
+00:13:49,879 --> 00:13:53,159
+o parlamentarismo, e na verdade acabou tudo, não é verdade?
+
+172
+00:13:53,159 --> 00:13:59,240
+Aí o que aconteceu lá em 1993, o eleitorado brasileiro foi azurnas e com larga, com larga
+
+173
+00:13:59,240 --> 00:14:04,439
+maioria ganhou a República e ganhou o presidencialismo.
+
+174
+00:14:04,439 --> 00:14:11,200
+Só que esta opção popular, esta opção que o povo fez, o povo eleitor fez, reforçou
+
+175
+00:14:11,200 --> 00:14:17,279
+aquele discurso de que a República é uma cláusula pétria em plecita-seem, porque
+
+176
+00:14:17,279 --> 00:14:23,759
+vejam só, agora a gente tem, formalmente, uma manifestação popular, o titular do poder
+
+177
+00:14:23,759 --> 00:14:29,360
+constitui em ter origenário, em plecito lá em 1993 veio as urnas e disse, a gente
+
+178
+00:14:29,360 --> 00:14:31,600
+quer manter a República.
+
+179
+00:14:31,600 --> 00:14:37,240
+Então dado este ponto, tem esse sustentado que sim, a República é um limite material
+
+180
+00:14:37,240 --> 00:14:42,799
+implícito que não poderia, não poderíamos hoje transformar a República numa monarquia,
+
+181
+00:14:42,799 --> 00:14:47,839
+mesmo que há algum discurso nesse sentido, está legal?
+
+182
+00:14:47,839 --> 00:14:54,519
+Então vejam só, não há uma jurisprudência formada nesse ponto, mas nas entrelinhas das
+
+183
+00:14:54,519 --> 00:14:58,359
+jurisprudências do Supremo Tribunal Federal das decisões, melhor dizendo, do Supremo
+
+184
+00:14:58,359 --> 00:15:02,000
+Tribunal Federal a gente pode concluir desta forma, está legal?
+
+185
+00:15:02,000 --> 00:15:07,799
+Pessoal, alguns apontamentos iniciais aqui, que já não são tão iniciais assim, mas
+
+186
+00:15:07,799 --> 00:15:12,719
+agora é para a gente fazer uma problematização a respeito das repúblicas.
+
+187
+00:15:12,719 --> 00:15:19,279
+Eu pergunto para você olhando para a tela, a República atenece, ela apresenta traços
+
+188
+00:15:19,279 --> 00:15:22,359
+distintos em relação à República atual.
+
+189
+00:15:22,359 --> 00:15:31,000
+Sim, porque lá em Atenas, a gente tinha um modo de exercício do poder feito na praça,
+
+190
+00:15:31,000 --> 00:15:32,000
+concorda?
+
+191
+00:15:32,000 --> 00:15:37,759
+Todos, nem todos, se manifestavam, porque a voz era dada apenas aqueles que tinham condições
+
+192
+00:15:37,759 --> 00:15:41,759
+de, enfim, discutir, né?
+
+193
+00:15:41,759 --> 00:15:46,919
+E era uma ideia, um tanto quanto contrário, as permissas considerais brasileiras atuais,
+
+194
+00:15:46,919 --> 00:15:53,559
+porque lá, mulher, nos manifestava, estrangeiro não, era uma minoria que de fato se manifestava.
+
+195
+00:15:53,559 --> 00:15:59,440
+Mas esta forma de organização atenece é bem diferente da lógica atual, sim, porque
+
+196
+00:15:59,440 --> 00:16:04,000
+hoje em dia existem algumas variáveis que lá atrás não existiam.
+
+197
+00:16:04,000 --> 00:16:06,360
+E eu destaquei duas aí na tela para você.
+
+198
+00:16:06,360 --> 00:16:14,160
+Veja lá, o capitalismo e o sistema representativo como desdobramento da extensão das repúblicas,
+
+199
+00:16:14,160 --> 00:16:16,120
+a extensão territorial mesmo.
+
+200
+00:16:16,120 --> 00:16:20,320
+É só você pensar num país como o Brasil, num país como o Brasil.
+
+201
+00:16:20,320 --> 00:16:26,680
+A gente não pode esperar que todos vão a praça e dele berem igualmente abraçados cantando
+
+202
+00:16:26,680 --> 00:16:28,440
+lá uma mesma canção.
+
+203
+00:16:28,440 --> 00:16:31,920
+Não, é todo mundo se matar e não chegar em uma consenso algum.
+
+204
+00:16:31,920 --> 00:16:38,960
+Então, esta forma de exercício do poder que a gente relembra com saldozismo, os livros
+
+205
+00:16:38,960 --> 00:16:44,440
+falam, o modelo atenece, a praça, a água, a coisa e tal, obviamente já não se sustenta
+
+206
+00:16:44,440 --> 00:16:45,440
+mais hoje, né?
+
+207
+00:16:45,440 --> 00:16:50,320
+O capitalismo, eu coloquei para você, porque a gente não pode, a gente não pode ignorar
+
+208
+00:16:50,320 --> 00:16:52,760
+a pressão que ele exerce, né?
+
+209
+00:16:52,759 --> 00:17:00,679
+A gente sabe que a grandes críticas ao sistema capitalista, ao passo que quem o defenda
+
+210
+00:17:00,679 --> 00:17:06,839
+e novamente você decide que lado se quer ficar dessa discussão não há certo nem errado.
+
+211
+00:17:06,839 --> 00:17:11,720
+Mas é verdade que o capitalismo exerce sim uma pressão na sociedade e essa pressão
+
+212
+00:17:11,720 --> 00:17:17,680
+acaba tendendo, às vezes, a prejudicar os interesses da sociedade como todo, lembrando
+
+213
+00:17:17,680 --> 00:17:21,240
+que está intrisco a própria ideia de república.
+
+214
+00:17:21,240 --> 00:17:28,299
+Agora, além disso, e eu coloquei essa lógica atenece, justamente pra gente pensar algo no
+
+215
+00:17:28,299 --> 00:17:31,200
+final dessa aula, acompanhe comigo aí na tela.
+
+216
+00:17:31,200 --> 00:17:37,759
+Atualmente, muitos falem democracia, mas poucos falem república, mas para aquela
+
+217
+00:17:37,759 --> 00:17:42,279
+existir é necessário o alinhamento aos princípios republicanos.
+
+218
+00:17:42,279 --> 00:17:44,120
+O que eu quero com essa fala?
+
+219
+00:17:44,120 --> 00:17:49,400
+Então, é mais uma vez reforçar a primeira pergunta que eu fiz pra você.
+
+220
+00:17:49,480 --> 00:17:53,759
+Lá na primeira aula, os primeiros minutos se eu perguntem, existe diferença entre
+
+221
+00:17:53,759 --> 00:17:55,720
+democracia e república?
+
+222
+00:17:55,720 --> 00:18:00,120
+O são coisas idênticas, naturalmente há diferença.
+
+223
+00:18:00,120 --> 00:18:04,160
+A diferença é, a gente vai trabalhar na próxima aula, por enquanto eu apenas reforço
+
+224
+00:18:04,160 --> 00:18:06,080
+continuo que há uma diferença.
+
+225
+00:18:06,080 --> 00:18:11,800
+E que hoje tem cedito que a democracia vai qualificar aliás, que a república vai qualificar
+
+226
+00:18:11,800 --> 00:18:16,360
+a democracia e, a quem digo o contrário também, são coisas que vão se complementar
+
+227
+00:18:16,439 --> 00:18:22,240
+na construção de uma realidade compatível com essas noções que estamos aqui debatendo
+
+228
+00:18:22,240 --> 00:18:28,479
+de um consenso, de uma atenção aos ideais comuns e por aí vai.
+
+229
+00:18:28,479 --> 00:18:34,839
+Eu vou encerrando a aula, só deixando pra você uma última pergunta, veja aí na tela.
+
+230
+00:18:34,839 --> 00:18:40,359
+A diferença entre democracia e república, claro que há, você pode notar inclusive
+
+231
+00:18:40,359 --> 00:18:44,199
+aqui, nessa decisão do Supremo Tribunal Federal.
+
+232
+00:18:44,200 --> 00:18:50,519
+Ela não vai trabalhar exatamente a diferença entre um princípio e outro, mas como você
+
+233
+00:18:50,519 --> 00:18:55,920
+pode ler agora na tela, está destacado em vermelho, você tem a imensão ao princípio
+
+234
+00:18:55,920 --> 00:18:58,799
+democrático e ao princípio republicano.
+
+235
+00:18:58,799 --> 00:19:04,680
+Então, se o Supremo Tribunal Federal faz imensão a um e a outro, naturalmente há diferença.
+
+236
+00:19:04,680 --> 00:19:06,720
+Claro que há diferença entre um e outro.
+
+237
+00:19:06,720 --> 00:19:08,440
+Agora qual é a diferença?
+
+238
+00:19:08,440 --> 00:19:14,039
+Então, a gente vai ver lá na próxima aula no próximo bloco, por enquanto no
+
+239
+00:19:14,039 --> 00:19:15,920
+novamente eu agradeço a sua atenção.
+
+240
+00:19:15,920 --> 00:19:18,839
+Me despeço, ansioso por ver lá, vê-lo no próximo encontro.
